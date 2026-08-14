@@ -1,0 +1,416 @@
+// Viral Coin Radar — data model.
+//
+// Design note: metrics are never stored as a single mutable "current" value that
+// could drift into fiction. Every observation is an append-only MetricSnapshot
+// carrying its own source + confidence, and all velocity/acceleration figures are
+// derived from consecutive snapshots at read time.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Platform {
+  TIKTOK
+  INSTAGRAM
+  X
+}
+
+/// Where a number came from. Anything not OFFICIAL_API / PUBLIC_PAGE is
+/// surfaced in the UI as not-directly-verified.
+enum MetricSource {
+  OFFICIAL_API
+  PUBLIC_PAGE
+  THIRD_PARTY_AGGREGATOR
+  SYNTHETIC_FIXTURE
+  ESTIMATED
+}
+
+enum ConfidenceLevel {
+  HIGH
+  MEDIUM
+  LOW
+  UNVERIFIED
+}
+
+enum LinkHealth {
+  OK
+  REDIRECTED
+  UNREACHABLE
+  NOT_ORIGINAL
+  ACCOUNT_MISMATCH
+  ACCESS_RESTRICTED
+  UNCHECKED
+}
+
+enum VerificationState {
+  VERIFIED
+  PARTIALLY_VERIFIED
+  UNVERIFIED
+  REJECTED
+}
+
+enum ContentCategory {
+  ANIMAL
+  CAT_OR_DOG
+  CHARACTER
+  VISUAL_JOKE
+  CATCHPHRASE
+  SLANG
+  BRAINROT
+  SPORTS_REACTION
+  AI_MEME
+  NEWS_MOMENT
+  TRANSFORMATION
+  CHALLENGE
+  DANCE
+  FOOD
+  OTHER
+}
+
+enum ScreeningStatus {
+  CLEAN
+  DUST_ONLY
+  OCCUPIED
+  UNCERTAIN
+}
+
+enum TokenQuality {
+  GENUINE
+  ABANDONED
+  DUST_LAUNCH
+  UNKNOWN
+}
+
+enum MomentumTrend {
+  ACCELERATING
+  STEADY
+  DECAYING
+  UNKNOWN
+}
+
+enum ScanStatus {
+  QUEUED
+  RUNNING
+  SUCCEEDED
+  PARTIAL
+  FAILED
+}
+
+enum JobStatus {
+  QUEUED
+  RUNNING
+  SUCCEEDED
+  FAILED
+  DEAD
+}
+
+enum HealthState {
+  HEALTHY
+  DEGRADED
+  RATE_LIMITED
+  CREDENTIALS_MISSING
+  DOWN
+}
+
+enum RiskKind {
+  COPYRIGHT
+  IDENTITY
+  AFFILIATION
+  TRAGEDY
+  POLITICS
+  WEAK_SOURCING
+  SPONSORED
+  MINOR_SUBJECT
+  ADULT_CONTENT
+}
+
+enum RiskSeverity {
+  INFO
+  FLAG
+  EXCLUDE
+}
+
+model SocialAccount {
+  id              String   @id @default(cuid())
+  platform        Platform
+  handle          String
+  displayName     String?
+  profileUrl      String
+  avatarUrl       String?
+  followerCount   Int?
+  verifiedAccount Boolean  @default(false)
+  /// Best-effort audience language inference; null when unknown rather than guessed.
+  primaryLanguage String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  posts SocialPost[]
+
+  @@unique([platform, handle])
+  @@index([platform, followerCount])
+}
+
+model SocialPost {
+  id                  String        @id @default(cuid())
+  platform            Platform
+  /// Platform-native post id, used for dedupe across scans.
+  platformPostId      String
+  url                 String
+  accountId           String
+  account             SocialAccount @relation(fields: [accountId], references: [id], onDelete: Cascade)
+  caption             String?
+  thumbnailUrl        String?
+  embedUrl            String?
+  /// True when the platform permits third-party embedding of this post.
+  embedAllowed        Boolean       @default(false)
+  postedAt            DateTime
+  language            String?
+  /// Share of sampled comments detected as English. 0..1, null when not sampled.
+  englishCommentRatio Float?
+  hashtags            String[]      @default([])
+  discoveredAt        DateTime      @default(now())
+  createdAt           DateTime      @default(now())
+  updatedAt           DateTime      @updatedAt
+
+  snapshots  MetricSnapshot[]
+  candidates ViralCandidate[]
+
+  @@unique([platform, platformPostId])
+  @@index([platform, postedAt])
+}
+
+/// Append-only. Never updated in place.
+model MetricSnapshot {
+  id            String          @id @default(cuid())
+  postId        String
+  post          SocialPost      @relation(fields: [postId], references: [id], onDelete: Cascade)
+  capturedAt    DateTime
+  views         BigInt?
+  likes         BigInt?
+  comments      BigInt?
+  shares        BigInt?
+  saves         BigInt?
+  followerCount Int?
+  source        MetricSource
+  confidence    ConfidenceLevel
+  /// Raw provider payload hash for auditability.
+  rawHash       String?
+  createdAt     DateTime        @default(now())
+
+  @@index([postId, capturedAt])
+}
+
+model ViralCandidate {
+  id        String     @id @default(cuid())
+  postId    String
+  post      SocialPost @relation(fields: [postId], references: [id], onDelete: Cascade)
+  scanRunId String?
+  scanRun   ScanRun?   @relation(fields: [scanRunId], references: [id], onDelete: SetNull)
+
+  category               ContentCategory
+  memeHook               String
+  whyItLands             String
+  mascotDirection        String
+  similarHistoricalMemes String[]        @default([])
+  communityContentIdeas  String[]        @default([])
+
+  // --- Scoring (each component is bounded by the published weights) ---
+  viralityScore    Float // 0..25
+  recencyScore     Float // 0..20
+  clarityScore     Float // 0..15
+  mascotScore      Float // 0..15
+  pfpScore         Float // 0..10
+  englishScore     Float // 0..5
+  originalityScore Float // 0..5
+  cleanScreenScore Float // 0..5
+  penaltyTotal     Float @default(0)
+  opportunityScore Float // 0..100 after penalties
+
+  // Display-facing normalised 0..100 sub-scores for the UI badges.
+  memeabilityScore  Float
+  freshnessScore    Float
+  pfpPotentialScore Float
+
+  verificationState VerificationState @default(UNVERIFIED)
+  linkHealth        LinkHealth        @default(UNCHECKED)
+  lastVerifiedAt    DateTime?
+  metricSource      MetricSource
+  confidence        ConfidenceLevel
+
+  momentum        MomentumTrend @default(UNKNOWN)
+  excluded        Boolean       @default(false)
+  exclusionReason String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  concepts   TokenConcept[]
+  risks      RiskNote[]
+  savedIdeas SavedIdea[]
+  rejections Rejection[]
+
+  @@index([opportunityScore])
+  @@index([scanRunId])
+}
+
+model TokenConcept {
+  id              String          @id @default(cuid())
+  candidateId     String
+  candidate       ViralCandidate  @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  name            String
+  ticker          String
+  rationale       String
+  /// false for the auto-generated alternates offered when the primary is occupied.
+  isPrimary       Boolean         @default(false)
+  screeningStatus ScreeningStatus @default(UNCERTAIN)
+  /// Literal queries issued against the token index, stored so the UI can state
+  /// exactly what was searched instead of claiming a concept "has never existed".
+  searchedQueries String[]        @default([])
+  searchedAt      DateTime?
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+
+  results TokenSearchResult[]
+
+  @@index([candidateId])
+  @@index([ticker])
+}
+
+model TokenSearchResult {
+  id               String          @id @default(cuid())
+  conceptId        String
+  concept          TokenConcept    @relation(fields: [conceptId], references: [id], onDelete: Cascade)
+  /// Which of exact-ticker / exact-name / variant / subject / linked-post matched.
+  matchType        String
+  mintAddress      String?
+  tokenName        String
+  tokenTicker      String
+  tokenUrl         String?
+  marketCapUsd     Float?
+  athMarketCapUsd  Float?
+  createdOnIndexAt DateTime?
+  holders          Int?
+  quality          TokenQuality    @default(UNKNOWN)
+  source           MetricSource
+  confidence       ConfidenceLevel
+  observedAt       DateTime
+  createdAt        DateTime        @default(now())
+
+  @@index([conceptId])
+}
+
+model RiskNote {
+  id          String         @id @default(cuid())
+  candidateId String
+  candidate   ViralCandidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  kind        RiskKind
+  severity    RiskSeverity
+  note        String
+  createdAt   DateTime       @default(now())
+
+  @@index([candidateId])
+}
+
+/// Registry row describing which adapter implementation is wired for a platform.
+model PlatformProviderRecord {
+  id                 String   @id @default(cuid())
+  platformKey        String   @unique
+  adapterName        String
+  mode               String // "fixture" | "http"
+  requiresCredential String?
+  enabled            Boolean  @default(true)
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model ScanRun {
+  id            String     @id @default(cuid())
+  trigger       String // "scheduled" | "manual" | "backfill"
+  status        ScanStatus @default(QUEUED)
+  startedAt     DateTime   @default(now())
+  finishedAt    DateTime?
+  platforms     Platform[] @default([])
+  /// Serialised DiscoveryFilters used for this run.
+  filters       Json?
+  postsSeen     Int        @default(0)
+  postsAccepted Int        @default(0)
+  postsRejected Int        @default(0)
+  errorCount    Int        @default(0)
+  notes         String?
+
+  candidates ViralCandidate[]
+
+  @@index([startedAt])
+}
+
+model Job {
+  id          String    @id @default(cuid())
+  queue       String
+  name        String
+  payload     Json
+  status      JobStatus @default(QUEUED)
+  attempts    Int       @default(0)
+  maxAttempts Int       @default(3)
+  runAt       DateTime  @default(now())
+  startedAt   DateTime?
+  finishedAt  DateTime?
+  lastError   String?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@index([queue, status, runAt])
+}
+
+model SavedIdea {
+  id          String         @id @default(cuid())
+  candidateId String
+  candidate   ViralCandidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  note        String?
+  createdAt   DateTime       @default(now())
+
+  @@unique([candidateId])
+}
+
+model Rejection {
+  id          String         @id @default(cuid())
+  candidateId String
+  candidate   ViralCandidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  reason      String
+  /// "user" for manual rejects, "system" for pipeline exclusions.
+  origin      String         @default("user")
+  createdAt   DateTime       @default(now())
+
+  @@unique([candidateId])
+}
+
+model DataSourceHealth {
+  id                  String      @id @default(cuid())
+  sourceKey           String      @unique
+  state               HealthState @default(HEALTHY)
+  lastSuccessAt       DateTime?
+  lastFailureAt       DateTime?
+  lastError           String?
+  consecutiveFailures Int         @default(0)
+  rateLimitResetAt    DateTime?
+  /// Rolling counters reset by the scheduler each day.
+  requestsToday       Int         @default(0)
+  updatedAt           DateTime    @updatedAt
+
+  @@index([state])
+}
+
+/// Cached provider responses (HTTP + token index) so repeated scans and page
+/// loads don't re-hit rate-limited upstreams.
+model CacheEntry {
+  key       String   @id
+  value     Json
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([expiresAt])
+}

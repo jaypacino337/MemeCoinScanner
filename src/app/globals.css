@@ -1,0 +1,98 @@
+@import 'tailwindcss';
+
+/*
+ * Viral Coin Radar — terminal theme.
+ * Dark by design (this is a monitoring surface, not a document), but tuned for
+ * readability: body text sits at ~11:1 contrast, not the muddy grey that most
+ * "trading terminal" themes settle for.
+ */
+@theme {
+  --color-void: #07080a;
+  --color-charcoal: #0d0f13;
+  --color-panel: #14171d;
+  --color-panel-raised: #1b1f27;
+  --color-hairline: #262b35;
+  --color-hairline-strong: #363d4a;
+
+  --color-ink: #f2f5f9;
+  --color-ink-muted: #a7b0c0;
+  --color-ink-faint: #6c7688;
+
+  --color-accent: #6ee7ff;
+  --color-accent-dim: #1e6f80;
+
+  --color-tiktok: #25f4ee;
+  --color-tiktok-alt: #fe2c55;
+  --color-instagram: #e1306c;
+  --color-instagram-alt: #f7a53b;
+  --color-x: #e7e9ea;
+  --color-x-alt: #1d9bf0;
+
+  --color-clean: #34d399;
+  --color-clean-dim: #10462f;
+  --color-caution: #fbbf24;
+  --color-caution-dim: #4a3410;
+  --color-occupied: #f87171;
+  --color-occupied-dim: #4c1d1d;
+  --color-neutral-badge: #64748b;
+
+  --font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--color-void);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: 'tnum' 1;
+}
+
+/* Tabular numerals everywhere metrics appear, so columns don't jitter. */
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -600px 0;
+  }
+  100% {
+    background-position: 600px 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--color-panel) 0%,
+    var(--color-panel-raised) 45%,
+    var(--color-panel) 90%
+  );
+  background-size: 600px 100%;
+  animation: shimmer 1.4s infinite linear;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton {
+    animation: none;
+  }
+}
+
+::selection {
+  background: var(--color-accent-dim);
+  color: var(--color-ink);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Thin scrollbars so dense tables don't lose horizontal space. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-hairline-strong) transparent;
+}
