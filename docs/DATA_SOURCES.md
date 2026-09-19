@@ -171,6 +171,41 @@ establish that.
 
 ---
 
+## Wallet scanner
+
+`SOLANA_RPC_URL` can be any standard Solana JSON-RPC endpoint — the public
+mainnet RPC, Helius, QuickNode, Triton, or your own node. No custom contract is
+involved: the scanner uses only `getSignaturesForAddress` and `getTransaction`.
+
+```
+SOLANA_RPC_URL="https://api.mainnet-beta.solana.com"
+# or e.g. https://mainnet.helius-rpc.com/?api-key=<key>
+```
+
+With `DATA_MODE=live` and this set, `/wallets` (and `npm run scan:wallet`)
+reads the wallet's real transactions for the selected UTC day and derives
+swaps from balance deltas: a transaction counts as a swap only when exactly
+one non-SOL token holding changed against an opposite SOL (or wrapped-SOL)
+flow. Token-to-token routes are listed with no SOL price rather than priced by
+guesswork, and anything unclassifiable is counted and reported as unparsed.
+
+The same honesty rules as everywhere else apply:
+
+- **Realized PnL** exists only for round trips completed inside the scanned
+  window. A sell of tokens bought before the window has no observed cost basis
+  and is labelled `SELL_ONLY`, not scored.
+- **Unrealized PnL is never shown** — the scanner does not fetch current
+  prices, so it does not pretend to know them.
+- Truncated pagination, RPC failures, and unparsed transactions all surface in
+  the report note and the strategy profile's caveats, never silently.
+- Public RPC endpoints rate-limit aggressively; for a busy wallet use a keyed
+  endpoint and/or raise `WALLET_SCAN_MAX_TRANSACTIONS` (default 1000).
+
+Without `SOLANA_RPC_URL`, the page serves a deterministic synthetic trading
+day tagged `SYNTHETIC_FIXTURE` and says so in a banner.
+
+---
+
 ## Link verification
 
 Independent of platform credentials, every candidate URL passes:
