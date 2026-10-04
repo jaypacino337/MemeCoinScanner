@@ -630,6 +630,33 @@
   "lastActive": "2026-08-15"
  },
  {
+  "name": "GlowPad",
+  "aliases": [
+   "EGO-style launchpad"
+  ],
+  "ticker": "$GLOWPAD",
+  "sessionIds": [
+   "session_019b1PNnWUC5NnWVUqjBUvaP"
+  ],
+  "repo": "CLONE@main",
+  "kind": "launchpad",
+  "concept": "Launchpad that turns any Solana token into an AI influencer; launch is user-signed on pump.fun, posts on X from day one and unlocks TikTok + Instagram when the coin graduates.",
+  "themeKeywords": [
+   "ai agent",
+   "influencer",
+   "launchpad",
+   "tiktok",
+   "instagram"
+  ],
+  "referenceSite": "egopad.fun",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Needs Postgres, Vercel deploy, X/TikTok/Meta app keys and approvals, FAL_KEY + ANTHROPIC_API_KEY"
+  ],
+  "lastActive": "2026-10-04"
+ },
+ {
   "name": "Go Fund Memes",
   "aliases": [
    "GoFundMeme.fun",
