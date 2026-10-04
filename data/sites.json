@@ -113,35 +113,6 @@
   "previewUrl": "https://attnmarkets.fun"
  },
  {
-  "name": "AuraPad",
-  "aliases": [
-   "GlowPad",
-   "EGO-style launchpad"
-  ],
-  "ticker": "$AURA",
-  "sessionIds": [
-   "session_019b1PNnWUC5NnWVUqjBUvaP"
-  ],
-  "repo": "CLONE@main",
-  "kind": "launchpad",
-  "concept": "AI-influencer launchpad for Solana memecoins: user-signed pump.fun launch with the fee split locked on-chain (20% $AURA buyback-burn, AI treasury, creator), spending policy, agent loop, Studio, voice, and X/TikTok/Instagram posting chosen per coin.",
-  "themeKeywords": [
-   "ai agent",
-   "influencer",
-   "launchpad",
-   "tiktok",
-   "instagram",
-   "aura"
-  ],
-  "referenceSite": "egopad.fun",
-  "liveUrl": null,
-  "readiness": "built-not-deployed",
-  "openIssues": [
-   "Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $AURA token not launched"
-  ],
-  "lastActive": "2026-10-04"
- },
- {
   "name": "BasketLaunch",
   "aliases": [
    "feesh.wtf clone",
@@ -1170,6 +1141,36 @@
    "Lighter adapter not smoke-tested against live endpoints"
   ],
   "lastActive": "2026-08-15"
+ },
+ {
+  "name": "Persona",
+  "aliases": [
+   "AuraPad",
+   "GlowPad",
+   "EGO-style launchpad"
+  ],
+  "ticker": "$PERSONA",
+  "sessionIds": [
+   "session_019b1PNnWUC5NnWVUqjBUvaP"
+  ],
+  "repo": "CLONE@main",
+  "kind": "launchpad",
+  "concept": "AI-influencer launchpad for Solana memecoins: user-signed pump.fun launch with the fee split locked on-chain (20% $AURA buyback-burn, AI treasury, creator), spending policy, agent loop, Studio, voice, and X/TikTok/Instagram posting chosen per coin.",
+  "themeKeywords": [
+   "ai agent",
+   "influencer",
+   "launchpad",
+   "tiktok",
+   "instagram",
+   "persona"
+  ],
+  "referenceSite": "egopad.fun",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $AURA token not launched"
+  ],
+  "lastActive": "2026-10-04"
  },
  {
   "name": "PitBrokers",
