@@ -272,6 +272,34 @@
   "lastActive": "2026-08-14"
  },
  {
+  "name": "CLAWSIFIED",
+  "aliases": [
+   "Agent 00Paw",
+   "SIA relaunch"
+  ],
+  "ticker": "$CLAWSF",
+  "sessionIds": [
+   "session_019b1PNnWUC5NnWVUqjBUvaP"
+  ],
+  "repo": "lC@claude/ai-relaunch (/clawsified)",
+  "kind": "memecoin-site",
+  "concept": "Spy agency of AI cats that tail wallets on-chain and rank the best traders; relaunch of Super Intelligence Agency with a cat mascot and a shareable dossier generator.",
+  "themeKeywords": [
+   "cat",
+   "ai agent",
+   "spy",
+   "wallet",
+   "leaderboard"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Needs Vercel project (root dir clawsified), domain, and pump.fun launch"
+  ],
+  "lastActive": "2026-10-04"
+ },
+ {
   "name": "CLONE",
   "aliases": [],
   "ticker": null,
@@ -385,9 +413,7 @@
   "liveUrl": null,
   "readiness": "built-not-deployed",
   "openIssues": [
-   "Not deployed; production-ready Docker setup but no host chosen (Fly/Railway/Render)",
-   "No PR created",
-   "Original reference site never seen"
+   "Ready to deploy: GPU@claude/gpu-game-clone-d3g2bf — static Vercel deploy, leaderboard Docker-only"
   ],
   "lastActive": "2026-09-21"
  },
@@ -505,6 +531,34 @@
    "No token, links or deploy configured"
   ],
   "lastActive": "2026-08-02"
+ },
+ {
+  "name": "FOREMAN",
+  "aliases": [
+   "BUILD",
+   "buildagent.fun clone"
+  ],
+  "ticker": "$FOREMAN",
+  "sessionIds": [
+   "session_01Df73vwctjYiM3fSWRh446E",
+   "session_019b1PNnWUC5NnWVUqjBUvaP"
+  ],
+  "repo": "lC@build-agent",
+  "kind": "launchpad",
+  "concept": "Hire an AI builder agent that trades pump.fun memecoins in a 3D office; rebuilt backend runs end to end in paper mode on real prices.",
+  "themeKeywords": [
+   "ai agent",
+   "trader",
+   "builder",
+   "launchpad"
+  ],
+  "referenceSite": "buildagent.fun (user's own site)",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Needs its own repo + Vercel import + Upstash Redis; live trading not wired"
+  ],
+  "lastActive": "2026-10-04"
  },
  {
   "name": "FSVO volume market-maker",
@@ -654,6 +708,35 @@
    "The 'goatse' name will likely be rejected by ad review and moderation"
   ],
   "lastActive": "2026-09-21"
+ },
+ {
+  "name": "HamGPT",
+  "aliases": [
+   "Cheekbot",
+   "LocalLM relaunch",
+   "FreeLM"
+  ],
+  "ticker": "$HAMGPT",
+  "sessionIds": [
+   "session_019b1PNnWUC5NnWVUqjBUvaP"
+  ],
+  "repo": "lC@claude/ai-relaunch (/hamgpt)",
+  "kind": "memecoin-site",
+  "concept": "A hamster in a headset that routes prompts to free-tier AI models and stuffs his cheeks with tokens; relaunch of LocalLM/FreeLM with a mascot and a chat demo.",
+  "themeKeywords": [
+   "hamster",
+   "ai",
+   "gpt",
+   "llm",
+   "free tier"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Needs Vercel project (root dir hamgpt), domain, and pump.fun launch"
+  ],
+  "lastActive": "2026-10-04"
  },
  {
   "name": "HODL OR NO HODL",
@@ -824,11 +907,9 @@
   ],
   "referenceSite": null,
   "liveUrl": "https://locallm.fun",
-  "readiness": "live",
+  "readiness": "abandoned",
   "openIssues": [
-   "Buyback allocation % not published (marked 'planned')",
-   "Burn-for-compute not live yet",
-   "Site says model in development, account access not live"
+   "Relaunched as HamGPT (lC@claude/ai-relaunch)"
   ],
   "lastActive": "2026-10-02"
  },
@@ -1401,18 +1482,7 @@
   "liveUrl": "https://agencypad.fun",
   "readiness": "live",
   "openIssues": [
-   "agencypad.fun still serves the old AGENCY branding; the Sentia rebrand is on hodl@claude/sentia-rebrand, not deployed",
-   "Sentia rebrand is on branch claude/sentia-rebrand; Vercel still serves AgencyPad from main and needs a merge (waiting on user OK)",
-   "No wallet connect / real pump.fun token creation",
-   "No backend to save launched agents",
-   "Fee split only simulated",
-   "AI video engine not hooked up",
-   "Only a concept artifact page; no backend, token launcher or video generation",
-   "Portraits are stylised canvas placeholders",
-   "User has not answered whether to build it for real",
-   "Merged to main; Vercel should auto-build, but this was never confirmed live",
-   "A stale Root Directory setting in Vercel may break the build",
-   "Demo launches only; no real launch contracts and the roster is example data"
+   "Rebrand finished on HODL@claude/sentia-rebrand; awaiting merge to main. Real pump.fun launch flow not built yet"
   ],
   "lastActive": "2026-10-04",
   "previewUrl": "https://claude.ai/artifact/Tx2psKwptPt4QF4kYFAhUd"
@@ -1544,9 +1614,7 @@
   "liveUrl": null,
   "readiness": "built-not-deployed",
   "openIssues": [
-   "Brewer is a browser-only demo; the real crawl, launch and score backend does not exist",
-   "Vat ledger empty and $SLUDGE features badged PLANNED",
-   "Repo still not hosted"
+   "Ready to deploy: lC@claude/longdog-site-design-kguow6 — needs Vercel import + absolute og:image"
   ],
   "lastActive": "2026-09-25",
   "previewUrl": "https://claude.ai/artifact/YHot73qyJ5DyYy5oWRx6C7"
@@ -1651,10 +1719,9 @@
   ],
   "referenceSite": null,
   "liveUrl": "https://superintelligenceagency.fun",
-  "readiness": "live",
+  "readiness": "abandoned",
   "openIssues": [
-   "CA not announced at time of video",
-   "Daily distribution listed as planned on site"
+   "Relaunched as CLAWSIFIED (lC@claude/ai-relaunch)"
   ],
   "lastActive": "2026-10-01"
  },
