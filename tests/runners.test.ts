@@ -100,6 +100,7 @@ describe('buildDailyReport', () => {
     { name: 'Uranium Reserve', kind: 'game', concept: 'uranium prospecting', themeKeywords: ['uranium'], readiness: 'idea-only' },
     { name: 'PUMP DAWGS', ticker: '$DAWGS', kind: 'nft', concept: 'dog nft', themeKeywords: ['dog'], readiness: 'built-not-deployed', openIssues: ['wallet placeholder in config'] },
     { name: 'MM Bot', kind: 'bot', concept: 'market making', readiness: 'built-not-deployed' },
+    { name: 'Old Cat Game', kind: 'game', concept: 'cat game', themeKeywords: ['cat'], readiness: 'abandoned' },
   ];
 
   it('ranks a site in the hottest meta above one with no meta, and lists bottoms', () => {
@@ -111,6 +112,8 @@ describe('buildDailyReport', () => {
     expect(uranium.advice[0]).toMatch(/Hottest meta is AI agents/);
     expect(report.bottom[0]).toBe('Uranium Reserve');
     expect(report.top).not.toContain('MM Bot');
+    expect(report.bottom).not.toContain('Old Cat Game');
+    expect(report.abandoned).toEqual(['Old Cat Game']);
   });
 
   it('detects ticker collisions with today’s runners and surfaces deploy blockers', () => {

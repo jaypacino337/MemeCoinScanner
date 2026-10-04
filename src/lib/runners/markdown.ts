@@ -41,7 +41,8 @@ export function renderReportMarkdown(r: DailyReport): string {
   out.push('## Site grades');
   out.push('');
   out.push(`**Top 5:** ${r.top.join(', ') || '—'}  `);
-  out.push(`**Bottom 5:** ${r.bottom.join(', ') || '—'}`);
+  out.push(`**Bottom 5 (still in play):** ${r.bottom.join(', ') || '—'}  `);
+  out.push(`**Abandoned:** ${r.abandoned.join(', ') || '—'}`);
   out.push('');
   out.push('| Grade | Site | Score | Metas | Readiness | Verdict | Change |');
   out.push('|---|---|---|---|---|---|---|');

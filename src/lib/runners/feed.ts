@@ -42,7 +42,7 @@ export interface Runner {
     /** Three or more same-symbol launches in the pool: a copycat wave. */
     copycatWave: boolean;
   };
-  /** Ranking weight: log-scaled 24h volume, discounted by flags. */
+  /** Ranking weight: √(24h volume), discounted by flags. */
   heat: number;
 }
 
@@ -172,7 +172,9 @@ export function rankRunners(
       c.marketCapUsd / c.liquidityUsd > INFLATED_MCAP_RATIO;
     const copycatWave = (symbolCounts.get(c.symbol.toUpperCase()) ?? 0) >= 3;
 
-    let heat = Math.log10(Math.max(volume, 1));
+    // √volume: a $25M runner outweighs a $300k one (~9×) without a single
+    // coin swamping the board the way linear volume would.
+    let heat = Math.sqrt(volume) / 100;
     if (inflatedMcap) heat *= 0.35;
     if (copycatWave) heat *= 0.8;
 

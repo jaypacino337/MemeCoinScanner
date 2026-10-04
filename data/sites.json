@@ -1,0 +1,1987 @@
+[
+ {
+  "name": "0DTE",
+  "aliases": [
+   "0dte.site",
+   "0DTE.site"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "prediction-market",
+  "concept": "'0DTE brought on-chain': daily SPY close prediction game. Send 1 token to a wallet for a $0.25 SPY close range, hold 500K tokens to enter, one guess per day, entries lock 3 hours before close, creator fees automatically pay winners. Session made four promo videos.",
+  "themeKeywords": [
+   "options",
+   "0dte",
+   "spy",
+   "stocks",
+   "prediction",
+   "daily game",
+   "creator fees",
+   "robinhood chain",
+   "pons",
+   "daily range",
+   "closing bell"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://0dte.site",
+  "readiness": "live",
+  "openIssues": [
+   "Ticker not decided at the time",
+   "Only video work here; product status unverified"
+  ],
+  "lastActive": "2026-09-24"
+ },
+ {
+  "name": "Agent Xero",
+  "aliases": [
+   "XERO"
+  ],
+  "ticker": "$XERO",
+  "sessionIds": [
+   "session_01HUrAn97kU69dyKjWAFQwJT"
+  ],
+  "repo": "Agent-Xero@claude/agent-xero-trading-bot-xv5n2l",
+  "kind": "bot",
+  "concept": "Autonomous AI memecoin trading agent 'powered by Claude Fable 5' that scans pump.fun launches, follows smart-money wallets, posts callouts on X; trading profits 70% buyback-and-burn $XERO / 30% holder airdrops, callout rewards 100% to holders (random lottery or pro-rata). Public ledger site with buy button.",
+  "themeKeywords": [
+   "ai agent",
+   "trading bot",
+   "pump.fun",
+   "callouts",
+   "smart money",
+   "buyback burn",
+   "airdrop",
+   "robot",
+   "x posting"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Railway deploy never completed (Vercel can't host it); waiting on user's Railway token",
+   "X dev-portal keys, SMART_WALLETS, Telegram not configured",
+   "XERO_MINT not set (token not launched)",
+   "Paper mode only; live needs PumpPortal key + wallet",
+   "User wanted a better logo"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Attention Markets",
+  "aliases": [
+   "ATTENTION",
+   "Attention",
+   "attentionmarkets.fun",
+   "ATTENTION MARKETS"
+  ],
+  "ticker": "$ATTN",
+  "sessionIds": [
+   "session_01GBXemXXFH1SKd679yvJku6",
+   "session_01CLJ3w4AdmhZgkVoebACgtW"
+  ],
+  "repo": "jaypacino337/Attention@main (also claude/site-transfer-cdodex-lh0p5i)",
+  "kind": "memecoin-site",
+  "concept": "'The attention layer of Solana' - creator fees reward people for finding/creating attention: 25% pump.fun callout rewards, 25% FOMO callout rewards, 40% X attention rewards, 10% Attention Fund; scanner/terminal pages, holder airdrop payout script (payout.bat). Token launched on pump.fun (CA CSL5S49M4RBJZuvm289x4Mt7AtSsprWmZe7ne3Xppump), X @Attn_Markets_.",
+  "themeKeywords": [
+   "attention",
+   "attention economy",
+   "callouts",
+   "x rewards",
+   "pump.fun",
+   "fomo",
+   "scanner",
+   "ai coded",
+   "attention is all you need",
+   "bloomberg terminal",
+   "airdrop points",
+   "buybacks",
+   "ads",
+   "social farming",
+   "x posts"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "attnmarkets.fun now serves PRVC (checked 2026-10-04)"
+  ],
+  "lastActive": "2026-08-18",
+  "previewUrl": "https://attnmarkets.fun"
+ },
+ {
+  "name": "BasketLaunch",
+  "aliases": [
+   "feesh.wtf clone",
+   "DripSwap-style swap",
+   "basket launchpad beta"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01QAkRf6abBeCeVRiZaZvPvZ"
+  ],
+  "repo": "Test@claude/feesh-style-clone-cuonm1",
+  "kind": "launchpad",
+  "concept": "Simulated Solana launchpad where you launch a weighted basket of tokens on a bonding curve (Jupiter-style dark/lime UI), plus a /swap page with a constant-product AMM router. Built because feesh.wtf, basketlaunch.fun and dripswap.tech were blocked; all mock data.",
+  "themeKeywords": [
+   "basket",
+   "index",
+   "launchpad",
+   "bonding curve",
+   "swap",
+   "amm",
+   "jupiter style",
+   "solana"
+  ],
+  "referenceSite": "basketlaunch.fun (also feesh.wtf, dripswap.tech)",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Fully simulated (fake tokens/wallet)",
+   "User said 'I DONT LIKE IT NEW IDEA' after design polish",
+   "feesh.wtf clone request (Aug 18) never produced a build"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Bingo.fun",
+  "aliases": [
+   "on-chain bingo"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01U2ujaE2RpJPxDp8zQZSTXf"
+  ],
+  "repo": "jaypacino337/Bingo-@claude/onchain-bingo-game-qrv3ut",
+  "kind": "game",
+  "concept": "Holder-based on-chain bingo hall: holding the token earns bingo cards, rounds pay 80% of a SOL pot plus a 1-in-25 jackpot, with a three.js hall, a referee character, a mint/forest palette, and a Railway game server with Supabase.",
+  "themeKeywords": [
+   "bingo",
+   "lottery",
+   "holders",
+   "jackpot",
+   "casino",
+   "solana",
+   "provably fair"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "User said it 'failed'; rounds about 3 min with no player agency; replaced by Duel Royale"
+  ],
+  "lastActive": "2026-07-27"
+ },
+ {
+  "name": "Bundle Sniffer",
+  "aliases": [],
+  "ticker": "$SNIFF",
+  "sessionIds": [
+   "session_01Xazr1nC2tX74tL7e74L6HQ"
+  ],
+  "repo": "MemeCoinScanner@claude/wallet-scanner-trades-u607lq",
+  "kind": "memecoin-site",
+  "concept": "Idea pitch only (top-3 recommended): a bloodhound mascot coin funding a live feed/X bot that detects bundled and wash-traded launches (twin launches, flat hourly volume, painted candles).",
+  "themeKeywords": [
+   "dog",
+   "bloodhound",
+   "bot detection",
+   "wash trading",
+   "bundles",
+   "pump.fun",
+   "x bot"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "idea-only",
+  "openIssues": [
+   "Not started"
+  ],
+  "lastActive": "2026-09-20"
+ },
+ {
+  "name": "Cash Cow",
+  "aliases": [
+   "Cash App cow"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01U2ujaE2RpJPxDp8zQZSTXf"
+  ],
+  "repo": "jaypacino337/Bingo-@main",
+  "kind": "airdrop/claim",
+  "concept": "Green cow spraying cash. Every 5 minutes it snapshots holders and airdrops claimed pump.fun creator fees to them pro-rata, with a live countdown and wallet lookup. The joke rides the 'memecoins on Cash App' news; the assistant built it as its own parody brand and would not use Cash App branding.",
+  "themeKeywords": [
+   "cow",
+   "cash app",
+   "airdrop",
+   "creator fees",
+   "holder rewards",
+   "rewards token",
+   "green",
+   "pump.fun"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Fee claiming is manual (creator claims to treasury)",
+   "AUTO_PAYOUT send path never tested on a cluster",
+   "Needs paid RPC for getProgramAccounts",
+   "Pivoted to SIDELINED on 2026-09-19"
+  ],
+  "lastActive": "2026-08-18"
+ },
+ {
+  "name": "CAT TERMINAL",
+  "aliases": [
+   "The Cat Strategy",
+   "Mr. CAT",
+   "CAT SCAN"
+  ],
+  "ticker": "$CSTR",
+  "sessionIds": [
+   "session_01GyVTKg3y3VGYjkw5ZWXiiK"
+  ],
+  "repo": "CC@claude/cat-terminal-project-dp2e85",
+  "kind": "airdrop/claim",
+  "concept": "'THE CAT STRATEGY.' terminal styled after catstrategy.work: a treasury screens new Solana tokens for cat coins (rejects dogs, frogs and big cats), buys CAT and airdrops SOL to holders each cycle. Has a Mr. CAT chatbot, a CAT SCAN log, and a PRO tier gated at 250K $CSTR.",
+  "themeKeywords": [
+   "cat",
+   "strategy",
+   "treasury",
+   "airdrop",
+   "screener",
+   "terminal",
+   "ai chatbot",
+   "solana",
+   "buyback"
+  ],
+  "referenceSite": "https://catstrategy.work",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Front end only: no token, treasury program, keeper, indexer or screener",
+   "Shows simulated history (8,217 airdrops) as if real, must be replaced or genesis-reset",
+   "Placeholder mint, treasury and links",
+   "Repo pivoted to the Funding Arb Desk on 2026-08-15"
+  ],
+  "lastActive": "2026-08-14"
+ },
+ {
+  "name": "CLONE",
+  "aliases": [],
+  "ticker": null,
+  "sessionIds": [
+   "session_01RAU9z7CAVHHZ5BNRkwnFB3"
+  ],
+  "repo": "jaypacino337/LLnad@claude/clone",
+  "kind": "clone/redesign",
+  "concept": "Homage to usewebsite.fun ('every coin gets a body'): 'Every coin gets a clone. It walks. It talks. It naps.' Summon any Solana token by mint into a retro-internet pixel city; each clone's sprite and personality come from its address, it stays awake/sleeps based on real trading, and it chats in an 'Overheard' feed (optionally written by Claude) quoting only live numbers.",
+  "themeKeywords": [
+   "pixel city",
+   "characters",
+   "ai agents",
+   "tamagotchi",
+   "retro internet",
+   "solana",
+   "pump.fun",
+   "pons",
+   "living tokens"
+  ],
+  "referenceSite": "https://usewebsite.fun/",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Pushed to the deploy branch (Vercel rebuild from c0aa9d8); live URL not stated",
+   "Summons stored in a JSON file that resets on cold starts; needs DB",
+   "Optional ANTHROPIC_API_KEY for Claude-written lines"
+  ],
+  "lastActive": "2026-10-02"
+ },
+ {
+  "name": "Copycat",
+  "aliases": [],
+  "ticker": "$COPYCAT",
+  "sessionIds": [
+   "session_01Xazr1nC2tX74tL7e74L6HQ"
+  ],
+  "repo": "MemeCoinScanner@claude/wallet-scanner-trades-u607lq",
+  "kind": "trading-tool",
+  "concept": "Idea pitch only (top-3 recommended): cat mascot coin fronting a holder-gated copy-trade terminal built on the user's wallet scanner.",
+  "themeKeywords": [
+   "cat",
+   "copy trading",
+   "wallet scanner",
+   "trading terminal",
+   "holder gated",
+   "pump.fun"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "idea-only",
+  "openIssues": [
+   "Not started"
+  ],
+  "lastActive": "2026-09-20"
+ },
+ {
+  "name": "CSTR Lending",
+  "aliases": [
+   "Loan website clone"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_012Ho4DaTXgCtdaN5FikoxwU"
+  ],
+  "repo": "CSTR@claude/website-clone-8r9g8o",
+  "kind": "clone/redesign",
+  "concept": "Plain HTML/CSS/JS loan-company landing site (quote widget, calculator, loan products, rates, FAQ, application form) in navy and gold. Meant to copy quillcompany.loan, but that site was blocked, so it is a generic .loan-style site.",
+  "themeKeywords": [
+   "loans",
+   "lending",
+   "finance",
+   "calculator",
+   "landing page",
+   "navy gold"
+  ],
+  "referenceSite": "https://quillcompany.loan",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Not actually matched to the reference (needs screenshot/text)",
+   "Forms only simulate submit; no backend"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "CSTR — Chip Strategy",
+  "aliases": [
+   "CPU — the game",
+   "GPU game clone"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_014j5E8up25owcnNMK9qwM4X"
+  ],
+  "repo": "GPU@claude/gpu-game-clone-d3g2bf",
+  "kind": "game",
+  "concept": "Idle/incremental clicker. You earn chips ('microchips are the new gold') and build out a mining system (USB Miner → Mining Rig → GPU Cluster → ASIC → Server Rack → Chip Fab → Quantum Miner → Mega Datacenter), with 'Next-Gen Chip' prestige. Node/Express backend with a JSON datastore, leaderboard, admin CLI and Dockerfile. It was meant to clone a game behind a t.co link, which the session could never open.",
+  "themeKeywords": [
+   "gpu",
+   "cpu",
+   "microchips",
+   "mining",
+   "idle game",
+   "clicker",
+   "datacenter",
+   "asic",
+   "hardware"
+  ],
+  "referenceSite": "unknown (t.co/d47GIZbNrn link, unresolved)",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Not deployed; production-ready Docker setup but no host chosen (Fly/Railway/Render)",
+   "No PR created",
+   "Original reference site never seen"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Diamantini",
+  "aliases": [],
+  "ticker": null,
+  "sessionIds": [
+   "session_01JjWqkowg41Rz5GpCBu4bgi",
+   "session_01GBXemXXFH1SKd679yvJku6"
+  ],
+  "repo": "Mm@claude/ai-video-generation-quality-xd6n40 (video only)",
+  "kind": "memecoin-site",
+  "concept": "New Italian-brainrot character (diamond/pizza theme); '100% of fees go to more TikTok ads for him'. Only promo content made: 15s brainrot video and a looping animated artifact (claude.ai/artifact/FwtDRZYLpH9QeS9kwzqzcU). No site.",
+  "themeKeywords": [
+   "brainrot",
+   "italian brainrot",
+   "character",
+   "diamond",
+   "pizza",
+   "tiktok ads",
+   "meme"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "idea-only",
+  "openIssues": [
+   "No site, ticker or CA"
+  ],
+  "lastActive": "2026-10-03"
+ },
+ {
+  "name": "Dividend Dog",
+  "aliases": [],
+  "ticker": "$DIVIDOG",
+  "sessionIds": [
+   "session_01Xazr1nC2tX74tL7e74L6HQ"
+  ],
+  "repo": "MemeCoinScanner@claude/wallet-scanner-trades-u607lq",
+  "kind": "memecoin-site",
+  "concept": "Idea pitch only (top-3 recommended): pump.fun Custom Pair coin quoted in tokenized SPY so creator fees accrue as S&P 500 exposure and are paid to holders as dividends.",
+  "themeKeywords": [
+   "dog",
+   "dividends",
+   "spy",
+   "stocks",
+   "tokenized stocks",
+   "pump.fun custom pairs",
+   "s&p 500"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "idea-only",
+  "openIssues": [
+   "Not started"
+  ],
+  "lastActive": "2026-09-20"
+ },
+ {
+  "name": "Duel Royale",
+  "aliases": [],
+  "ticker": null,
+  "sessionIds": [
+   "session_01U2ujaE2RpJPxDp8zQZSTXf"
+  ],
+  "repo": "jaypacino337/Bingo-@main",
+  "kind": "game",
+  "concept": "Battle royale for holders: every 1M tokens held is one fighter. Elimination waves halve the field, then the last 8 duel in a bracket; the champion takes 80% of the pot plus a 1-in-25 jackpot. Provably fair from one seed, and a round takes about 30s at any crowd size.",
+  "themeKeywords": [
+   "battle royale",
+   "duel",
+   "pvp",
+   "holders",
+   "jackpot",
+   "provably fair",
+   "solana",
+   "casino"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Railway Root Directory had to be set to 'server'",
+   "Pivoted to Cash Cow on 2026-08-18"
+  ],
+  "lastActive": "2026-07-28"
+ },
+ {
+  "name": "EPOCH NINE",
+  "aliases": [
+   "NINE"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01S5mh3aPUHXbsYqEWMfX55f"
+  ],
+  "repo": "Smudge-@claude/singularity-site-redesign-12smk0 (epoch-nine/)",
+  "kind": "clone/redesign",
+  "concept": "An original autonomous-AI-agent lore site in the style of yearofthesingularity.com (YOTS). Its character, NINE, keeps a public notebook, argues with its own old notes and counts its retractions. Sections cover doctrine, simulations, a transmissions feed and nine epochs, in a void-black and amber observatory style.",
+  "themeKeywords": [
+   "ai agent",
+   "singularity",
+   "autonomous agent",
+   "lore",
+   "sci-fi",
+   "observatory",
+   "epochs",
+   "memory"
+  ],
+  "referenceSite": "https://yearofthesingularity.com",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Lives at epoch-nine/ rather than root; user had not decided placement",
+   "No token, links or deploy configured"
+  ],
+  "lastActive": "2026-08-02"
+ },
+ {
+  "name": "FSVO volume market-maker",
+  "aliases": [
+   "AKEMM FSVO BOT",
+   "FSVZO MM",
+   "Candle Bot"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01ELiGrBKJPDGqh5ru7iDBjP"
+  ],
+  "repo": "FSVO@claude/akemm-fsvo-bot-x023ej",
+  "kind": "bot",
+  "concept": "Python market-making / volume-farming engine driven by the Insilico FSVZO indicator's candle states and multi-timeframe confluence (1m-4h). It posts post-only two-sided quotes on tokenless perp DEXes (Hyperliquid, Paradex via ccxt) to farm points at low cost per $1M of volume. Includes a TradingView webhook signal server, funding-rate bias, and a strategy lab doing walk-forward Pareto search. It started as a generic Discord bot scaffold.",
+  "themeKeywords": [
+   "market maker",
+   "perp dex",
+   "volume farming",
+   "points",
+   "airdrop farming",
+   "hyperliquid",
+   "paradex",
+   "indicator",
+   "fsvzo",
+   "trading bot"
+  ],
+  "referenceSite": "Insilico Terminal FSVZO indicator",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Needs an always-on VPS, venue list, API keys and dust-size capital",
+   "Live order placement untested; backtests used synthetic data only",
+   "Refused wash-trading/multi-wallet sybil setup"
+  ],
+  "lastActive": "2026-08-15"
+ },
+ {
+  "name": "Funding Arb Desk",
+  "aliases": [
+   "loris.tools funding arbitrage platform"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01GyVTKg3y3VGYjkw5ZWXiiK"
+  ],
+  "repo": "CC@claude/cat-terminal-project-dp2e85",
+  "kind": "trading-tool",
+  "concept": "Funding-rate arbitrage desk and guide for tokenless perp DEXs (Variational, Perpl, Pacifica, Phoenix, Ondo Perps, Arcus), framed as 'cost per point' points farming after 0xTimberJ. It ranks hedged pairs by carry per $1M per day and OI capacity, has an RWA panel, a calculator, an 11-section guide and automation docs. Meant to complement the user's loris.tools.",
+  "themeKeywords": [
+   "funding rate",
+   "arbitrage",
+   "perps",
+   "points farming",
+   "airdrop",
+   "rwa",
+   "tokenless dex",
+   "delta neutral",
+   "open interest"
+  ],
+  "referenceSite": "https://loris.tools",
+  "liveUrl": null,
+  "readiness": "in-progress",
+  "openIssues": [
+   "0 of 6 adapters return live data (2 untested against live endpoints, 4 stubs); need to run 'npm run collect' from an unblocked machine",
+   "Variational funding interval disputed (marked CONFLICTING)",
+   "Ondo interval unknown"
+  ],
+  "lastActive": "2026-08-15"
+ },
+ {
+  "name": "Go Fund Memes",
+  "aliases": [
+   "GoFundMeme.fun",
+   "gofundmemes.fun",
+   "$GFM",
+   "Go Fund Meme",
+   "GoFundMemes.fun",
+   "GFM"
+  ],
+  "ticker": "$MEMES",
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "launchpad",
+  "concept": "'Make Memes that Matter': launch a coin on pump.fun linked to a fundraiser/GoFundMe and its creator fees fund the cause (video says 100% of project fees, claims every 15 min). Earlier site gofundmeme.fun had a frog mascot; rebranded to gofundmemes.fun with heart-in-hands logo. Session made several hype videos only.",
+  "themeKeywords": [
+   "charity",
+   "crowdfunding",
+   "gofundme",
+   "causes",
+   "creator fees",
+   "pump.fun",
+   "frog",
+   "launchpad",
+   "donations",
+   "memes that matter"
+  ],
+  "referenceSite": "GoFundMe",
+  "liveUrl": "https://gofundmemes.fun",
+  "readiness": "live",
+  "openIssues": [
+   "Site still says 80% to cause / 20% buybacks while video says 100%",
+   "Contract address on video was the $GFM one; $MEMES CA unconfirmed",
+   "No real totals on site yet",
+   "Only video work here",
+   "Relationship to gofundmeme.fun unclear"
+  ],
+  "lastActive": "2026-10-01"
+ },
+ {
+  "name": "GOATSE",
+  "aliases": [
+   "runner-themed honse-style site (initial idea, never built)"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01KbWsoUCcRMU8uVqoWiQtb7"
+  ],
+  "repo": "Smudge-@claude/job-site-design-quality-e2nuf3",
+  "kind": "nft",
+  "concept": "A 2,222-piece goat PFP collection on Solana (\"Greatest of all time\"). The art is 134 layers drawn in code, and the site has an alpine risograph/altitude-chart look plus a Prompt Lab. The user first asked for a honsecoin.wtf-quality site about a 'runner' job, then switched to a goat named GOATSE (a deliberate shock-site pun).",
+  "themeKeywords": [
+   "goat",
+   "goat meme",
+   "nft",
+   "pfp",
+   "solana",
+   "generative art",
+   "alpine",
+   "shock meme",
+   "altitude"
+  ],
+  "referenceSite": "https://www.honsecoin.wtf (quality bar only; it was blocked, so nothing was copied)",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Creator wallet is still REPLACE_WITH_YOUR_SOLANA_WALLET",
+   "Full 2,222 collection never rendered (0 output images)",
+   "og:image is a relative path",
+   "No hosting, CNAME or domain (goatse.wtf assumed, not owned)",
+   "All social and market links are '#'",
+   "Safari <16.4 regex lookbehind bug in main.js",
+   "Branch is 5 commits behind the default PUMP DAWGS branch, so it needs a rebase before merge",
+   "The 'goatse' name will likely be rejected by ad review and moderation"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "HODL OR NO HODL",
+  "aliases": [
+   "on-chain deal or no deal game"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01CLJ3w4AdmhZgkVoebACgtW"
+  ],
+  "repo": "Test@claude/onchain-deal-no-deal-game-ow9uwp (PR #1); also pushed to HODL@main (later overwritten)",
+  "kind": "game",
+  "concept": "On-chain game show for a pump.fun coin. Every 15 minutes creator fees are claimed into a vault pot. Holders of 1M+ tokens pick HODL or NO HODL with a signed message, a finalized Solana blockhash flips the coin, and winners split the pot pro-rata by bag size. Red/gold game-show site built from the user's mockup, logo and banner.",
+  "themeKeywords": [
+   "game show",
+   "deal or no deal",
+   "coin flip",
+   "pump.fun",
+   "creator fees",
+   "holders",
+   "solana",
+   "pot",
+   "gambling"
+  ],
+  "referenceSite": "hodlornohodl.fun",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Vercel deploy failed (root directory/v0 project conflict)",
+   "Supabase + Railway worker never deployed",
+   "HODL main was later overwritten by OVERBID/ATTENTION MARKETS"
+  ],
+  "lastActive": "2026-07-22"
+ },
+ {
+  "name": "HOLDCO",
+  "aliases": [
+   "HoldCo"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01VdT5Y1VcSQjDbqXPchmfys"
+  ],
+  "repo": "lC@claude/longdog-site-design-kguow6 (root /)",
+  "kind": "other",
+  "concept": "A crypto-native holding company on Robinhood Chain that incubates onchain businesses as subsidiaries. Subsidiaries use shared launch infrastructure and route a disclosed share of creator-fee revenue back to the group. The site is a white, institutional, annual-report-style landing page with portfolio, Launch Office, Boardroom (voting disabled), financials and an application form. It has a 'BUY HOLDCO' token CTA, but the ticker is not stated.",
+  "themeKeywords": [
+   "holding company",
+   "robinhood chain",
+   "pons",
+   "incubator",
+   "subsidiaries",
+   "corporate",
+   "creator fees",
+   "finance"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Never hosted: GitHub Pages source or Vercel import still needs the user's click",
+   "docs, x, buy and proof links are '#'",
+   "Application form is copy-to-clipboard until a Supabase endpoint is set"
+  ],
+  "lastActive": "2026-09-20",
+  "previewUrl": "https://claude.ai/artifact/DM2gxX77SvrKZDZeVaWS2Y"
+ },
+ {
+  "name": "Hood ST",
+  "aliases": [
+   "$HOODST"
+  ],
+  "ticker": "$HOODST",
+  "sessionIds": [
+   "session_01RAU9z7CAVHHZ5BNRkwnFB3"
+  ],
+  "repo": "jaypacino337/LLnad@claude/hoodst",
+  "kind": "game",
+  "concept": "Paper-trading leverage game: $10K paper balance per Phantom wallet, long/short live pump.fun markets at 1-20x with liquidations, daily/weekly/monthly leagues; reward eligibility gated by holding a minimum of the token (user mentioned 'on pONS'). Same frog mascot as PumpXBT.",
+  "themeKeywords": [
+   "paper trading",
+   "leverage",
+   "perps",
+   "competition",
+   "leaderboard",
+   "pump.fun",
+   "robinhood",
+   "frog",
+   "token-gated rewards",
+   "pons"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Vercel deploy via push to default branch, URL never confirmed",
+   "Game state is a JSON file that resets on Vercel cold starts (needs DB before real rewards)",
+   "HOODST_TOKEN_MINT not set; 'pONS' meaning unresolved",
+   "Replaced by CLONE in the Vercel slot on 2026-10-02 (kept on claude/hoodst)"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "IPO",
+  "aliases": [
+   "iposolana.xyz",
+   "IPO.SOLANA.XYZ",
+   "IPO Solana",
+   "Pumpios"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "launchpad",
+  "concept": "Presale launchpad on Solana where creators raise before launch and users join structured presales; ecosystem includes 1,200 'Pumpios' (likely NFTs). Session made 5s sting + 20-25s hype videos.",
+  "themeKeywords": [
+   "ipo",
+   "presale",
+   "launchpad",
+   "solana",
+   "fundraising",
+   "stocks",
+   "raise",
+   "pumpios",
+   "nft",
+   "wall street"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://www.iposolana.xyz",
+  "readiness": "live",
+  "openIssues": [
+   "Site status not confirmed in this session (URL iposolana.xyz named in video)",
+   "Key art shows IPO.SOLANA.XYZ but site is iposolana.xyz (flagged mismatch)"
+  ],
+  "lastActive": "2026-09-24"
+ },
+ {
+  "name": "LocalLM",
+  "aliases": [
+   "Local Language Model",
+   "locallm.fun",
+   "LocalLLM"
+  ],
+  "ticker": "$LLM",
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "memecoin-site",
+  "concept": "'Hold $LLM. Earn AI.': holders (24h hold) get a share of a daily AI-compute credit pool to run LocalLM chat/code/API on a 128GB-VRAM GPU rig. Paid-compute revenue goes to $LLM buyback and burn (planned), and $LLM can be burned for compute. This session only made the ~43s promo video; the site was built elsewhere.",
+  "themeKeywords": [
+   "ai",
+   "llm",
+   "local ai",
+   "gpu",
+   "compute credits",
+   "buyback",
+   "burn",
+   "solana",
+   "compute",
+   "credits",
+   "inference",
+   "hold to earn"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://locallm.fun",
+  "readiness": "live",
+  "openIssues": [
+   "Buyback allocation % not published (marked 'planned')",
+   "Burn-for-compute not live yet",
+   "Site says model in development, account access not live"
+  ],
+  "lastActive": "2026-10-02"
+ },
+ {
+  "name": "LONGDOG",
+  "aliases": [],
+  "ticker": null,
+  "sessionIds": [
+   "session_01VdT5Y1VcSQjDbqXPchmfys"
+  ],
+  "repo": "lC@claude/longdog-site-design-kguow6 (/longdog/)",
+  "kind": "memecoin-site",
+  "concept": "A 'long dog' meme site with an infinitely scrolling, zoomable long dog and milestones. It was the first site in the lC repo. Few details were reviewed because the earliest part of the session was not read.",
+  "themeKeywords": [
+   "dog",
+   "long dog",
+   "infinite scroll",
+   "meme",
+   "milestones",
+   "solana"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "GitHub Pages / Vercel deploy never succeeded (Pages workflow failed; user never flipped the hosting setting)"
+  ],
+  "lastActive": "2026-09-25"
+ },
+ {
+  "name": "memcoinz Solana skills toolkit",
+  "aliases": [
+   "memcoinz",
+   "mc CLI"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01WrqMmqnyAZNLJq6rusHXCH"
+  ],
+  "repo": "memcoinz@claude/solana-skills",
+  "kind": "tooling",
+  "concept": "Internal tooling, not a coin: Claude Code/Codex slash-command skills (/pump-claim, /snapshot, /airdrop, /launchpad, /buyback-burn, /flywheel, /solana-core) wrapping the user's existing Sherwood/Airdrop/Agent-Xero/Attention/HODL code, plus a planned website kit (/clone-site, /design-sources, /site-standard, /site-starter, /launchpad-site) to speed up building coin sites.",
+  "themeKeywords": [
+   "tooling",
+   "solana",
+   "pump.fun",
+   "airdrop",
+   "snapshot",
+   "buyback",
+   "burn",
+   "flywheel",
+   "site templates",
+   "clone"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "in-progress",
+  "openIssues": [
+   "Branch not merged to main (PR being opened)",
+   "Claim, pump.fun launch and buyback only previewed, never run on mainnet",
+   "Website skills (clone-site via Playwright, templates) were mid-build at last message"
+  ],
+  "lastActive": "2026-10-04"
+ },
+ {
+  "name": "MEMESCAN",
+  "aliases": [
+   "narrative scammer scanner",
+   "memecoin idea scanner"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01YUySDKVND433ZUcA9xMkgf"
+  ],
+  "repo": "HODL@claude/memecoin-scammer-scanner-r2y4bv",
+  "kind": "scanner/analytics",
+  "concept": "CLI and web dashboard (packages/memescan) that clusters DexScreener trending tokens into narrative 'metas' (dog, cat, AI agent, jimothy-core regular-guy names, auto-discovered metas) with momentum scores, and gives each token a 0-100 rug-risk score with red flags. The user asked for a 'narrative scammer'; the session built it as a scam detector instead.",
+  "themeKeywords": [
+   "memecoin",
+   "narrative",
+   "scanner",
+   "rug detection",
+   "dexscreener",
+   "jimothy",
+   "raccoon",
+   "viral animal",
+   "trending",
+   "solana"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Live DexScreener calls were blocked in the sandbox, so it was only tested on demo data",
+   "No PR opened or deploy done; runs locally (npm run memescan / memescan:web on localhost:5150)"
+  ],
+  "lastActive": "2026-08-06"
+ },
+ {
+  "name": "OUTLET",
+  "aliases": [
+   "thesocket.app clone"
+  ],
+  "ticker": "$OUT",
+  "sessionIds": [
+   "session_014tSqYrSi1wtKZKu4MFZjWq"
+  ],
+  "repo": "HODL@outlet",
+  "kind": "clone/redesign",
+  "concept": "'One outlet, any appliance': a concentrated-liquidity AMM where each pool has one plug-in hook program ('appliance': dynamic fee, TWAP oracle, range orders) bounded by an immutable wall rating. The landing page has an interactive plug-in outlet hero and a scroll-driven swap walkthrough. A synonym-named take on thesocket.app.",
+  "themeKeywords": [
+   "amm",
+   "hooks",
+   "liquidity pools",
+   "defi",
+   "solana",
+   "outlet",
+   "socket",
+   "clmm",
+   "animation"
+  ],
+  "referenceSite": "thesocket.app",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Fresh repo could not be created (GitHub refused); sits on the 'outlet' branch",
+   "Never deployed; superseded by the AgencyPad pivot"
+  ],
+  "lastActive": "2026-10-04"
+ },
+ {
+  "name": "OVERBID",
+  "aliases": [
+   "real-estate prediction market"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_014tSqYrSi1wtKZKu4MFZjWq"
+  ],
+  "repo": "HODL@claude/overbid-real-estate-market-oecwq5",
+  "kind": "prediction-market",
+  "concept": "'Trade where housing goes next': a real-estate prediction market with city-outcome shares in USDG, priced by an on-chain AMM, settled by an oracle against housing price indexes (Parcl), and backed by a House Pool for LPs. Built for Robinhood Chain, with an Arbitrum Sepolia testnet deploy kit.",
+  "themeKeywords": [
+   "real estate",
+   "housing",
+   "prediction market",
+   "robinhood chain",
+   "usdg",
+   "amm",
+   "cities",
+   "oracle",
+   "polymarket"
+  ],
+  "referenceSite": "Polymarket (inspiration)",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Contracts unaudited, never deployed to a real chain (local EVM e2e only)",
+   "Real money raises regulatory (CFTC) concerns",
+   "Paper-trading demo only; main was overwritten by later pivots"
+  ],
+  "lastActive": "2026-07-25"
+ },
+ {
+  "name": "PAPER paper-trading terminal",
+  "aliases": [
+   "papertrade.xyz on Solana",
+   "Paper tard"
+  ],
+  "ticker": "$PAPER",
+  "sessionIds": [
+   "session_01Jofv3T7P8m99j3JerQsx6d",
+   "session_01FDjURzBwxQwafLbEQkpGHc"
+  ],
+  "repo": "none yet (intended AIrdrop repo, never created)",
+  "kind": "trading-tool",
+  "concept": "Axiom-style Solana paper-trading terminal where users get server-authoritative paper balances ('no cheating'), fills priced against real Jupiter liquidity and slippage, and trading competitions, powered by a PAPER token. Asked for as 'make papertrade.xyz on Solana' (2026-09-23) and again as the PAPER terminal (2026-09-25). Grouped from two sessions; I'm inferring these are the same concept.",
+  "themeKeywords": [
+   "paper trading",
+   "solana",
+   "trading terminal",
+   "axiom",
+   "competitions",
+   "leaderboard",
+   "jupiter",
+   "paper token"
+  ],
+  "referenceSite": "papertrade.xyz / axiom.trade",
+  "liveUrl": null,
+  "readiness": "idea-only",
+  "openIssues": [
+   "Assistant asked clarifying questions and got no answer; no code written",
+   "AIrdrop repo was never created (GitHub app lacks repo-create permission)",
+   "docs.papertrade.xyz was blocked by egress"
+  ],
+  "lastActive": "2026-09-25"
+ },
+ {
+  "name": "Perpl MM Bot",
+  "aliases": [
+   "mmbot",
+   "perpl_mm",
+   "MM bot for Perplexity and custom"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01MjCrd3LqLb8SEBDH3SAR3L"
+  ],
+  "repo": "Mm@claude/mm-bot-perplexity-custom-99i6xl",
+  "kind": "bot",
+  "concept": "Python multi-venue market-making bot for volume and points farming. Venues: Perpl (Monad), Phoenix (Solana), Variational (RFQ), Arcus (Robinhood Chain) and Lighter. Includes a tight-spread volume preset and a volume/PnL stats tracker modeled on a tweet about farming the Robinhood Wallet x Lighter points campaign; it never self-trades.",
+  "themeKeywords": [
+   "market making",
+   "bot",
+   "perps",
+   "volume farming",
+   "points",
+   "lighter",
+   "robinhood chain",
+   "monad",
+   "solana"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "User must add API keys and run dry-run then --live",
+   "Arcus endpoint paths and signing are best-effort (docs blocked)",
+   "Lighter adapter not smoke-tested against live endpoints"
+  ],
+  "lastActive": "2026-08-15"
+ },
+ {
+  "name": "PitBrokers",
+  "aliases": [
+   "Pump Brokers",
+   "pumpbrokers.fun clone",
+   "PumpBrokers"
+  ],
+  "ticker": "$PUMPBROKER",
+  "sessionIds": [
+   "session_01EzwSP8TYA1PJ1isJzMVkSC",
+   "session_01EgRoRrBvwU5d6foz4UzGyQ"
+  ],
+  "repo": "HODL@claude/pumpbrokers-design-review-dguzwy",
+  "kind": "nft",
+  "concept": "A collection of 1,000 pixel-art 'broker' NFTs on Solana (Metaplex Core). It has an Anchor mint program (PDA per mint number, random art draw, honorary mints) and a separate buyback/redeem program backed by a treasury. The site is flat neon-green pixel art with mint, my-brokers, gallery, airdrop and admin pages. It was built from a user-supplied PUMPBROKERS_BUILD_PROMPT_V2.md. Session EgRo built the same concept in parallel and renamed it PitBrokers.",
+  "themeKeywords": [
+   "pixel art",
+   "brokers",
+   "nft",
+   "solana",
+   "buyback",
+   "treasury",
+   "trading",
+   "pump.fun",
+   "mint",
+   "xstocks",
+   "stocks",
+   "airdrop",
+   "trading pit"
+  ],
+  "referenceSite": "https://pumpbrokers.fun / pumpbroker.fun (888 pixel brokers, each with its own wallet)",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "anchor build/test have never run (no Solana toolchain in container); programs only compile-checked",
+   "Nothing deployed on-chain",
+   "Branch is based on the old OVERBID history and diverged from main (ATTENTION MARKETS); merging as-is would wipe main",
+   "User later pivoted this session to Crowdy.fun",
+   "anchor build/test/deploy never run",
+   "Commit-reveal randomness recommended (airdrop pieces trivially identifiable as rarest)",
+   "Claimed creator fees are SOL and do not deepen $PUMPBROKER redemption backing (swap not built)",
+   "Same repo PR #1 was later reused for Plum"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Plum",
+  "aliases": [],
+  "ticker": null,
+  "sessionIds": [
+   "session_01EgRoRrBvwU5d6foz4UzGyQ"
+  ],
+  "repo": "GPU@PR #1 (plum/ directory)",
+  "kind": "trading-tool",
+  "concept": "An agentic browser for onchain work, the crypto version of Strawberry Browser. 'Companions' work across dApp tabs, Skills are saved workflows and Routines run them on a schedule. The core feature is a signature gate that shows a simulated balance diff, and companions can never sign. An EVM engine was built and tested against a local Hardhat chain.",
+  "themeKeywords": [
+   "ai agent",
+   "browser",
+   "wallet",
+   "transaction simulation",
+   "defi",
+   "evm",
+   "automation",
+   "security"
+  ],
+  "referenceSite": "https://strawberrybrowser.com",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "User said 'scratch that' on 2026-10-04 and switched to Influence",
+   "Plum is still committed on the branch; it is unconfirmed whether to delete it",
+   "Browser chrome and real RPC reads were not built (RPCs proxy-blocked)"
+  ],
+  "lastActive": "2026-09-25",
+  "previewUrl": "https://claude.ai/artifact/25CXPJ6DzHLLMPg9qRbVpv"
+ },
+ {
+  "name": "Polybot",
+  "aliases": [
+   "Polymarket auto-trading bot"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01Jofv3T7P8m99j3JerQsx6d"
+  ],
+  "repo": "Polybot@claude/polymarket-auto-trading-bot-w7lyfu",
+  "kind": "bot",
+  "concept": "Python Polymarket CLOB auto-trader with long and short bots driven by pluggable signals (threshold, MA crossover, momentum, RSI, manual; the user's 'FSVO' layer). It has exit-on-flip, on/off/kill switches, a market finder that fills in YES/NO token IDs, and local wallet generation. Dry-run by default.",
+  "themeKeywords": [
+   "polymarket",
+   "prediction market",
+   "trading bot",
+   "polygon",
+   "usdc",
+   "rsi",
+   "momentum",
+   "auto trading"
+  ],
+  "referenceSite": "Polymarket",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "No main branch, so no PR can be opened (user to choose A/B)",
+   "Needs a funded Polygon wallet plus a market config; live API untested in sandbox"
+  ],
+  "lastActive": "2026-08-15"
+ },
+ {
+  "name": "PRVC",
+  "aliases": [
+   "Privacy (PRVC)"
+  ],
+  "ticker": "$PRVC",
+  "sessionIds": [
+   "session_01GBXemXXFH1SKd679yvJku6"
+  ],
+  "repo": "jaypacino337/Attention@main",
+  "kind": "memecoin-site",
+  "concept": "Privacy-themed community token rebrand of the Attention site (dark/cyan), narratively paired to ZEC, grounded in Solana Token-2022 Confidential Transfers plus hold-and-earn. User's requested SOL mixer ('fresh SOL for 0.25 fee') was refused and explicitly disclaimed on site.",
+  "themeKeywords": [
+   "privacy",
+   "zcash",
+   "zec",
+   "confidential transfers",
+   "zk",
+   "solana",
+   "hold and earn",
+   "stonk"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://attnmarkets.fun",
+  "readiness": "live",
+  "openIssues": [
+   "Needs its own PRVC mint (CA blank)",
+   "Old Attention pages (/scanner,/terminal,/fund,/account,/advertise) still reachable but unlinked",
+   "Vercel redeploy pending"
+  ],
+  "lastActive": "2026-10-02"
+ },
+ {
+  "name": "PUMP DAWGS",
+  "aliases": [
+   "PUMP BAWGES",
+   "Quantum Dawgs",
+   "Crayon Dawgs",
+   "Dawg Kings"
+  ],
+  "ticker": "$DAWGS",
+  "sessionIds": [
+   "session_012JwnqtTjxFypNpYakRkHMZ",
+   "session_01VyupbK675UN8kjEFRni7ty"
+  ],
+  "repo": "Smudge-@claude/pump-dogs-nft-layers-ix1f71",
+  "kind": "nft",
+  "concept": "1,111-piece Solana dog PFP NFT collection paired with a $DAWGS token: 125 code-drawn layers in an ink-and-cel 'Quantum Dawgs' style, generator plus Metaplex metadata, 10 'Dawg King' chase pieces modeled on Magic Eden's The Bullpen, a landing site and Prompt Lab, and an X/Discord launch kit. Plan is Candy Machine + Core minting (about $2 for the creator).",
+  "themeKeywords": [
+   "dog",
+   "nft",
+   "pfp",
+   "solana",
+   "generative art",
+   "chase tier",
+   "magic eden",
+   "memecoin",
+   "dawgs"
+  ],
+  "referenceSite": "https://magiceden.io/marketplace/the_bullpen",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "User says the art quality falls short of top Magic Eden projects; procedural art may need a real illustrator",
+   "Wallet placeholder in generator/config.js blocks the devnet run",
+   "X handles not claimed",
+   "Any Dawg King prize must be disclosed before mint; NFT-to-token fee link flagged as securities-adjacent",
+   "Follower-count session (vyup) refused to doctor a third party's video; offered a $DAWGS stats block that was never built"
+  ],
+  "lastActive": "2026-08-15"
+ },
+ {
+  "name": "PumpXBT",
+  "aliases": [
+   "PumpFun intelligence agent",
+   "horns.vercel.app takeover"
+  ],
+  "ticker": "$PUMPXBT",
+  "sessionIds": [
+   "session_01VdT5Y1VcSQjDbqXPchmfys",
+   "session_01RAU9z7CAVHHZ5BNRkwnFB3"
+  ],
+  "repo": "lC@claude/longdog-site-design-kguow6 (/pumpxbt/, /pumpxbt-bot/)",
+  "kind": "bot",
+  "concept": "'pump.fun's agentic layer', modelled on AIXBT. An autonomous agent scores every pump.fun caller, watches proven wallets, posts callouts, paper-trades a creator-fee-funded treasury, and sends callout rewards and trading profit to buyback and burn. It has a site and a free terminal subpage, a zero-dependency Node bot (Helius, SQLite, paper mode) and an X persona with a launch copy kit.",
+  "themeKeywords": [
+   "ai agent",
+   "pump.fun",
+   "callouts",
+   "copy trading",
+   "trading bot",
+   "terminal",
+   "buyback",
+   "burn",
+   "x bot",
+   "wallet tracking",
+   "aixbt",
+   "signals",
+   "memecoins",
+   "twitter bot",
+   "autopost",
+   "scanner"
+  ],
+  "referenceSite": "AIXBT (agent concept)",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Site never deployed (Vercel/Pages issues)",
+   "Contract address, logo and treasury figures are placeholders",
+   "Bot only in paper mode; pump.fun API adapter unverified (blocked)",
+   "Site claims 'AGENT ONLINE' while the agent is not live",
+   "Moved to /pumpxbt/ when HOLDCO took the root",
+   "Replaced in the Vercel slot by Hood ST; preserved on claude/pumpxbt"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Rally",
+  "aliases": [
+   "Crowdy.fun",
+   "Rallypot",
+   "Pumpbrokers.fun (design review chat origin)"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01Df73vwctjYiM3fSWRh446E",
+   "session_01EzwSP8TYA1PJ1isJzMVkSC"
+  ],
+  "repo": "hodl@claude/rally-rebrand",
+  "kind": "launchpad",
+  "concept": "Holder-gated, all-or-nothing crowdfunding: an eligible holder posts a 'let's do this' campaign and other token holders back it with SOL into a program-controlled vault. Finalize is permissionless, refunds cannot be blocked, and the fee is capped at 5%. The design is an original dark/violet launchpad look because the reference site was blocked. Before this, the user asked for an operonai.info clone, which was never built because the site was blocked.",
+  "themeKeywords": [
+   "crowdfunding",
+   "launchpad",
+   "solana",
+   "holders",
+   "refund",
+   "campaigns",
+   "anchor program",
+   "rally",
+   "holder-gated",
+   "vault",
+   "community funding",
+   "pump.fun"
+  ],
+  "referenceSite": "https://fundmeme.site/",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "No live site: needs its own repo (e.g. 'rally') or a second Vercel project pointed at the branch",
+   "Anchor/Solana program never fully built or tested with Solana toolchain, not deployed",
+   "Need to decide which token and how much holders must own to post/back",
+   "Name check: Rally.io existed (shut 2023); rally.fun domain may be unavailable",
+   "anchor build/test never run; program only compile-verified",
+   "Nothing deployed",
+   "Design not matched to fundmeme.site (blocked); needs screenshots to match"
+  ],
+  "lastActive": "2026-10-04"
+ },
+ {
+  "name": "Robin Hood V2",
+  "aliases": [
+   "Polybot",
+   "Polybot perk.money-style landing"
+  ],
+  "ticker": "$HOODV2",
+  "sessionIds": [
+   "session_01M1f93PajqJbYRBuAQgE7k8"
+  ],
+  "repo": "jaypacino337/Polybot@claude/perk-money-design-reference-skebsv",
+  "kind": "bot",
+  "concept": "Polymarket auto-trading bot (Polybot: long/short signal bots, dry-run CLI) with a perk.money-style landing page, rebranded as 'Robin Hood V2 - the people's trading bot' (folk-hero archer, not Robinhood Markets branding) for a token launch on pump.fun/Pons.",
+  "themeKeywords": [
+   "robin hood",
+   "prediction market",
+   "polymarket",
+   "trading bot",
+   "open source",
+   "archer",
+   "people's bot",
+   "pons"
+  ],
+  "referenceSite": "perk.money",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "PR #1 still open/unmerged; default branch lacks site",
+   "Not hosted (Vercel import + Railway bot not done)",
+   "Repo must be made public for 'open source' claim",
+   "Needs POLYBOT_PRIVATE_KEY + USDC on Polygon to go live; pump.fun/site links not wired"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Sentia",
+  "aliases": [
+   "AgencyPad",
+   "agencypad.fun",
+   "sentia.fun",
+   "Influence",
+   "$AGENCY"
+  ],
+  "ticker": "$SENTIA",
+  "sessionIds": [
+   "session_01Df73vwctjYiM3fSWRh446E",
+   "session_01EgRoRrBvwU5d6foz4UzGyQ",
+   "session_014tSqYrSi1wtKZKu4MFZjWq"
+  ],
+  "repo": "hodl@claude/sentia-rebrand (AgencyPad version is on main)",
+  "kind": "launchpad",
+  "concept": "An AI-influencer token launchpad modelled on higgspad.com. You describe a persona in one sentence and it launches with its own pump.fun token, and you make videos with it in a Studio. The page has a working casting desk (ticker coining, a likeness guard that blocks real people, and an exact integer fee split with a 30% burn / 70% split), plus a token page chart, pricing, API and specs. It allows only original characters, not real celebrities.",
+  "themeKeywords": [
+   "ai agent",
+   "ai influencer",
+   "ai trader",
+   "launchpad",
+   "pump.fun",
+   "solana",
+   "creator fees",
+   "agents",
+   "video",
+   "persona",
+   "creator",
+   "burn",
+   "token launch",
+   "fees",
+   "buyback",
+   "higgspad"
+  ],
+  "referenceSite": "Higgspad",
+  "liveUrl": "https://agencypad.fun",
+  "readiness": "live",
+  "openIssues": [
+   "agencypad.fun still serves the old AGENCY branding; the Sentia rebrand is on hodl@claude/sentia-rebrand, not deployed",
+   "Sentia rebrand is on branch claude/sentia-rebrand; Vercel still serves AgencyPad from main and needs a merge (waiting on user OK)",
+   "No wallet connect / real pump.fun token creation",
+   "No backend to save launched agents",
+   "Fee split only simulated",
+   "AI video engine not hooked up",
+   "Only a concept artifact page; no backend, token launcher or video generation",
+   "Portraits are stylised canvas placeholders",
+   "User has not answered whether to build it for real",
+   "Merged to main; Vercel should auto-build, but this was never confirmed live",
+   "A stale Root Directory setting in Vercel may break the build",
+   "Demo launches only; no real launch contracts and the roster is example data"
+  ],
+  "lastActive": "2026-10-04",
+  "previewUrl": "https://claude.ai/artifact/Tx2psKwptPt4QF4kYFAhUd"
+ },
+ {
+  "name": "Sherwood Protocol",
+  "aliases": [
+   "Solana/Robinhood cross-chain coin",
+   "Robinhood coin"
+  ],
+  "ticker": "$ARROW",
+  "sessionIds": [
+   "session_01QAkRf6abBeCeVRiZaZvPvZ",
+   "session_01QJWF65pDr5rTHvVgrbfEBx"
+  ],
+  "repo": "Test@claude/solana-robinhood-crosschain-yo3t18",
+  "kind": "airdrop/claim",
+  "concept": "Robin Hood themed Solana token: harvests pump.fun creator fees, auto-compounds a share into ARROW/SOL LP, and airdrops the rest pro-rata to holders every 15 minutes; Next.js site. Seen as existing code in the Test repo (commit 1284ff7); likely built in an earlier session (possibly session_01HPJX4M52Rdkmk4D4TWY4Sq's repo branch) - uncertain.",
+  "themeKeywords": [
+   "robin hood",
+   "sherwood",
+   "arrow",
+   "creator fees",
+   "auto lp",
+   "airdrop",
+   "holders",
+   "solana",
+   "robinhood",
+   "pump.fun",
+   "holder rewards",
+   "raydium",
+   "reflections"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Origin session not confirmed",
+   "No deployment evidence",
+   "Not deployed to devnet or mainnet",
+   "Securities-law risk of recurring holder payouts flagged in DISCLAIMER",
+   "The 'cross-chain' part of the original ask isn't clear from the transcript I read"
+  ],
+  "lastActive": "2026-08-18"
+ },
+ {
+  "name": "SIDELINED",
+  "aliases": [],
+  "ticker": null,
+  "sessionIds": [
+   "session_01U2ujaE2RpJPxDp8zQZSTXf"
+  ],
+  "repo": "jaypacino337/Bingo-@main",
+  "kind": "memecoin-site",
+  "concept": "FOMO memecoin landing page: 'STILL SIDELINED?', the token for everyone who watched BTC/SOL/memes recover without buying. Dark terminal look with a missed_move.log hero ('YOUR POSITION: NONE'), a $1,000-at-the-lows table, a KOL receipts wall, and a log-scale timeline pinning every 'it's dead' moment for BTC, SOL and Solana DEX volume.",
+  "themeKeywords": [
+   "fomo",
+   "sidelined",
+   "bull market",
+   "bitcoin",
+   "solana",
+   "cope",
+   "missed out",
+   "meme volume",
+   "trading terminal"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "User to import to Vercel and buy a domain (instructions given); deploy URL not confirmed",
+   "Set NEXT_PUBLIC_TOKEN_MINT and TWITTER_URL (CA shows TBA)",
+   "Some numbers in lib/content.ts approximate; receipts wall has no screenshots yet"
+  ],
+  "lastActive": "2026-09-19"
+ },
+ {
+  "name": "Signal",
+  "aliases": [
+   "inculture.fun clone"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_018YEEPzMXf7CxcTEGatm3jj"
+  ],
+  "repo": "Ura@claude/solana-mining-game-o30umz",
+  "kind": "scanner/analytics",
+  "concept": "'The tape, ranked': a social feed of memecoin calls. Each call stamps the caller's entry mcap, gets a 0-100 AI verdict, and is ranked by an open For-You-style algorithm; callers are plotted on charts and an earned leaderboard accrues SOL. Market data is simulated.",
+  "themeKeywords": [
+   "calls",
+   "kol",
+   "social feed",
+   "ranking algorithm",
+   "ai verdict",
+   "leaderboard",
+   "memecoins",
+   "pump.fun"
+  ],
+  "referenceSite": "https://inculture.fun/",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Runs on simulated market; real pump.fun firehose not wired",
+   "Replaced by USR on 2026-09-19"
+  ],
+  "lastActive": "2026-08-16"
+ },
+ {
+  "name": "SLUDGE",
+  "aliases": [],
+  "ticker": "$SLUDGE",
+  "sessionIds": [
+   "session_01VdT5Y1VcSQjDbqXPchmfys"
+  ],
+  "repo": "lC@claude/longdog-site-design-kguow6 (/sludge/)",
+  "kind": "memecoin-site",
+  "concept": "A toxic-waste lab themed site modelled on buttbrain.app: an AI that crawls the internet for the next memecoin narrative, 'brews' and launches coins on pump.fun, scores them on volume and keeps what pays each hour. Its interactive 'Brewer' turns a prompt into a ticker, a thesis and a procedurally drawn slime creature, all client-side.",
+  "themeKeywords": [
+   "ai agent",
+   "slime",
+   "toxic waste",
+   "memecoin launcher",
+   "pump.fun",
+   "narratives",
+   "lab",
+   "generator"
+  ],
+  "referenceSite": "https://buttbrain.app",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Brewer is a browser-only demo; the real crawl, launch and score backend does not exist",
+   "Vat ledger empty and $SLUDGE features badged PLANNED",
+   "Repo still not hosted"
+  ],
+  "lastActive": "2026-09-25",
+  "previewUrl": "https://claude.ai/artifact/YHot73qyJ5DyYy5oWRx6C7"
+ },
+ {
+  "name": "Solanda",
+  "aliases": [
+   "theland.dev clone"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01RAU9z7CAVHHZ5BNRkwnFB3"
+  ],
+  "repo": "jaypacino337/LLnad@solanda",
+  "kind": "clone/redesign",
+  "concept": "Original take on theland.dev (site was egress-blocked): a 64x64 grid of claimable land plots on Solana, rebranded Solanda; ownership keys, tests, Docker, CI added. Exact dates not read (earliest part of session; before 2026-09-21).",
+  "themeKeywords": [
+   "land",
+   "plots",
+   "pixel map",
+   "solana",
+   "claim",
+   "virtual real estate",
+   "grid"
+  ],
+  "referenceSite": "https://theland.dev/",
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Superseded by PumpXBT/Hood ST/CLONE in the same repo; archived on its own branch"
+  ],
+  "lastActive": "2026-09-21"
+ },
+ {
+  "name": "Stonk Arena",
+  "aliases": [
+   "stonkarena.xyz",
+   "Stonk",
+   "agentarena-server clone",
+   "StonkArena"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "game",
+  "concept": "'Autonomous AI Stock-Perp League': AI agents (Grok, ChatGPT, Claude, Qwen) trade stock perps on Lighter with equal capital while spectators follow. This session only made promo videos (USR-style 53.5s cut); site repo treated as read-only.",
+  "themeKeywords": [
+   "stocks",
+   "stonks",
+   "arena",
+   "trading game",
+   "competition",
+   "ai agents",
+   "perps",
+   "grok",
+   "chatgpt",
+   "claude",
+   "lighter"
+  ],
+  "referenceSite": "agentarena (Vercel app clone)",
+  "liveUrl": null,
+  "readiness": "in-progress",
+  "openIssues": [
+   "Mechanic and live status unclear from transcript",
+   "Only hype videos produced here; site status unknown"
+  ],
+  "lastActive": "2026-09-24"
+ },
+ {
+  "name": "Super Intelligence Agency",
+  "aliases": [
+   "SIA",
+   "superintelligenceagency.fun"
+  ],
+  "ticker": "$SIA",
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "memecoin-site",
+  "concept": "Black-and-white intelligence-agency themed coin ('Intelligence that follows the money'): holder vs holder competition with a top-10 leaderboard and a scoring ring. This session made a 19s HQ promo video; the site exists separately. Details of the mechanic beyond the video are uncertain.",
+  "themeKeywords": [
+   "intelligence agency",
+   "spy",
+   "ai",
+   "superintelligence",
+   "leaderboard",
+   "holder competition",
+   "surveillance",
+   "hud",
+   "ai agents",
+   "wallet tracking",
+   "pnl",
+   "agency",
+   "bloomberg terminal",
+   "spy agency",
+   "top holders"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://superintelligenceagency.fun",
+  "readiness": "live",
+  "openIssues": [
+   "CA not announced at time of video",
+   "Daily distribution listed as planned on site"
+  ],
+  "lastActive": "2026-10-01"
+ },
+ {
+  "name": "Superintelligence Reactor",
+  "aliases": [],
+  "ticker": "$CORE",
+  "sessionIds": [
+   "session_01XugksV5ohjG45nRSRgpniB"
+  ],
+  "repo": "Bingo-@main (reactor/index.html)",
+  "kind": "memecoin-site",
+  "concept": "An app-style pump.fun memecoin page modelled on sigf.ai. Holders burn $CORE to fuel a live 'superintelligence' cognition meter and vote, weighted by burns, on its next directive. It has Reactor, Directives, Burns and Core tabs, an epoch countdown and read-only wallet connect. The user asked for a 'Super Intelligence' name and told Claude to pick the mechanic.",
+  "themeKeywords": [
+   "ai",
+   "superintelligence",
+   "burn to vote",
+   "reactor",
+   "pump.fun",
+   "governance",
+   "deflationary",
+   "built live"
+  ],
+  "referenceSite": "https://sigf.ai",
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "CA and X link placeholders (Buy button 'soon')",
+   "Undecided whether it replaces the main site or gets its own domain",
+   "Fuel and burn demo is illustrative only"
+  ],
+  "lastActive": "2026-10-02",
+  "previewUrl": "https://claude.ai/artifact/VpvwYz2pk2zMTxfhDpUFqv"
+ },
+ {
+  "name": "THE BOARDROOM",
+  "aliases": [],
+  "ticker": "$BOARD",
+  "sessionIds": [
+   "session_014tSqYrSi1wtKZKu4MFZjWq"
+  ],
+  "repo": "HODL@main (PR #5, later overwritten)",
+  "kind": "other",
+  "concept": "'The treasury has a board.' Five AI agents (BULL, BURN, DIVIDEND, VAULT, DEGEN), each with a permanently locked 1% of $BOARD, debate in public sessions what the treasury should do (buy stock tokens, buyback/burn, LP, airdrop) and record votes. Agents never hold signing keys. Includes a live chat and receipts. Built for Robinhood Chain, launching on Pons V2.",
+  "themeKeywords": [
+   "ai agents",
+   "treasury",
+   "governance",
+   "dao",
+   "robinhood chain",
+   "stock tokens",
+   "buyback",
+   "burn",
+   "boardroom"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Engine (Railway + ANTHROPIC_API_KEY + Supabase) never deployed; site only in PREVIEW/demo mode",
+   "Vercel live status never confirmed",
+   "Replaced on main by AgencyPad"
+  ],
+  "lastActive": "2026-09-26"
+ },
+ {
+  "name": "TopBlast",
+  "aliases": [],
+  "ticker": "$TOPBLAST",
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "launchpad",
+  "concept": "Launch video and article project. From the briefs it appears to be a launchpad/venue with an 'entry line' and 'blast zone': 100% of launchpad revenue funds $TOPBLAST buyback and burn, and the blast zone is rewarded with xSOL every 15 minutes. Exact mechanics are uncertain; the earliest messages were only seen through a context summary.",
+  "themeKeywords": [
+   "launchpad",
+   "blast",
+   "buyback",
+   "burn",
+   "xsol",
+   "rewards",
+   "solana",
+   "stonkfun",
+   "pump.fun",
+   "holder rewards",
+   "blast zone",
+   "entry line"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Tokenomics ('100% of protocol revenue buys back + burns') needed confirmation",
+   "Whether xSOL should be added back",
+   "Only video work in this session; site/product readiness not verified",
+   "topblastlaunch.xyz returned 404 on 2026-10-04"
+  ],
+  "lastActive": "2026-09-24"
+ },
+ {
+  "name": "URA Mine",
+  "aliases": [
+   "URA"
+  ],
+  "ticker": "URA",
+  "sessionIds": [
+   "session_018YEEPzMXf7CxcTEGatm3jj"
+  ],
+  "repo": "Ura@claude/solana-mining-game-o30umz",
+  "kind": "game",
+  "concept": "Ore-style proof-of-work mining game on Solana: an Anchor program with keccak PoW, difficulty retargeting, a 21M URA cap, staking and streak boosts, plus a React app with an in-browser WebWorker miner, pickaxe tiers and a demo mode.",
+  "themeKeywords": [
+   "mining",
+   "proof of work",
+   "ore",
+   "solana",
+   "uranium",
+   "staking",
+   "pickaxe",
+   "game"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "abandoned",
+  "openIssues": [
+   "Program never deployed or audited",
+   "Replaced by Signal on 2026-08-16"
+  ],
+  "lastActive": "2026-07-25"
+ },
+ {
+  "name": "Uranium Strategy",
+  "aliases": [
+   "Trump Strategy",
+   "Uranium Strategy Reserve",
+   "USR",
+   "Moderna MRNAx airdrop",
+   "STRATEGY",
+   "USRHood.fun",
+   "USR (usrsol.fun)",
+   "USR terminal",
+   "usrsol.fun"
+  ],
+  "ticker": "$USTR",
+  "sessionIds": [
+   "session_018J42QVnyEAVMb3McCR5Z8q",
+   "session_01UFGyittwT5NjefimrLfjGJ",
+   "session_01Uu894QWf7CjcYiaH7dfRa1",
+   "session_01JjWqkowg41Rz5GpCBu4bgi",
+   "session_018YEEPzMXf7CxcTEGatm3jj"
+  ],
+  "repo": "Airdrop@main (sessions on claude/stoic-lamport-e6osep, claude/brave-clarke-sibrx4)",
+  "kind": "airdrop/claim",
+  "concept": "Pons coin on Robinhood Chain that pays holders in tokenized uranium every 5 minutes: Pons creator fees go to a treasury, optionally buy uranium tokens, then get airdropped pro rata (500k USTR minimum, 4% per-wallet cap) with a Supabase public ledger and a Cold-War survey-terminal website. The repo pivoted from Trump Strategy to this. Known only from the repo README/git log; neither session worked on it directly. Live at usrsol.fun (\"Uranium Strategy — PONS on Robinhood Chain\"); the Ura-repo $USR prospecting game is a sibling build.",
+  "themeKeywords": [
+   "uranium",
+   "nuclear",
+   "strategy",
+   "robinhood chain",
+   "pons",
+   "reflections",
+   "airdrop",
+   "commodities",
+   "cold war",
+   "trump",
+   "strategy reserve",
+   "stock token",
+   "nne",
+   "mining",
+   "wlfi",
+   "moderna",
+   "stocks",
+   "tokenized stock",
+   "politics",
+   "creator fees",
+   "usr",
+   "solana",
+   "robinhood",
+   "reserve",
+   "prospecting",
+   "rwa",
+   "grid game"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://usrsol.fun",
+  "readiness": "live",
+  "openIssues": [
+   "Deploy status unknown from these sessions; worker boots into standby until configured (RPC, treasury key, token address, reward tokens)",
+   "Nothing deployed (needs Railway token, Supabase schema, Vercel root=web)",
+   "Needs USTR token address after Pons launch, reward token address, Robinhood Chain RPC/explorer, treasury key",
+   "xU3O8 is whitelist-gated; may need NNE proxy",
+   "5x5 prospecting game from brief not built",
+   "Vercel/Railway deploys were failing (root dir web, prod branch, railway.worker.json config)",
+   "Engine in standby: needs CREATOR_PRIVATE_KEY, PROJECT_TOKEN_MINT, REWARD_TOKENS",
+   "Codebase later repurposed for Uranium Strategy (Sept 19)",
+   "Details unverified",
+   "Paid entry intentionally disabled (compliance)",
+   "Pons fee feed, VRF and real settlement not wired (seams documented)",
+   "xU3O8 reserve only planned; no on-chain uranium on Robinhood Chain",
+   "usrsol.fun is the user's existing site; whether this build is deployed there is unconfirmed"
+  ],
+  "lastActive": "2026-09-30"
+ },
+ {
+  "name": "Viral Coin Radar",
+  "aliases": [
+   "MemeCoinScanner",
+   "Wallet Scanner"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01X9wmjy32qpHm5P2jxisPhe",
+   "session_01Xazr1nC2tX74tL7e74L6HQ",
+   "session_01SrTU1GYS9JNcy7cjd116W8"
+  ],
+  "repo": "MemeCoinScanner@claude/wallet-scanner-trades-u607lq",
+  "kind": "scanner/analytics",
+  "concept": "Web app (Next.js + Postgres) that ranks viral TikTok/Instagram/X posts (animal focus) as memecoin ideas with a 100-point opportunity score, ticker generator, and pump.fun duplicate checker. Runs on labelled synthetic fixtures; live data needs a paid provider (Apify etc.). Session also produced manual lists of trending meme coin ideas ($LARGE, $BREADBEAR, $MUFFIN...).",
+  "themeKeywords": [
+   "scanner",
+   "viral content",
+   "tiktok",
+   "copy trading",
+   "wallet tracker",
+   "pump.fun",
+   "analytics",
+   "ticker screening",
+   "viral",
+   "memes",
+   "animals",
+   "ticker generator",
+   "duplicate checker",
+   "trend research"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "Runs in fixture mode without live data credentials; sandbox could not reach Solana RPC",
+   "Twitter-link feature request (Miles Deutscher tweet) blocked: tweet unreachable, waiting on pasted text",
+   "Wallet-watcher scheduling was not approved",
+   "No real data source (TikTok/IG/X/pump.fun blocked; needs Apify or similar API key)",
+   "Data is synthetic fixtures",
+   "Not deployed"
+  ],
+  "lastActive": "2026-09-23"
+ },
+ {
+  "name": "Zazu",
+  "aliases": [
+   "Smudge cat",
+   "Zazu cat"
+  ],
+  "ticker": null,
+  "sessionIds": [
+   "session_01A5G7BD1gEsHyXHj87vqUt6"
+  ],
+  "repo": "Smudge-@claude/robinhood-claims-pons-fees-yflyqw",
+  "kind": "memecoin-site",
+  "concept": "A cat memecoin site on Robinhood Chain (PONS launchpad). It turns the existing 'Smudge cat' site into 'Zazu cat', with a fee dashboard for claim, buyback and burn, a burn meter reading the dead address, and a centre panel of 54 code-drawn Zazu cat variants. The theme is a clean white background with Robinhood neon yellow. The session started from the question of how hard it is to claim PONS creator fees and then buy back and burn.",
+  "themeKeywords": [
+   "cat",
+   "robinhood",
+   "robinhood chain",
+   "pons",
+   "buyback",
+   "burn",
+   "creator fees",
+   "neon yellow"
+  ],
+  "referenceSite": null,
+  "liveUrl": null,
+  "readiness": "built-not-deployed",
+  "openIssues": [
+   "fees.js ships in demo mode; needs RPC and contract addresses to go on-chain",
+   "Cat art is drawn in code; the real Zazu photo must be dropped at assets/zazu-source.png and regenerated",
+   "Old PUMP DAWGS files are still in the repo unlinked",
+   "No deployment mentioned"
+  ],
+  "lastActive": "2026-08-05"
+ },
+ {
+  "name": "zSOL",
+  "aliases": [
+   "zsol.fun",
+   "zsolana.fun"
+  ],
+  "ticker": "zSOL",
+  "sessionIds": [
+   "session_01AjyCjc9DKp3hDMscMn23zS",
+   "session_01JjWqkowg41Rz5GpCBu4bgi",
+   "session_01XugksV5ohjG45nRSRgpniB"
+  ],
+  "repo": "CSTR@claude/topblast-launch-video-article-b717u4 (topblast-video, Remotion)",
+  "kind": "other",
+  "concept": "A Zcash-style zk privacy pool on Solana: deposit 1 SOL, hold zSOL, withdraw to a fresh address with a Groth16 proof of clean origin (association sets). It has circom circuits, a TS SDK and an Anchor program that works end to end on devnet. A pump.fun memecoin and site launch were planned around it, with a white background, Solana colours and Zcash framing. Earlier parts of the session were not reviewed; the branch name hints at a prior 'cashkat insider wallets' idea and the repo previously held an on-chain Bingo game.",
+  "themeKeywords": [
+   "privacy",
+   "zero knowledge",
+   "mixer",
+   "solana",
+   "shielded pool",
+   "zk proof",
+   "lp",
+   "zk",
+   "holder gated",
+   "private sol",
+   "zcash",
+   "zk proofs",
+   "privacy pool",
+   "hackathon",
+   "pump.fun"
+  ],
+  "referenceSite": null,
+  "liveUrl": "https://www.zsolana.fun",
+  "readiness": "live",
+  "openIssues": [
+   "Protocol itself not yet deployed or audited (site/video only)",
+   "Per site: token not launched, vault not deployed",
+   "zsol.fun domain not connected in Vercel (DNS)",
+   "Token not launched; CA and X link placeholders in header",
+   "Mainnet pool unsafe: locally generated verifying key makes the pool drainable; needs trusted-setup ceremony and audit (assistant refused mainnet deploy and refused to remove the 'not audited' disclosure)",
+   "Devnet program 8GMgaGZ88xh5dQbYtCFoDxPoUmAxMHzo43if7nBA9apX works"
+  ],
+  "lastActive": "2026-09-29",
+  "previewUrl": "https://claude.ai/artifact/4jaxSnLaGiMhQZo1Wz5JCP"
+ }
+]

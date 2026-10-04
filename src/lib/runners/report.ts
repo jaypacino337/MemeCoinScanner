@@ -111,12 +111,13 @@ export interface DailyReport {
   sites: SiteGradeRow[];
   top: string[];
   bottom: string[];
+  abandoned: string[];
   unclassifiedWords: Array<{ word: string; days: number; volumeUsd: number }>;
   sourceStatus: Record<string, string>;
   memoryDays: number;
 }
 
-const META_INDEPENDENT_KINDS = new Set(['bot', 'trading-tool', 'scanner/analytics']);
+const META_INDEPENDENT_KINDS = new Set(['bot', 'trading-tool', 'scanner/analytics', 'tooling']);
 
 const READINESS_POINTS: Record<Readiness, number> = {
   live: 25,
@@ -189,8 +190,14 @@ function trendOf(today: number, history: MemoryDay[], metaId: string): { trend: 
   return { trend, avg: round(avg, 3), streak };
 }
 
-function siteText(site: SiteEntry): string {
-  return [site.name, ...(site.aliases ?? []), site.ticker ?? '', site.concept, ...(site.themeKeywords ?? [])].join(' ');
+/**
+ * A site's metas come from its name, ticker and theme keywords. The free-text
+ * concept is only a fallback: it is full of incidental words ("Solana",
+ * "airdrop", "fees") that would put every site in every meta.
+ */
+function classifySite(site: SiteEntry): ReturnType<typeof classifyText> {
+  const core = classifyText([site.name, ...(site.aliases ?? []), site.ticker ?? '', ...(site.themeKeywords ?? [])].join(' '));
+  return core.length ? core : classifyText(site.concept);
 }
 
 function canon(s: string): string {
@@ -258,7 +265,7 @@ export function buildDailyReport(input: {
 
   // ---- Site grades ------------------------------------------------------
   const siteRows: SiteGradeRow[] = sites.map((site) => {
-    const matches = classifyText(siteText(site));
+    const matches = classifySite(site);
     const siteMetaIds = matches.slice(0, 3).map((m) => m.metaId);
     const metaIndependent = META_INDEPENDENT_KINDS.has(site.kind);
     const rows = siteMetaIds.map((id) => metaRow.get(id)).filter((r): r is MetaRow => Boolean(r));
@@ -383,7 +390,8 @@ export function buildDailyReport(input: {
     memory.siteGrades[row.name] = [...prior, { date, grade: row.grade, score: row.score }].slice(-90);
   }
 
-  const graded = siteRows.filter((s) => !s.metaIndependent);
+  // Top/bottom compare the sites still in play; abandoned ones are listed apart.
+  const graded = siteRows.filter((s) => !s.metaIndependent && s.readiness !== 'abandoned');
   const report: DailyReport = {
     date,
     generatedAt: now.toISOString(),
@@ -395,6 +403,7 @@ export function buildDailyReport(input: {
     sites: siteRows,
     top: graded.slice(0, 5).map((s) => s.name),
     bottom: graded.slice(-5).reverse().map((s) => s.name),
+    abandoned: siteRows.filter((s) => s.readiness === 'abandoned').map((s) => s.name),
     unclassifiedWords: Object.entries(words)
       .map(([word, v]) => ({ word, days: v.days, volumeUsd: v.volumeUsd }))
       .sort((a, b) => b.days - a.days || b.volumeUsd - a.volumeUsd)

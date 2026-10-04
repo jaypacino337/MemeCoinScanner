@@ -47,7 +47,7 @@ export const METAS: MetaDef[] = [
     blurb: 'Names borrowed from large companies or large coins (XRP, Google, SpaceX).',
     terms: [
       'xrp', 'ripple', 'google', 'spacex', 'apple', 'amazon', 'microsoft', 'openai', 'meta',
-      'binance', 'coinbase', 'evernorth', 'usd', 'bitcoin', 'btc', 'eth', 'solana',
+      'binance', 'coinbase', 'evernorth', 'usd', 'bitcoin', 'btc', 'eth',
     ],
   },
   {

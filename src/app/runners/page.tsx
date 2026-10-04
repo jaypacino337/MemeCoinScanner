@@ -151,7 +151,7 @@ export default async function RunnersPage(): Promise<ReactNode> {
             })}
           </ol>
         </Panel>
-        <Panel title="Bottom 5" subtitle="Weakest fit today: rework or park">
+        <Panel title="Bottom 5" subtitle="Weakest of the sites still in play: rework or park">
           <ol className="space-y-2">
             {report.bottom.map((name, i) => {
               const s = byName.get(name);
@@ -168,7 +168,11 @@ export default async function RunnersPage(): Promise<ReactNode> {
         </Panel>
       </div>
 
-      <Panel title="Meta board" subtitle="Share of today's runner heat (log volume, inflated market caps down-weighted)">
+      {report.abandoned?.length ? (
+        <p className="text-xs text-ink-faint">Abandoned (not ranked): {report.abandoned.join(', ')}</p>
+      ) : null}
+
+      <Panel title="Meta board" subtitle="Share of today's runner heat (√volume, inflated market caps down-weighted)">
         <div className="overflow-x-auto">
           <table className="w-full text-left text-sm">
             <thead className="text-[11px] tracking-wider text-ink-faint uppercase">
