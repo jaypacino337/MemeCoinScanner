@@ -105,6 +105,18 @@ When a ticker is occupied, three alternates are generated and screened, and the
 first clean one is promoted. Every ticker is ≤10 characters, pronounceable, free
 of confusing punctuation, and validated against the meme subject before display.
 
+### Wallet scanner
+Scans any Solana wallet's token swaps for one UTC day (via `SOLANA_RPC_URL`),
+pairs them into positions, and distils the observable pattern — hold style,
+position sizing, exit style, re-entry behaviour, win rate — into evidence-cited
+rules you can adapt for your own strategy. Realized PnL is computed only from
+round trips completed inside the window; open positions and pre-window buys are
+labelled, never priced by guesswork. Also available headless:
+
+```bash
+npm run scan:wallet -- --address <pubkey> --date 2026-09-19   # --json for raw output
+```
+
 ### Today's meta
 Describes repeated patterns among launches observed in the searched index. It is
 a creative prompt, presented with that caveat attached — never a prediction.
@@ -119,6 +131,7 @@ a creative prompt, presented with that caveat attached — never a prediction.
 | `/tiktok`, `/instagram`, `/x` | Top 25 ranked ideas per platform with the full filter set |
 | `/idea/[id]` | Media, metrics, growth chart, thesis, name + 3 alternates, screening tables, risks, actions |
 | `/duplicate-checker` | Screen any name/ticker/subject on demand |
+| `/wallets` | Scan a wallet's day of trades and read its strategy profile |
 | `/saved` | Kept ideas |
 | `/rejected` | Rejected by you, blocked by an existing token, or excluded by the pipeline |
 | `/settings` | Data-source health, credentials detected, scan history, scoring model |
@@ -220,6 +233,7 @@ npm run scan -- --platform TIKTOK --min-views 1000000 --window-days 14
 | `POST` | `/api/candidates/[id]/rescan` | Re-read metrics and re-score |
 | `POST` | `/api/scan` | Run a scan with filters |
 | `POST` | `/api/duplicate-check` | Screen a name/ticker/subject |
+| `GET`/`POST` | `/api/wallets/scan` | Tracked wallets / scan a wallet's day of trades |
 | `GET` | `/api/health` | Data-source and database health |
 
 All routes are rate limited per client (expensive routes cost more budget) and
