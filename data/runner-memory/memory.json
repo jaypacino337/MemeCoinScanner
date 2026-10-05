@@ -24,6 +24,30 @@
     "unclassified": 0.066
    },
    "runnerCount": 90
+  },
+  {
+   "date": "2026-10-05",
+   "metaShare": {
+    "tokenized-fund": 0.139,
+    "stocks-tradfi": 0.051,
+    "brand-cosplay": 0.021,
+    "america-politics": 0.033,
+    "ai-agents": 0.13,
+    "dogs": 0.031,
+    "cats": 0.077,
+    "frogs-animals": 0.007,
+    "brainrot": 0.025,
+    "gambling-games": 0,
+    "launchpad-platform": 0.041,
+    "airdrop-claim": 0,
+    "prediction-markets": 0,
+    "livestream-social": 0.039,
+    "defi-payments": 0.011,
+    "seasonal": 0,
+    "celebrity-culture": 0,
+    "unclassified": 0.395
+   },
+   "runnerCount": 105
   }
  ],
  "siteGrades": {
@@ -32,6 +56,11 @@
     "date": "2026-10-04",
     "grade": "A",
     "score": 85.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 41.8
    }
   ],
   "Super Intelligence Agency": [
@@ -39,6 +68,11 @@
     "date": "2026-10-04",
     "grade": "A",
     "score": 81.8
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 40.8
    }
   ],
   "Uranium Strategy": [
@@ -46,6 +80,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 71.7
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 71.8
    }
   ],
   "CLONE": [
@@ -53,6 +92,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 72.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.4
    }
   ],
   "CSTR — Chip Strategy": [
@@ -60,6 +104,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 72.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.4
    }
   ],
   "Sentia": [
@@ -67,6 +116,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 74.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 56.1
    }
   ],
   "SLUDGE": [
@@ -74,6 +128,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 74.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 54.6
    }
   ],
   "EPOCH NINE": [
@@ -81,6 +140,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 72.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.4
    }
   ],
   "CSTR Lending": [
@@ -88,6 +152,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 59.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 57.6
    }
   ],
   "Superintelligence Reactor": [
@@ -95,6 +164,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 66.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 53.8
    }
   ],
   "Diamantini": [
@@ -102,6 +176,11 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 38.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 43.3
    }
   ],
   "Bundle Sniffer": [
@@ -109,6 +188,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 66.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 48.1
    }
   ],
   "Stonk Arena": [
@@ -116,11 +200,21 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 65.5
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 46.1
    }
   ],
   "Agent Xero": [
    {
     "date": "2026-10-04",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-05",
     "grade": "B",
     "score": 66
    }
@@ -130,11 +224,21 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 66
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 66
    }
   ],
   "Perpl MM Bot": [
    {
     "date": "2026-10-04",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-05",
     "grade": "B",
     "score": 66
    }
@@ -144,6 +248,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 66
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 66
    }
   ],
   "Dividend Dog": [
@@ -151,6 +260,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 51.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.7
    }
   ],
   "THE BOARDROOM": [
@@ -158,6 +272,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 61.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 43.5
    }
   ],
   "Attention Markets": [
@@ -165,11 +284,21 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 61
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 41.8
    }
   ],
   "FSVO volume market-maker": [
    {
     "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
     "grade": "B",
     "score": 60
    }
@@ -179,11 +308,21 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 71.4
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 73
    }
   ],
   "Polybot": [
    {
     "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
     "grade": "B",
     "score": 60
    }
@@ -193,11 +332,21 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 60
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 60
    }
   ],
   "Robin Hood V2": [
    {
     "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
     "grade": "B",
     "score": 60
    }
@@ -207,6 +356,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 53.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 65
    }
   ],
   "zSOL": [
@@ -214,6 +368,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 51.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 42
    }
   ],
   "PRVC": [
@@ -221,11 +380,21 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 50.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 62.4
    }
   ],
   "memcoinz Solana skills toolkit": [
    {
     "date": "2026-10-04",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-05",
     "grade": "C",
     "score": 58
    }
@@ -235,6 +404,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 55
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 35.8
    }
   ],
   "SIDELINED": [
@@ -242,11 +416,21 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 51.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 39.6
    }
   ],
   "Copycat": [
    {
     "date": "2026-10-04",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-05",
     "grade": "C",
     "score": 53
    }
@@ -256,6 +440,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 50.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 54.8
    }
   ],
   "Go Fund Memes": [
@@ -263,6 +452,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 52.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 57.4
    }
   ],
   "Hood ST": [
@@ -270,6 +464,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 45.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 56.9
    }
   ],
   "TopBlast": [
@@ -277,11 +476,21 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 44.5
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 55.4
    }
   ],
   "Funding Arb Desk": [
    {
     "date": "2026-10-04",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-05",
     "grade": "C",
     "score": 52
    }
@@ -291,6 +500,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 53.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 58.4
    }
   ],
   "Zazu": [
@@ -298,6 +512,11 @@
     "date": "2026-10-04",
     "grade": "B",
     "score": 68.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.9
    }
   ],
   "GOATSE": [
@@ -305,6 +524,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 45
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 33
    }
   ],
   "PitBrokers": [
@@ -312,11 +536,21 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 39.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52
    }
   ],
   "PAPER paper-trading terminal": [
    {
     "date": "2026-10-04",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-05",
     "grade": "C",
     "score": 47
    }
@@ -326,6 +560,11 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 44.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 48.8
    }
   ],
   "Rally": [
@@ -333,6 +572,11 @@
     "date": "2026-10-04",
     "grade": "C",
     "score": 47.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 49.7
    }
   ],
   "Sherwood Protocol": [
@@ -340,6 +584,11 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 39.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52
    }
   ],
   "OUTLET": [
@@ -347,11 +596,21 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 37.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 49.4
    }
   ],
   "Plum": [
    {
     "date": "2026-10-04",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-05",
     "grade": "D",
     "score": 42
    }
@@ -361,6 +620,11 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 42
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 42
    }
   ],
   "Cash Cow": [
@@ -368,6 +632,11 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 26.5
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 37.4
    }
   ],
   "Duel Royale": [
@@ -375,6 +644,11 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 27.8
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 17
    }
   ],
   "Bingo.fun": [
@@ -382,6 +656,11 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 27.8
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 17
    }
   ],
   "URA Mine": [
@@ -389,6 +668,11 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 27.4
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 17
    }
   ],
   "HODL OR NO HODL": [
@@ -396,6 +680,11 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 22.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 31.4
    }
   ],
   "BasketLaunch": [
@@ -403,6 +692,11 @@
     "date": "2026-10-04",
     "grade": "D",
     "score": 40.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 40.7
    }
   ],
   "Solanda": [
@@ -410,6 +704,11 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 20.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 11
    }
   ],
   "OVERBID": [
@@ -417,6 +716,39 @@
     "date": "2026-10-04",
     "grade": "F",
     "score": 21.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 32.7
+   }
+  ],
+  "CLAWSIFIED": [
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 61.3
+   }
+  ],
+  "HamGPT": [
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 58.6
+   }
+  ],
+  "FOREMAN": [
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 55.5
+   }
+  ],
+  "Persona": [
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 55.1
    }
   ]
  },
@@ -427,14 +759,14 @@
    "volumeUsd": 1222153
   },
   "whipcat": {
-   "days": 1,
-   "lastSeen": "2026-10-04",
-   "volumeUsd": 582144
+   "days": 2,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1126941
   },
   "usor": {
-   "days": 1,
-   "lastSeen": "2026-10-04",
-   "volumeUsd": 244266
+   "days": 2,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 437679
   },
   "xingxing": {
    "days": 1,
@@ -452,14 +784,14 @@
    "volumeUsd": 113620
   },
   "ntda": {
-   "days": 1,
-   "lastSeen": "2026-10-04",
-   "volumeUsd": 421088
+   "days": 2,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 741066
   },
   "vsof": {
-   "days": 1,
-   "lastSeen": "2026-10-04",
-   "volumeUsd": 1005416
+   "days": 2,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1829036
   },
   "iof": {
    "days": 1,
@@ -467,9 +799,199 @@
    "volumeUsd": 786872
   },
   "aros": {
+   "days": 2,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 791144
+  },
+  "team": {
    "days": 1,
-   "lastSeen": "2026-10-04",
-   "volumeUsd": 386933
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 22406499
+  },
+  "human": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 23523615
+  },
+  "super": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 5542588
+  },
+  "model": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 5542588
+  },
+  "baton": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 8716118
+  },
+  "rogue": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 3888178
+  },
+  "batonrogue": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 3888178
+  },
+  "jetpack": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2908321
+  },
+  "xman": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2240013
+  },
+  "gizmo": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2155103
+  },
+  "genesis": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2073552
+  },
+  "last": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2027171
+  },
+  "xfun": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1774080
+  },
+  "stack": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1363823
+  },
+  "shibling": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 743950
+  },
+  "gomo": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 522949
+  },
+  "app": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 522949
+  },
+  "texcat": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 433318
+  },
+  "trench": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 343653
+  },
+  "hero": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 258814
+  },
+  "squirrel": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 258814
+  },
+  "hnut": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 258814
+  },
+  "seccash": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 406309
+  },
+  "sec": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 239225
+  },
+  "spx38f": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 191557
+  },
+  "spx": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 191557
+  },
+  "oura": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 179371
+  },
+  "usms": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 157878
+  },
+  "professor": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 151611
+  },
+  "eich": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 151611
+  },
+  "oraichain": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 149301
+  },
+  "orai": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 149301
+  },
+  "janie": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 106573
+  },
+  "sarp": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 840884
+  },
+  "atfs": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 711669
+  },
+  "jean": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 387015
+  },
+  "phil": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 387015
+  },
+  "jeanphil": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 387015
   }
  }
 }

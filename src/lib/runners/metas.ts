@@ -73,7 +73,7 @@ export const METAS: MetaDef[] = [
     id: 'dogs',
     label: 'Dogs',
     blurb: 'Dog mascots — the oldest meta on the chain.',
-    terms: ['dog', 'doge', 'pup', 'puppy', 'shiba', 'inu', 'wif', 'bonk', 'longdog', 'corgi', 'pug'],
+    terms: ['dog', 'doge', 'pup', 'puppy', 'shib', 'shiba', 'inu', 'wif', 'bonk', 'longdog', 'corgi', 'pug'],
   },
   {
     id: 'cats',
@@ -88,7 +88,7 @@ export const METAS: MetaDef[] = [
     terms: [
       'frog', 'pepe', 'peponk', 'fish', 'feesh', 'goat', 'monkey', 'ape', 'penguin', 'bear',
       'bull', 'fox', 'hippo', 'duck', 'goose', 'pigeon', 'rat', 'hamster', 'panda', 'crab',
-      'crocodile', 'frogodile', 'otter', 'capybara', 'animal',
+      'crocodile', 'frogodile', 'otter', 'capybara', 'animal', 'squirrel', 'raccoon', 'beaver',
     ],
   },
   {
@@ -184,6 +184,12 @@ const WHOLE_WORD = new Set([
   'pad', 'meta', 'bull', 'bear', 'gold', 'u.s', 'usa', 'pup', 'dex', 'fish',
 ]);
 
+/**
+ * Mascot nouns that tickers glue onto the end of another word ("WHIPCAT",
+ * "TEXCAT", "SHIBDOG"): these also match as a word suffix.
+ */
+const SUFFIX_OK = new Set(['cat', 'dog', 'frog', 'pepe', 'inu', 'doge', 'kitty', 'monkey', 'ape']);
+
 const TERM_PATTERNS: Array<{ metaId: string; term: string; re: RegExp }> = METAS.flatMap((meta) =>
   meta.terms.map((term) => ({
     metaId: meta.id,
@@ -193,7 +199,9 @@ const TERM_PATTERNS: Array<{ metaId: string; term: string; re: RegExp }> = METAS
     re:
       term.length <= 2 || WHOLE_WORD.has(term)
         ? new RegExp(`(^|[^a-z0-9])${escapeRegex(term)}($|[^a-z0-9])`, 'i')
-        : new RegExp(`(^|[^a-z0-9])${escapeRegex(term)}`, 'i'),
+        : SUFFIX_OK.has(term)
+          ? new RegExp(`(^|[^a-z0-9])${escapeRegex(term)}|${escapeRegex(term)}($|[^a-z0-9])`, 'i')
+          : new RegExp(`(^|[^a-z0-9])${escapeRegex(term)}`, 'i'),
   })),
 );
 

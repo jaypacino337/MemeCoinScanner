@@ -1168,7 +1168,7 @@
   "liveUrl": null,
   "readiness": "built-not-deployed",
   "openIssues": [
-   "Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $AURA token not launched"
+   "Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $PERSONA token not launched"
   ],
   "lastActive": "2026-10-04"
  },

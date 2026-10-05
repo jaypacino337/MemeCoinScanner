@@ -43,6 +43,14 @@ describe('classifyText', () => {
     );
   });
 
+  it('matches mascot nouns glued onto the end of a ticker', () => {
+    expect(classifyText('WHIPCAT').map((m) => m.metaId)).toContain('cats');
+    expect(classifyText('Texcat').map((m) => m.metaId)).toContain('cats');
+    expect(classifyText('SHIBLING').map((m) => m.metaId)).toContain('dogs');
+    // Suffix matching stays limited to mascot nouns: "scatter" is not a cat.
+    expect(classifyText('scatter plot').map((m) => m.metaId)).not.toContain('cats');
+  });
+
   it('returns nothing for text with no meta keyword', () => {
     expect(classifyText('SPLICE')).toEqual([]);
   });
