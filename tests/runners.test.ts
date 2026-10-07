@@ -51,6 +51,14 @@ describe('classifyText', () => {
     expect(classifyText('scatter plot').map((m) => m.metaId)).not.toContain('cats');
   });
 
+  it('classifies app-pitched coins and borrowed brand names that persisted 3+ days', () => {
+    expect(classifyText('Gomo App').map((m) => m.metaId)).toContain('apps-utility');
+    expect(classifyText('Juice Pools').map((m) => m.metaId)).toContain('apps-utility');
+    expect(classifyText('Oura').map((m) => m.metaId)).toContain('brand-cosplay');
+    // "app" must stay whole-word-ish at the start: "apple" is brand cosplay, not an app coin.
+    expect(classifyText('apple').map((m) => m.metaId)).not.toContain('apps-utility');
+  });
+
   it('returns nothing for text with no meta keyword', () => {
     expect(classifyText('SPLICE')).toEqual([]);
   });

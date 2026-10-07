@@ -47,7 +47,7 @@ export const METAS: MetaDef[] = [
     blurb: 'Names borrowed from large companies or large coins (XRP, Google, SpaceX).',
     terms: [
       'xrp', 'ripple', 'google', 'spacex', 'apple', 'amazon', 'microsoft', 'openai', 'meta',
-      'binance', 'coinbase', 'evernorth', 'usd', 'bitcoin', 'btc', 'eth',
+      'binance', 'coinbase', 'evernorth', 'usd', 'bitcoin', 'btc', 'eth', 'oura',
     ],
   },
   {
@@ -137,6 +137,12 @@ export const METAS: MetaDef[] = [
     terms: ['livestream', 'stream', 'tiktok', 'twitter', 'influencer', 'streamer', 'viral', 'clip'],
   },
   {
+    id: 'apps-utility',
+    label: 'Apps & utility',
+    blurb: 'Coins pitched as a real app or tool: social apps, money apps, pools, margin.',
+    terms: ['app', 'apps', 'pools', 'margin', 'irl', 'tweetcraft', 'toolkit', 'platform app', 'mini app'],
+  },
+  {
     id: 'defi-payments',
     label: 'DeFi & payments',
     blurb: 'Finance-app narratives: pay, vaults, dark pools, yield.',
@@ -181,7 +187,7 @@ function escapeRegex(value: string): string {
 const WHOLE_WORD = new Set([
   'usd', 'eth', 'btc', 'bot', 'ape', 'rat', 'bet', 'etf', 'ipo', 'fee', 'mew', 'lol', 'bro',
   'nah', 'pug', 'inu', 'wif', 'win', 'oil', 'nba', 'nfl', 'agi', 'llm', 'gpt', 'rwa', 'fox',
-  'pad', 'meta', 'bull', 'bear', 'gold', 'u.s', 'usa', 'pup', 'dex', 'fish',
+  'pad', 'meta', 'bull', 'bear', 'gold', 'u.s', 'usa', 'pup', 'dex', 'fish', 'app', 'irl',
 ]);
 
 /**
