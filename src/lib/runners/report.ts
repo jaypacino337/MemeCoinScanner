@@ -204,6 +204,24 @@ function canon(s: string): string {
   return s.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 
+/**
+ * Every run of consecutive words in a name, canonicalised: "Doroni Personal Flight" gives
+ * doroni, personal, flight, doronipersonal, personalflight, doronipersonalflight. A site name only
+ * overlaps a runner when it equals one of these, so "persona" does not match inside "personal".
+ */
+function wordRuns(name: string): Set<string> {
+  const words = name.toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+  const out = new Set<string>();
+  for (let i = 0; i < words.length; i += 1) {
+    let acc = '';
+    for (let j = i; j < words.length; j += 1) {
+      acc += words[j];
+      out.add(acc);
+    }
+  }
+  return out;
+}
+
 function findCollisions(site: SiteEntry, runners: ClassifiedRunner[]): SiteGradeRow['collisions'] {
   const names = [site.name, ...(site.aliases ?? [])].map(canon).filter((n) => n.length >= 3);
   const ticker = site.ticker ? canon(site.ticker) : null;
@@ -214,7 +232,7 @@ function findCollisions(site: SiteEntry, runners: ClassifiedRunner[]): SiteGrade
     let why: string | null = null;
     if (ticker && ticker.length >= 2 && rs === ticker) why = `same ticker $${r.symbol}`;
     else if (names.some((n) => rn === n || rs === n)) why = 'same name';
-    else if (names.some((n) => n.length >= 5 && (rn.includes(n) || (rn.length >= 5 && n.includes(rn))))) why = 'name overlap';
+    else if (names.some((n) => n.length >= 5 && (wordRuns(r.name).has(n) || (rn.length >= 5 && n.includes(rn))))) why = 'name overlap';
     if (why) out.push({ symbol: r.symbol, name: r.name, volume24hUsd: r.volume24hUsd, why });
   }
   return out.slice(0, 5);

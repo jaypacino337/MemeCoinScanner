@@ -59,6 +59,10 @@ describe('classifyText', () => {
     expect(classifyText('apple').map((m) => m.metaId)).not.toContain('apps-utility');
   });
 
+  it('puts the persistent fund-LARP tickers in the fund meta', () => {
+    for (const t of ['SARP', 'ATFS', 'VSOF']) expect(classifyText(t).map((m) => m.metaId)).toContain('tokenized-fund');
+  });
+
   it('returns nothing for text with no meta keyword', () => {
     expect(classifyText('SPLICE')).toEqual([]);
   });
@@ -130,6 +134,28 @@ describe('buildDailyReport', () => {
     expect(report.top).not.toContain('MM Bot');
     expect(report.bottom).not.toContain('Old Cat Game');
     expect(report.abandoned).toEqual(['Old Cat Game']);
+  });
+
+  it('only counts name overlap on whole words', () => {
+    const named = rankRunners(
+      [
+        candidate({ symbol: 'DORONI', name: 'Doroni Personal Flight', volume24hUsd: 500_000 }),
+        candidate({ symbol: 'PDAWG', name: 'Pump Dawgs Club', volume24hUsd: 500_000 }),
+      ],
+      opts,
+    );
+    const { report } = buildDailyReport({
+      date: '2026-10-09',
+      now: NOW,
+      runners: named,
+      sites: [
+        { name: 'Persona', kind: 'launchpad', concept: 'ai influencers', readiness: 'live' },
+        { name: 'Pump Dawgs', kind: 'nft', concept: 'dogs', readiness: 'live' },
+      ],
+      memory: EMPTY_MEMORY,
+    });
+    expect(report.sites.find((s) => s.name === 'Persona')!.collisions).toEqual([]);
+    expect(report.sites.find((s) => s.name === 'Pump Dawgs')!.collisions[0]?.why).toBe('name overlap');
   });
 
   it('detects ticker collisions with today’s runners and surfaces deploy blockers', () => {

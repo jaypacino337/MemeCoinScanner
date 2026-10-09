@@ -28,7 +28,7 @@ export const METAS: MetaDef[] = [
     terms: [
       'fund', 'trust', 'reserve', 'strategic', 'dividend', 'treasury', 'oil', 'petroleum',
       'protocol', 'institution', 'sovereign', 'relief', 'supply', 'tokeniz', 'rwa', 'bond',
-      'gold', 'water',
+      'gold', 'water', 'sarp', 'atfs', 'vsof',
     ],
   },
   {
