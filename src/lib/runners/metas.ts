@@ -28,7 +28,7 @@ export const METAS: MetaDef[] = [
     terms: [
       'fund', 'trust', 'reserve', 'strategic', 'dividend', 'treasury', 'oil', 'petroleum',
       'protocol', 'institution', 'sovereign', 'relief', 'supply', 'tokeniz', 'rwa', 'bond',
-      'gold', 'water', 'sarp', 'atfs', 'vsof',
+      'gold', 'water', 'sarp', 'atfs', 'vsof', 'dotf',
     ],
   },
   {
@@ -65,7 +65,7 @@ export const METAS: MetaDef[] = [
     blurb: 'AI agents, AI influencers, models, bots and machine-intelligence jokes.',
     terms: [
       'ai', 'agent', 'gpt', 'intelligence', 'neural', 'robot', 'bot', 'llm',
-      'agi', 'singularity', 'sentient', 'sentia', 'claude', 'grok', 'compute', 'gpu',
+      'agi', 'singularity', 'sentient', 'sentia', 'claude', 'claudia', 'grok', 'compute', 'gpu',
       'agency', 'hivemind', 'crawl', 'super agent', 'self-aware',
     ],
   },
