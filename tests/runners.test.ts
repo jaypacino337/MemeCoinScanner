@@ -59,12 +59,16 @@ describe('classifyText', () => {
     expect(classifyText('apple').map((m) => m.metaId)).not.toContain('apps-utility');
   });
 
+  it('counts the recurring Baton meme as brainrot', () => {
+    for (const t of ['baton', 'Baton Rogue', 'Baton Factory']) expect(classifyText(t).map((m) => m.metaId)).toContain('brainrot');
+  });
+
   it('counts the Claudia AI runner as AI agents', () => {
     expect(classifyText('Claudia').map((m) => m.metaId)).toContain('ai-agents');
   });
 
   it('puts the persistent fund-LARP tickers in the fund meta', () => {
-    for (const t of ['SARP', 'ATFS', 'VSOF', 'DOTF']) expect(classifyText(t).map((m) => m.metaId)).toContain('tokenized-fund');
+    for (const t of ['SARP', 'ATFS', 'VSOF', 'DOTF', 'UDR']) expect(classifyText(t).map((m) => m.metaId)).toContain('tokenized-fund');
   });
 
   it('returns nothing for text with no meta keyword', () => {

@@ -28,7 +28,7 @@ export const METAS: MetaDef[] = [
     terms: [
       'fund', 'trust', 'reserve', 'strategic', 'dividend', 'treasury', 'oil', 'petroleum',
       'protocol', 'institution', 'sovereign', 'relief', 'supply', 'tokeniz', 'rwa', 'bond',
-      'gold', 'water', 'sarp', 'atfs', 'vsof', 'dotf',
+      'gold', 'water', 'sarp', 'atfs', 'vsof', 'dotf', 'udr',
     ],
   },
   {
@@ -97,7 +97,7 @@ export const METAS: MetaDef[] = [
     blurb: 'Internet slang, catchphrases and pure nonsense tickers.',
     terms: [
       'brainrot', 'skibidi', 'rizz', 'sigma', 'gyatt', 'based', 'cope', 'wojak', 'chad',
-      'retard', 'goif', 'bro', 'nah', 'fart', 'lol', 'meme', 'vibe', 'slop', 'mistake',
+      'retard', 'goif', 'bro', 'nah', 'fart', 'lol', 'meme', 'vibe', 'slop', 'mistake', 'baton',
     ],
   },
   {
