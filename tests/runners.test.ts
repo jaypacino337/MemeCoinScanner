@@ -63,6 +63,10 @@ describe('classifyText', () => {
     for (const t of ['baton', 'Baton Rogue', 'Baton Factory']) expect(classifyText(t).map((m) => m.metaId)).toContain('brainrot');
   });
 
+  it('counts U.S. Oil and USDP reserve tickers as tokenized-fund', () => {
+    for (const t of ['USOR/SOL', 'U.S Oil', 'USDP']) expect(classifyText(t).map((m) => m.metaId)).toContain('tokenized-fund');
+  });
+
   it('counts the Claudia AI runner as AI agents', () => {
     expect(classifyText('Claudia').map((m) => m.metaId)).toContain('ai-agents');
   });
