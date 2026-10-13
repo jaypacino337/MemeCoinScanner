@@ -1,6 +1,6 @@
-# Runners vs. our sites — 2026-10-12
+# Runners vs. our sites — 2026-10-13
 
-61 runners today (created in the last 48h or up 100%+ in 24h, $100k+ 24h volume), $30.7M combined 24h volume. 16 have market caps more than 60× their liquidity and are down-weighted. Memory: 9 day(s).
+67 runners today (created in the last 48h or up 100%+ in 24h, $100k+ 24h volume), $33.8M combined 24h volume. 15 have market caps more than 60× their liquidity and are down-weighted. Memory: 10 day(s).
 
 > Descriptive only. Runner heat is what traded today, not a prediction of what will.
 
@@ -8,115 +8,198 @@
 
 | Meta | Share of heat | Trend | Runners | 24h volume | Inflated | Examples |
 |---|---|---|---|---|---|---|
-| Tokenized fund / reserve LARP | 21% | rising (7d avg 16%) | 24 | $7.2M | 38% | $IOF, $WSOS, $USOR/SOL, $XDC NET |
-| Unclassified | 20% | cooling (7d avg 31%) | 10 | $6.2M | 10% | $SEAN, $FIGHT, $WEDNESDAY, $BTB |
-| America / politics | 16% | rising (7d avg 7%) | 18 | $13.8M | 28% | $DOPE, $DOGU, $GOMODOGE, $DOGELON |
-| Dogs | 9% | rising (7d avg 7%) | 4 | $10.1M | 0% | $DOPE, $DOGU, $GOMODOGE, $DOGELON |
-| AI agents & AI culture | 7% | cooling (7d avg 12%) | 8 | $2.0M | 25% | $HIGGS, $ConConAI, $ConConAI, $ANTH |
-| Brainrot & slang | 6% | rising (7d avg 3%) | 5 | $1.5M | 20% | $GTA, $SLOPCORE, $JPAD, $GTA |
-| Big-brand / big-coin cosplay | 4% | steady (7d avg 4%) | 4 | $2.1M | 75% | $RLUSD, $EVERNORTHX, $XRPN, $XRPN |
-| DeFi & payments | 3% | rising (7d avg 2%) | 2 | $466k | 0% | $NTRNDM, $Arrow |
-| Cats | 3% | cooling (7d avg 7%) | 1 | $710k | 0% | $CAT89 |
-| Frogs & other animals | 3% | rising (7d avg 1%) | 1 | $6.2M | 0% | $DOPE |
-| Celebrity & pop culture | 3% | rising (7d avg 0%) | 2 | $500k | 0% | $Musk, $WildEXP |
-| Launchpads & platforms | 2% | steady (7d avg 2%) | 3 | $571k | 33% | $JPAD, $UKFLMS, $XBC |
-| Livestream & social stunts | 2% | rising (7d avg 1%) | 2 | $436k | 0% | $HIGGS, $WildEXP |
-| Airdrops & claims | 1% | rising (7d avg 1%) | 3 | $838k | 33% | $JPAD, $SI276, $SI276 |
-| Stocks & TradFi crossover | 1% | cooling (7d avg 4%) | 2 | $629k | 50% | $FPES, $FPES |
+| Tokenized fund / reserve LARP | 23% | rising (7d avg 17%) | 30 | $10.9M | 37% | $HUMPH, $ARF, $VSOF, $DAWS |
+| AI agents & AI culture | 23% | rising (7d avg 11%) | 12 | $14.4M | 0% | $CRAWLER, $BATONA, $HIRE, $ANTH |
+| Unclassified | 21% | steady (7d avg 28%) | 14 | $4.3M | 7% | $DEPTH, $$HATE, $Solamians, $Bumo |
+| America / politics | 10% | steady (7d avg 9%) | 19 | $4.8M | 21% | $DOPE, $ARF, $DAWS, $AORP |
+| Frogs & other animals | 4% | rising (7d avg 1%) | 4 | $1.9M | 0% | $Bear, $DOPE, $DOPE, $DOPE |
+| Brainrot & slang | 4% | steady (7d avg 3%) | 4 | $4.0M | 50% | $BATONA, $SLOPCORE, $GOIF, $GOIF |
+| Launchpads & platforms | 3% | rising (7d avg 2%) | 3 | $3.0M | 33% | $BATONA, $DARK, $UKFLMS |
+| Big-brand / big-coin cosplay | 2% | cooling (7d avg 4%) | 3 | $1.5M | 100% | $EVERNORTHX, $EVERNORTHXRP, $EVERNORTHX |
+| Dogs | 2% | cooling (7d avg 8%) | 4 | $1.3M | 0% | $DOPE, $swordcat, $DOPE, $DOPE |
+| Airdrops & claims | 2% | rising (7d avg 1%) | 4 | $717k | 0% | $ARF, $DARK, $SPX, $SI276 |
+| Celebrity & pop culture | 2% | rising (7d avg 1%) | 1 | $299k | 0% | $Musk |
+| Cats | 2% | cooling (7d avg 6%) | 2 | $250k | 0% | $swordcat, $CHONK |
+| DeFi & payments | 1% | cooling (7d avg 2%) | 2 | $293k | 0% | $SPX, $ADTF |
+| Stocks & TradFi crossover | 1% | cooling (7d avg 3%) | 1 | $207k | 0% | $VSOF |
+| Apps & utility | 1% | cooling (7d avg 4%) | 1 | $195k | 0% | $DARK |
 
 ## Site grades
 
-**Top 5:** IPO, Uranium Strategy, CSTR Lending, Dividend Dog, LONGDOG  
-**Bottom 5 (still in play):** OUTLET, Stonk Arena, Sherwood Protocol, PitBrokers, Zazu  
-**Abandoned:** BasketLaunch, Plum, Signal, Bingo.fun, Duel Royale, Super Intelligence Agency, Attention Markets, THE BOARDROOM, LocalLM, Cash Cow, Solanda, CAT TERMINAL, HODL OR NO HODL, URA Mine, OVERBID
+**Top 5:** IPO, Uranium Strategy, HamGPT, CLAWSIFIED, SLUDGE  
+**Bottom 5 (still in play):** OUTLET, Diamantini, PUMP DAWGS, Sherwood Protocol, Rally  
+**Abandoned:** Attention Markets, THE BOARDROOM, LocalLM, Super Intelligence Agency, CAT TERMINAL, BasketLaunch, Plum, Signal, Cash Cow, Bingo.fun, Duel Royale, HODL OR NO HODL, Solanda, URA Mine, OVERBID
 
 | Grade | Site | Score | Metas | Readiness | Verdict | Change |
 |---|---|---|---|---|---|---|
-| **A** | IPO | 88 | stocks-tradfi, launchpad-platform, tokenized-fund | live | Push now | = |
-| **A** | Uranium Strategy | 87.5 | stocks-tradfi, tokenized-fund, gambling-games | live | Push now | = |
-| **A** | CSTR Lending | 75.2 | defi-payments, tokenized-fund | built-not-deployed | Push now | B → A |
-| **B** | Dividend Dog | 70 | tokenized-fund, dogs, stocks-tradfi | idea-only | Strong: finish & ship | = |
-| **B** | LONGDOG | 66.4 | dogs, brainrot | built-not-deployed | Strong: finish & ship | = |
+| **A** | IPO | 88.3 | stocks-tradfi, launchpad-platform, tokenized-fund | live | Push now | = |
+| **A** | Uranium Strategy | 87.6 | stocks-tradfi, tokenized-fund, gambling-games | live | Push now | = |
+| **A** | HamGPT | 87.5 | ai-agents, frogs-animals | built-not-deployed | Push now | C → A |
+| **A** | CLAWSIFIED | 86.9 | ai-agents, cats, defi-payments | built-not-deployed | Push now | C → A |
+| **A** | SLUDGE | 82.3 | ai-agents, brainrot, launchpad-platform | built-not-deployed | Push now | D → A |
+| **A** | Sentia | 81.9 | ai-agents, launchpad-platform, livestream-social | live | Push now | C → A |
+| **A** | FOREMAN | 81.1 | ai-agents, launchpad-platform, stocks-tradfi | built-not-deployed | Push now | D → A |
+| **A** | Persona | 80.9 | ai-agents, livestream-social, launchpad-platform | built-not-deployed | Push now | D → A |
+| **A** | Superintelligence Reactor | 80.9 | ai-agents, launchpad-platform | built-not-deployed | Push now | D → A |
+| **A** | CLONE | 80 | ai-agents | built-not-deployed | Push now | D → A |
+| **A** | CSTR — Chip Strategy | 80 | gambling-games, ai-agents | built-not-deployed | Push now | D → A |
+| **A** | EPOCH NINE | 80 | ai-agents | built-not-deployed | Push now | D → A |
+| **B** | CSTR Lending | 74.6 | defi-payments, tokenized-fund | built-not-deployed | Strong: finish & ship | A → B |
+| **B** | Bundle Sniffer | 74 | ai-agents, dogs, stocks-tradfi | idea-only | Strong: finish & ship | C → B |
+| **B** | Stonk Arena | 72.2 | ai-agents, stocks-tradfi, gambling-games | in-progress | Strong: finish & ship | D → B |
+| **B** | Attention Markets | 69.5 | airdrop-claim, launchpad-platform, ai-agents | abandoned | Strong: finish & ship | D → B |
+| **B** | THE BOARDROOM | 69.1 | ai-agents, launchpad-platform, stocks-tradfi | abandoned | Strong: finish & ship | D → B |
+| **B** | LocalLM | 68.9 | ai-agents, launchpad-platform | abandoned | Strong: finish & ship | D → B |
+| **B** | Super Intelligence Agency | 68.9 | ai-agents, airdrop-claim, defi-payments | abandoned | Strong: finish & ship | D → B |
+| **B** | Dividend Dog | 68.2 | tokenized-fund, dogs, stocks-tradfi | idea-only | Strong: finish & ship | = |
 | **B** | Agent Xero | 66 | ai-agents, launchpad-platform, airdrop-claim | built-not-deployed | Strong: finish & ship | = |
 | **B** | MEMESCAN | 66 | frogs-animals, brainrot, livestream-social | built-not-deployed | Strong: finish & ship | = |
 | **B** | Perpl MM Bot | 66 | ai-agents, stocks-tradfi | built-not-deployed | Strong: finish & ship | = |
 | **B** | Viral Coin Radar | 66 | livestream-social, stocks-tradfi, brainrot | built-not-deployed | Strong: finish & ship | = |
-| **B** | Go Fund Memes | 60.8 | launchpad-platform, brainrot, frogs-animals | live | Strong: finish & ship | = |
-| **B** | SIDELINED | 60.5 | brainrot, brand-cosplay, frogs-animals | built-not-deployed | Strong: finish & ship | = |
-| **B** | PUMP DAWGS | 60.4 | brainrot, dogs | built-not-deployed | Strong: finish & ship | = |
+| **B** | CAT TERMINAL | 63.5 | launchpad-platform, ai-agents, airdrop-claim | abandoned | Strong: finish & ship | F → B |
 | **B** | FSVO volume market-maker | 60 | ai-agents, airdrop-claim, launchpad-platform | built-not-deployed | Strong: finish & ship | = |
 | **B** | Polybot | 60 | prediction-markets, ai-agents, stocks-tradfi | built-not-deployed | Strong: finish & ship | = |
 | **B** | PumpXBT | 60 | ai-agents, launchpad-platform, apps-utility | built-not-deployed | Strong: finish & ship | = |
 | **B** | Robin Hood V2 | 60 | prediction-markets, ai-agents, stocks-tradfi | built-not-deployed | Strong: finish & ship | = |
+| **C** | 0DTE | 59.3 | stocks-tradfi, gambling-games, launchpad-platform | live | Hold: needs a sharper hook or a deploy | = |
+| **C** | Go Fund Memes | 59.3 | launchpad-platform, brainrot, frogs-animals | live | Hold: needs a sharper hook or a deploy | B → C |
+| **C** | PRVC | 59.1 | launchpad-platform | live | Hold: needs a sharper hook or a deploy | = |
+| **C** | zSOL | 58.6 | airdrop-claim | live | Hold: needs a sharper hook or a deploy | = |
+| **C** | BasketLaunch | 58.4 | launchpad-platform, frogs-animals, tokenized-fund | abandoned | Hold: needs a sharper hook or a deploy | = |
+| **C** | SIDELINED | 58.2 | brainrot, brand-cosplay, frogs-animals | built-not-deployed | Hold: needs a sharper hook or a deploy | B → C |
 | **C** | memcoinz Solana skills toolkit | 58 | launchpad-platform, airdrop-claim, apps-utility | in-progress | Hold: needs a sharper hook or a deploy | = |
-| **C** | BasketLaunch | 57.6 | launchpad-platform, frogs-animals, tokenized-fund | abandoned | Hold: needs a sharper hook or a deploy | = |
-| **C** | zSOL | 57.3 | airdrop-claim | live | Hold: needs a sharper hook or a deploy | = |
-| **C** | HOLDCO | 55.2 | defi-payments, launchpad-platform, stocks-tradfi | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
-| **C** | Hood ST | 54.3 | stocks-tradfi, airdrop-claim, frogs-animals | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
-| **C** | Bundle Sniffer | 54.2 | ai-agents, dogs, stocks-tradfi | idea-only | Hold: needs a sharper hook or a deploy | B → C |
-| **C** | GOATSE | 53.2 | brainrot, frogs-animals | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
+| **C** | Hood ST | 56.9 | stocks-tradfi, airdrop-claim, frogs-animals | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
 | **C** | Copycat | 53 | airdrop-claim, cats, defi-payments | idea-only | Hold: needs a sharper hook or a deploy | = |
+| **C** | Zazu | 52.9 | launchpad-platform, cats, stocks-tradfi | built-not-deployed | Hold: needs a sharper hook or a deploy | D → C |
+| **C** | TopBlast | 52.7 | launchpad-platform, airdrop-claim | built-not-deployed | Hold: needs a sharper hook or a deploy | D → C |
+| **C** | HOLDCO | 52.6 | defi-payments, launchpad-platform, stocks-tradfi | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
 | **C** | Funding Arb Desk | 52 | launchpad-platform, tokenized-fund, airdrop-claim | in-progress | Hold: needs a sharper hook or a deploy | = |
-| **C** | 0DTE | 51.2 | stocks-tradfi, gambling-games, launchpad-platform | live | Hold: needs a sharper hook or a deploy | B → C |
-| **C** | PRVC | 51 | launchpad-platform | live | Hold: needs a sharper hook or a deploy | = |
-| **C** | Sentia | 49.6 | ai-agents, launchpad-platform, livestream-social | live | Hold: needs a sharper hook or a deploy | B → C |
-| **C** | CLAWSIFIED | 49.4 | ai-agents, cats, defi-payments | built-not-deployed | Hold: needs a sharper hook or a deploy | B → C |
-| **C** | Rally | 49.4 | launchpad-platform, airdrop-claim, defi-payments | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
-| **C** | HamGPT | 48.4 | ai-agents, frogs-animals | built-not-deployed | Hold: needs a sharper hook or a deploy | B → C |
+| **C** | GOATSE | 51.4 | brainrot, frogs-animals | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
+| **C** | LONGDOG | 47.7 | dogs, brainrot | built-not-deployed | Hold: needs a sharper hook or a deploy | B → C |
 | **C** | PAPER paper-trading terminal | 47 | launchpad-platform, stocks-tradfi | idea-only | Hold: needs a sharper hook or a deploy | = |
-| **C** | Diamantini | 45.8 | brainrot, livestream-social | idea-only | Hold: needs a sharper hook or a deploy | = |
-| **D** | TopBlast | 44.4 | launchpad-platform, airdrop-claim | built-not-deployed | Weak: rework toward a hot meta | C → D |
-| **D** | SLUDGE | 43.9 | ai-agents, brainrot, launchpad-platform | built-not-deployed | Weak: rework toward a hot meta | B → D |
-| **D** | Persona | 42.6 | ai-agents, livestream-social, launchpad-platform | built-not-deployed | Weak: rework toward a hot meta | B → D |
-| **D** | FOREMAN | 42.3 | ai-agents, launchpad-platform, stocks-tradfi | built-not-deployed | Weak: rework toward a hot meta | B → D |
-| **D** | Superintelligence Reactor | 42.1 | ai-agents, launchpad-platform | built-not-deployed | Weak: rework toward a hot meta | B → D |
+| **C** | PitBrokers | 46.9 | stocks-tradfi, airdrop-claim, launchpad-platform | built-not-deployed | Hold: needs a sharper hook or a deploy | D → C |
+| **C** | Rally | 46.9 | launchpad-platform, airdrop-claim, defi-payments | built-not-deployed | Hold: needs a sharper hook or a deploy | = |
+| **C** | Sherwood Protocol | 46.9 | airdrop-claim, launchpad-platform, stocks-tradfi | built-not-deployed | Hold: needs a sharper hook or a deploy | D → C |
 | **D** | Plum | 42 | ai-agents, defi-payments | abandoned | Weak: rework toward a hot meta | = |
 | **D** | Signal | 42 | ai-agents, brainrot | abandoned | Weak: rework toward a hot meta | = |
-| **D** | CLONE | 41.5 | ai-agents | built-not-deployed | Weak: rework toward a hot meta | B → D |
-| **D** | CSTR — Chip Strategy | 41.5 | gambling-games, ai-agents | built-not-deployed | Weak: rework toward a hot meta | B → D |
-| **D** | EPOCH NINE | 41.5 | ai-agents | built-not-deployed | Weak: rework toward a hot meta | B → D |
-| **D** | Zazu | 41.5 | launchpad-platform, cats, stocks-tradfi | built-not-deployed | Weak: rework toward a hot meta | C → D |
-| **D** | PitBrokers | 38.7 | stocks-tradfi, airdrop-claim, launchpad-platform | built-not-deployed | Weak: rework toward a hot meta | C → D |
-| **D** | Sherwood Protocol | 38.7 | airdrop-claim, launchpad-platform, stocks-tradfi | built-not-deployed | Weak: rework toward a hot meta | C → D |
-| **D** | Stonk Arena | 33.8 | ai-agents, stocks-tradfi, gambling-games | in-progress | Weak: rework toward a hot meta | C → D |
-| **D** | Bingo.fun | 32.3 | gambling-games, airdrop-claim | abandoned | Weak: rework toward a hot meta | = |
-| **D** | Duel Royale | 32.3 | gambling-games, airdrop-claim | abandoned | Weak: rework toward a hot meta | = |
-| **D** | Super Intelligence Agency | 31 | ai-agents, airdrop-claim, defi-payments | abandoned | Weak: rework toward a hot meta | C → D |
-| **D** | Attention Markets | 30.5 | airdrop-claim, launchpad-platform, ai-agents | abandoned | Weak: rework toward a hot meta | C → D |
-| **D** | THE BOARDROOM | 30.3 | ai-agents, launchpad-platform, stocks-tradfi | abandoned | Weak: rework toward a hot meta | C → D |
-| **D** | LocalLM | 30.1 | ai-agents, launchpad-platform | abandoned | Weak: rework toward a hot meta | C → D |
-| **F** | OUTLET | 29 | apps-utility | built-not-deployed | Park it | D → F |
-| **F** | Cash Cow | 26.4 | airdrop-claim, apps-utility, launchpad-platform | abandoned | Park it | D → F |
-| **F** | Solanda | 26.3 | airdrop-claim | abandoned | Park it | = |
-| **F** | CAT TERMINAL | 24.5 | launchpad-platform, ai-agents, airdrop-claim | abandoned | Park it | C → F |
-| **F** | HODL OR NO HODL | 20.4 | gambling-games, airdrop-claim, launchpad-platform | abandoned | Park it | = |
+| **D** | PUMP DAWGS | 41.7 | brainrot, dogs | built-not-deployed | Weak: rework toward a hot meta | B → D |
+| **D** | Cash Cow | 34.9 | airdrop-claim, apps-utility, launchpad-platform | abandoned | Weak: rework toward a hot meta | F → D |
+| **D** | Diamantini | 34.1 | brainrot, livestream-social | idea-only | Weak: rework toward a hot meta | C → D |
+| **D** | Bingo.fun | 33.6 | gambling-games, airdrop-claim | abandoned | Weak: rework toward a hot meta | = |
+| **D** | Duel Royale | 33.6 | gambling-games, airdrop-claim | abandoned | Weak: rework toward a hot meta | = |
+| **D** | OUTLET | 30 | apps-utility | built-not-deployed | Weak: rework toward a hot meta | F → D |
+| **F** | HODL OR NO HODL | 28.7 | gambling-games, airdrop-claim, launchpad-platform | abandoned | Park it | = |
+| **F** | Solanda | 27.6 | airdrop-claim | abandoned | Park it | = |
 | **F** | URA Mine | 17 | gambling-games | abandoned | Park it | = |
-| **F** | OVERBID | 12.4 | prediction-markets, stocks-tradfi | abandoned | Park it | D → F |
+| **F** | OVERBID | 12.3 | prediction-markets, stocks-tradfi | abandoned | Park it | = |
 
 ## Advice by site
 
-### A · IPO (88)
-meta fit 33/45 · trend 15/15 · readiness 25/25 · originality 15/15
-- Tokenized fund / reserve LARP is heating up today: 24 runners, $7.2M volume ($IOF, $WSOS, $USOR/SOL).
+### A · IPO (88.3)
+meta fit 33.3/45 · trend 15/15 · readiness 25/25 · originality 15/15
+- Tokenized fund / reserve LARP is heating up today: 30 runners, $10.9M volume ($HUMPH, $ARF, $VSOF).
 
-### A · Uranium Strategy (87.5)
-meta fit 32.5/45 · trend 15/15 · readiness 25/25 · originality 15/15
-- Tokenized fund / reserve LARP is heating up today: 24 runners, $7.2M volume ($IOF, $WSOS, $USOR/SOL).
+### A · Uranium Strategy (87.6)
+meta fit 32.6/45 · trend 15/15 · readiness 25/25 · originality 15/15
+- Tokenized fund / reserve LARP is heating up today: 30 runners, $10.9M volume ($HUMPH, $ARF, $VSOF).
 
-### A · CSTR Lending (75.2)
-meta fit 33.2/45 · trend 15/15 · readiness 18/25 · originality 9/15
-- Tokenized fund / reserve LARP is heating up today: 24 runners, $7.2M volume ($IOF, $WSOS, $USOR/SOL).
+### A · HamGPT (87.5)
+meta fit 39.5/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built but not live. First blocker: Needs Vercel project (root dir hamgpt), domain, and pump.fun launch
+
+### A · CLAWSIFIED (86.9)
+meta fit 38.9/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built but not live. First blocker: Needs Vercel project (root dir clawsified), domain, and pump.fun launch
+
+### A · SLUDGE (82.3)
+meta fit 40.3/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off https://buttbrain.app: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Ready to deploy: lC@claude/longdog-site-design-kguow6 — needs Vercel import + absolute og:image
+
+### A · Sentia (81.9)
+meta fit 38.9/45 · trend 15/15 · readiness 25/25 · originality 3/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- $BATONA (Baton Agency) is running today (name overlap, $2.5M vol). Either ride it as a companion/utility site or rename before launch.
+- Built off Higgspad: give it one feature or joke the original doesn't have before pushing it.
+
+### A · FOREMAN (81.1)
+meta fit 39.1/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off buildagent.fun (user's own site): give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Needs its own repo + Vercel import + Upstash Redis; live trading not wired
+
+### A · Persona (80.9)
+meta fit 38.9/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off egopad.fun: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $PERSONA token not launched
+
+### A · Superintelligence Reactor (80.9)
+meta fit 38.9/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off https://sigf.ai: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: CA and X link placeholders (Buy button 'soon')
+
+### A · CLONE (80)
+meta fit 38/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off https://usewebsite.fun/: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Pushed to the deploy branch (Vercel rebuild from c0aa9d8); live URL not stated
+
+### A · CSTR — Chip Strategy (80)
+meta fit 38/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off unknown (t.co/d47GIZbNrn link, unresolved): give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Ready to deploy: GPU@claude/gpu-game-clone-d3g2bf — static Vercel deploy, leaderboard Docker-only
+
+### A · EPOCH NINE (80)
+meta fit 38/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off https://yearofthesingularity.com: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Lives at epoch-nine/ rather than root; user had not decided placement
+
+### B · CSTR Lending (74.6)
+meta fit 32.6/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- Tokenized fund / reserve LARP is heating up today: 30 runners, $10.9M volume ($HUMPH, $ARF, $VSOF).
 - Built off https://quillcompany.loan: give it one feature or joke the original doesn't have before pushing it.
 - Built but not live. First blocker: Not actually matched to the reference (needs screenshot/text)
 
-### B · Dividend Dog (70)
-meta fit 35/45 · trend 15/15 · readiness 5/25 · originality 15/15
-- Tokenized fund / reserve LARP is heating up today: 24 runners, $7.2M volume ($IOF, $WSOS, $USOR/SOL).
+### B · Bundle Sniffer (74)
+meta fit 39/45 · trend 15/15 · readiness 5/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
 
-### B · LONGDOG (66.4)
-meta fit 18.4/45 · trend 15/15 · readiness 18/25 · originality 15/15
-- Dogs is heating up today: 4 runners, $10.1M volume ($DOPE, $DOGU, $GOMODOGE).
-- Built but not live. First blocker: GitHub Pages / Vercel deploy never succeeded (Pages workflow failed; user never flipped the hosting setting)
+### B · Stonk Arena (72.2)
+meta fit 38.2/45 · trend 15/15 · readiness 10/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off agentarena (Vercel app clone): give it one feature or joke the original doesn't have before pushing it.
+- Next step: Mechanic and live status unclear from transcript
+
+### B · Attention Markets (69.5)
+meta fit 39.5/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Marked abandoned: revive only if its meta is rising.
+
+### B · THE BOARDROOM (69.1)
+meta fit 39.1/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Marked abandoned: revive only if its meta is rising.
+
+### B · LocalLM (68.9)
+meta fit 38.9/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Marked abandoned: revive only if its meta is rising.
+
+### B · Super Intelligence Agency (68.9)
+meta fit 38.9/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Marked abandoned: revive only if its meta is rising.
+
+### B · Dividend Dog (68.2)
+meta fit 33.2/45 · trend 15/15 · readiness 5/25 · originality 15/15
+- Tokenized fund / reserve LARP is heating up today: 30 runners, $10.9M volume ($HUMPH, $ARF, $VSOF).
 
 ### B · Agent Xero (66)
 meta fit 25/45 · trend 8/15 · readiness 18/25 · originality 15/15
@@ -138,21 +221,11 @@ meta fit 25/45 · trend 8/15 · readiness 18/25 · originality 15/15
 - Tooling, not a coin narrative: graded on readiness and originality only.
 - Built but not live. First blocker: Runs in fixture mode without live data credentials; sandbox could not reach Solana RPC
 
-### B · Go Fund Memes (60.8)
-meta fit 11.8/45 · trend 15/15 · readiness 25/25 · originality 9/15
-- Brainrot & slang is heating up today: 5 runners, $1.5M volume ($GTA, $SLOPCORE, $JPAD).
-- Built off GoFundMe: give it one feature or joke the original doesn't have before pushing it.
-
-### B · SIDELINED (60.5)
-meta fit 12.5/45 · trend 15/15 · readiness 18/25 · originality 15/15
-- Brainrot & slang is heating up today: 5 runners, $1.5M volume ($GTA, $SLOPCORE, $JPAD).
-- Built but not live. First blocker: User to import to Vercel and buy a domain (instructions given); deploy URL not confirmed
-
-### B · PUMP DAWGS (60.4)
-meta fit 18.4/45 · trend 15/15 · readiness 18/25 · originality 9/15
-- Dogs is heating up today: 4 runners, $10.1M volume ($DOPE, $DOGU, $GOMODOGE).
-- Built off https://magiceden.io/marketplace/the_bullpen: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: User says the art quality falls short of top Magic Eden projects; procedural art may need a real illustrator
+### B · CAT TERMINAL (63.5)
+meta fit 39.5/45 · trend 15/15 · readiness 0/25 · originality 9/15
+- AI agents & AI culture is heating up today: 12 runners, $14.4M volume ($CRAWLER, $BATONA, $HIRE).
+- Built off https://catstrategy.work: give it one feature or joke the original doesn't have before pushing it.
+- Marked abandoned: revive only if its meta is rising.
 
 ### B · FSVO volume market-maker (60)
 meta fit 25/45 · trend 8/15 · readiness 18/25 · originality 9/15
@@ -178,44 +251,62 @@ meta fit 25/45 · trend 8/15 · readiness 18/25 · originality 9/15
 - Built off perk.money: give it one feature or joke the original doesn't have before pushing it.
 - Built but not live. First blocker: PR #1 still open/unmerged; default branch lacks site
 
+### C · 0DTE (59.3)
+meta fit 4.3/45 · trend 15/15 · readiness 25/25 · originality 15/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+
+### C · Go Fund Memes (59.3)
+meta fit 10.3/45 · trend 15/15 · readiness 25/25 · originality 9/15
+- Frogs & other animals is heating up today: 4 runners, $1.9M volume ($Bear, $DOPE, $DOPE).
+- Built off GoFundMe: give it one feature or joke the original doesn't have before pushing it.
+
+### C · PRVC (59.1)
+meta fit 4.1/45 · trend 15/15 · readiness 25/25 · originality 15/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+
+### C · zSOL (58.6)
+meta fit 3.6/45 · trend 15/15 · readiness 25/25 · originality 15/15
+- Airdrops & claims is heating up today: 4 runners, $717k volume ($ARF, $DARK, $SPX).
+
+### C · BasketLaunch (58.4)
+meta fit 34.4/45 · trend 15/15 · readiness 0/25 · originality 9/15
+- Tokenized fund / reserve LARP is heating up today: 30 runners, $10.9M volume ($HUMPH, $ARF, $VSOF).
+- Built off basketlaunch.fun (also feesh.wtf, dripswap.tech): give it one feature or joke the original doesn't have before pushing it.
+- Marked abandoned: revive only if its meta is rising.
+
+### C · SIDELINED (58.2)
+meta fit 10.2/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- Frogs & other animals is heating up today: 4 runners, $1.9M volume ($Bear, $DOPE, $DOPE).
+- Built but not live. First blocker: User to import to Vercel and buy a domain (instructions given); deploy URL not confirmed
+
 ### C · memcoinz Solana skills toolkit (58)
 meta fit 25/45 · trend 8/15 · readiness 10/25 · originality 15/15
 - Tooling, not a coin narrative: graded on readiness and originality only.
 - Next step: Branch not merged to main (PR being opened)
 
-### C · BasketLaunch (57.6)
-meta fit 33.6/45 · trend 15/15 · readiness 0/25 · originality 9/15
-- Tokenized fund / reserve LARP is heating up today: 24 runners, $7.2M volume ($IOF, $WSOS, $USOR/SOL).
-- Built off basketlaunch.fun (also feesh.wtf, dripswap.tech): give it one feature or joke the original doesn't have before pushing it.
-- Marked abandoned: revive only if its meta is rising.
-
-### C · zSOL (57.3)
-meta fit 2.3/45 · trend 15/15 · readiness 25/25 · originality 15/15
-- Airdrops & claims is heating up today: 3 runners, $838k volume ($JPAD, $SI276, $SI276).
-
-### C · HOLDCO (55.2)
-meta fit 7.2/45 · trend 15/15 · readiness 18/25 · originality 15/15
-- DeFi & payments is heating up today: 2 runners, $466k volume ($NTRNDM, $Arrow).
-- Built but not live. First blocker: Never hosted: GitHub Pages source or Vercel import still needs the user's click
-
-### C · Hood ST (54.3)
-meta fit 6.3/45 · trend 15/15 · readiness 18/25 · originality 15/15
-- Frogs & other animals is heating up today: 1 runners, $6.2M volume ($DOPE).
+### C · Hood ST (56.9)
+meta fit 8.9/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- Frogs & other animals is heating up today: 4 runners, $1.9M volume ($Bear, $DOPE, $DOPE).
 - Built but not live. First blocker: Vercel deploy via push to default branch, URL never confirmed
-
-### C · Bundle Sniffer (54.2)
-meta fit 19.2/45 · trend 15/15 · readiness 5/25 · originality 15/15
-- Dogs is heating up today: 4 runners, $10.1M volume ($DOPE, $DOGU, $GOMODOGE).
-
-### C · GOATSE (53.2)
-meta fit 11.2/45 · trend 15/15 · readiness 18/25 · originality 9/15
-- Brainrot & slang is heating up today: 5 runners, $1.5M volume ($GTA, $SLOPCORE, $JPAD).
-- Built off https://www.honsecoin.wtf (quality bar only; it was blocked, so nothing was copied): give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Creator wallet is still REPLACE_WITH_YOUR_SOLANA_WALLET
 
 ### C · Copycat (53)
 meta fit 25/45 · trend 8/15 · readiness 5/25 · originality 15/15
 - Tooling, not a coin narrative: graded on readiness and originality only.
+
+### C · Zazu (52.9)
+meta fit 4.9/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+- Built but not live. First blocker: fees.js ships in demo mode; needs RPC and contract addresses to go on-chain
+
+### C · TopBlast (52.7)
+meta fit 4.7/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+- Built but not live. First blocker: Tokenomics ('100% of protocol revenue buys back + burns') needed confirmation
+
+### C · HOLDCO (52.6)
+meta fit 4.6/45 · trend 15/15 · readiness 18/25 · originality 15/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+- Built but not live. First blocker: Never hosted: GitHub Pages source or Vercel import still needs the user's click
 
 ### C · Funding Arb Desk (52)
 meta fit 25/45 · trend 8/15 · readiness 10/25 · originality 9/15
@@ -223,72 +314,40 @@ meta fit 25/45 · trend 8/15 · readiness 10/25 · originality 9/15
 - Built off https://loris.tools: give it one feature or joke the original doesn't have before pushing it.
 - Next step: 0 of 6 adapters return live data (2 untested against live endpoints, 4 stubs); need to run 'npm run collect' from an unblocked machine
 
-### C · 0DTE (51.2)
-meta fit 3.2/45 · trend 8/15 · readiness 25/25 · originality 15/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
+### C · GOATSE (51.4)
+meta fit 9.4/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- Frogs & other animals is heating up today: 4 runners, $1.9M volume ($Bear, $DOPE, $DOPE).
+- Built off https://www.honsecoin.wtf (quality bar only; it was blocked, so nothing was copied): give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: Creator wallet is still REPLACE_WITH_YOUR_SOLANA_WALLET
 
-### C · PRVC (51)
-meta fit 3/45 · trend 8/15 · readiness 25/25 · originality 15/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
-
-### C · Sentia (49.6)
-meta fit 13.6/45 · trend 2/15 · readiness 25/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off Higgspad: give it one feature or joke the original doesn't have before pushing it.
-
-### C · CLAWSIFIED (49.4)
-meta fit 14.4/45 · trend 2/15 · readiness 18/25 · originality 15/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built but not live. First blocker: Needs Vercel project (root dir clawsified), domain, and pump.fun launch
-
-### C · Rally (49.4)
-meta fit 7.4/45 · trend 15/15 · readiness 18/25 · originality 9/15
-- DeFi & payments is heating up today: 2 runners, $466k volume ($NTRNDM, $Arrow).
-- Built off https://fundmeme.site/: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: No live site: needs its own repo (e.g. 'rally') or a second Vercel project pointed at the branch
-
-### C · HamGPT (48.4)
-meta fit 13.4/45 · trend 2/15 · readiness 18/25 · originality 15/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built but not live. First blocker: Needs Vercel project (root dir hamgpt), domain, and pump.fun launch
+### C · LONGDOG (47.7)
+meta fit 6.7/45 · trend 8/15 · readiness 18/25 · originality 15/15
+- Brainrot & slang holds 4% of today's runner heat ($BATONA, $SLOPCORE, $GOIF).
+- Caution: 50% of Brainrot & slang runners have market caps far above their liquidity, so treat that heat as suspect.
+- Built but not live. First blocker: GitHub Pages / Vercel deploy never succeeded (Pages workflow failed; user never flipped the hosting setting)
 
 ### C · PAPER paper-trading terminal (47)
 meta fit 25/45 · trend 8/15 · readiness 5/25 · originality 9/15
 - Tooling, not a coin narrative: graded on readiness and originality only.
 - Built off papertrade.xyz / axiom.trade: give it one feature or joke the original doesn't have before pushing it.
 
-### C · Diamantini (45.8)
-meta fit 10.8/45 · trend 15/15 · readiness 5/25 · originality 15/15
-- Brainrot & slang is heating up today: 5 runners, $1.5M volume ($GTA, $SLOPCORE, $JPAD).
+### C · PitBrokers (46.9)
+meta fit 4.9/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+- Built off https://pumpbrokers.fun / pumpbroker.fun (888 pixel brokers, each with its own wallet): give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: anchor build/test have never run (no Solana toolchain in container); programs only compile-checked
 
-### D · TopBlast (44.4)
-meta fit 3.4/45 · trend 8/15 · readiness 18/25 · originality 15/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
-- Built but not live. First blocker: Tokenomics ('100% of protocol revenue buys back + burns') needed confirmation
+### C · Rally (46.9)
+meta fit 4.9/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+- Built off https://fundmeme.site/: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: No live site: needs its own repo (e.g. 'rally') or a second Vercel project pointed at the branch
 
-### D · SLUDGE (43.9)
-meta fit 14.9/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off https://buttbrain.app: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Ready to deploy: lC@claude/longdog-site-design-kguow6 — needs Vercel import + absolute og:image
-
-### D · Persona (42.6)
-meta fit 13.6/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off egopad.fun: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $PERSONA token not launched
-
-### D · FOREMAN (42.3)
-meta fit 13.3/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off buildagent.fun (user's own site): give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Needs its own repo + Vercel import + Upstash Redis; live trading not wired
-
-### D · Superintelligence Reactor (42.1)
-meta fit 13/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off https://sigf.ai: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: CA and X link placeholders (Buy button 'soon')
+### C · Sherwood Protocol (46.9)
+meta fit 4.9/45 · trend 15/15 · readiness 18/25 · originality 9/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
+- $Arrow (Arrow) is running today (same ticker $Arrow, $163k vol). Either ride it as a companion/utility site or rename before launch.
+- Built but not live. First blocker: Origin session not confirmed
 
 ### D · Plum (42)
 meta fit 25/45 · trend 8/15 · readiness 0/25 · originality 9/15
@@ -302,115 +361,59 @@ meta fit 25/45 · trend 8/15 · readiness 0/25 · originality 9/15
 - Built off https://inculture.fun/: give it one feature or joke the original doesn't have before pushing it.
 - Marked abandoned: revive only if its meta is rising.
 
-### D · CLONE (41.5)
-meta fit 12.5/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off https://usewebsite.fun/: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Pushed to the deploy branch (Vercel rebuild from c0aa9d8); live URL not stated
+### D · PUMP DAWGS (41.7)
+meta fit 6.7/45 · trend 8/15 · readiness 18/25 · originality 9/15
+- Brainrot & slang holds 4% of today's runner heat ($BATONA, $SLOPCORE, $GOIF).
+- Caution: 50% of Brainrot & slang runners have market caps far above their liquidity, so treat that heat as suspect.
+- Built off https://magiceden.io/marketplace/the_bullpen: give it one feature or joke the original doesn't have before pushing it.
+- Built but not live. First blocker: User says the art quality falls short of top Magic Eden projects; procedural art may need a real illustrator
 
-### D · CSTR — Chip Strategy (41.5)
-meta fit 12.5/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off unknown (t.co/d47GIZbNrn link, unresolved): give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Ready to deploy: GPU@claude/gpu-game-clone-d3g2bf — static Vercel deploy, leaderboard Docker-only
-
-### D · EPOCH NINE (41.5)
-meta fit 12.5/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off https://yearofthesingularity.com: give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: Lives at epoch-nine/ rather than root; user had not decided placement
-
-### D · Zazu (41.5)
-meta fit 6.5/45 · trend 2/15 · readiness 18/25 · originality 15/15
-- Cats is cooling (3% of heat vs 7% 7-day average).
-- Built but not live. First blocker: fees.js ships in demo mode; needs RPC and contract addresses to go on-chain
-
-### D · PitBrokers (38.7)
-meta fit 3.7/45 · trend 8/15 · readiness 18/25 · originality 9/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
-- Built off https://pumpbrokers.fun / pumpbroker.fun (888 pixel brokers, each with its own wallet): give it one feature or joke the original doesn't have before pushing it.
-- Built but not live. First blocker: anchor build/test have never run (no Solana toolchain in container); programs only compile-checked
-
-### D · Sherwood Protocol (38.7)
-meta fit 3.7/45 · trend 8/15 · readiness 18/25 · originality 9/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
-- $Arrow (Arrow Finance) is running today (same ticker $Arrow, $194k vol). Either ride it as a companion/utility site or rename before launch.
-- Built but not live. First blocker: Origin session not confirmed
-
-### D · Stonk Arena (33.8)
-meta fit 12.8/45 · trend 2/15 · readiness 10/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off agentarena (Vercel app clone): give it one feature or joke the original doesn't have before pushing it.
-- Next step: Mechanic and live status unclear from transcript
-
-### D · Bingo.fun (32.3)
-meta fit 2.3/45 · trend 15/15 · readiness 0/25 · originality 15/15
-- Airdrops & claims is heating up today: 3 runners, $838k volume ($JPAD, $SI276, $SI276).
+### D · Cash Cow (34.9)
+meta fit 4.9/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
 - Marked abandoned: revive only if its meta is rising.
 
-### D · Duel Royale (32.3)
-meta fit 2.3/45 · trend 15/15 · readiness 0/25 · originality 15/15
-- Airdrops & claims is heating up today: 3 runners, $838k volume ($JPAD, $SI276, $SI276).
+### D · Diamantini (34.1)
+meta fit 6.1/45 · trend 8/15 · readiness 5/25 · originality 15/15
+- Brainrot & slang holds 4% of today's runner heat ($BATONA, $SLOPCORE, $GOIF).
+- Caution: 50% of Brainrot & slang runners have market caps far above their liquidity, so treat that heat as suspect.
+
+### D · Bingo.fun (33.6)
+meta fit 3.6/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- Airdrops & claims is heating up today: 4 runners, $717k volume ($ARF, $DARK, $SPX).
 - Marked abandoned: revive only if its meta is rising.
 
-### D · Super Intelligence Agency (31)
-meta fit 14/45 · trend 2/15 · readiness 0/25 · originality 15/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
+### D · Duel Royale (33.6)
+meta fit 3.6/45 · trend 15/15 · readiness 0/25 · originality 15/15
+- Airdrops & claims is heating up today: 4 runners, $717k volume ($ARF, $DARK, $SPX).
 - Marked abandoned: revive only if its meta is rising.
 
-### D · Attention Markets (30.5)
-meta fit 13.5/45 · trend 2/15 · readiness 0/25 · originality 15/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Marked abandoned: revive only if its meta is rising.
-
-### D · THE BOARDROOM (30.3)
-meta fit 13.3/45 · trend 2/15 · readiness 0/25 · originality 15/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Marked abandoned: revive only if its meta is rising.
-
-### D · LocalLM (30.1)
-meta fit 13/45 · trend 2/15 · readiness 0/25 · originality 15/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Marked abandoned: revive only if its meta is rising.
-
-### F · OUTLET (29)
-meta fit 0/45 · trend 2/15 · readiness 18/25 · originality 9/15
-- Nothing in Apps & utility is running today. Hottest meta is Tokenized fund / reserve LARP (24 runners, $7.2M volume). A reskin toward it is the cheapest upgrade.
+### D · OUTLET (30)
+meta fit 1/45 · trend 2/15 · readiness 18/25 · originality 9/15
+- Apps & utility is cooling (1% of heat vs 4% 7-day average).
 - Built off thesocket.app: give it one feature or joke the original doesn't have before pushing it.
 - Built but not live. First blocker: Fresh repo could not be created (GitHub refused); sits on the 'outlet' branch
 
-### F · Cash Cow (26.4)
-meta fit 3.4/45 · trend 8/15 · readiness 0/25 · originality 15/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
-- Marked abandoned: revive only if its meta is rising.
-
-### F · Solanda (26.3)
-meta fit 2.3/45 · trend 15/15 · readiness 0/25 · originality 9/15
-- Airdrops & claims is heating up today: 3 runners, $838k volume ($JPAD, $SI276, $SI276).
-- Built off https://theland.dev/: give it one feature or joke the original doesn't have before pushing it.
-- Marked abandoned: revive only if its meta is rising.
-
-### F · CAT TERMINAL (24.5)
-meta fit 13.5/45 · trend 2/15 · readiness 0/25 · originality 9/15
-- AI agents & AI culture is cooling (7% of heat vs 12% 7-day average).
-- Built off https://catstrategy.work: give it one feature or joke the original doesn't have before pushing it.
-- Marked abandoned: revive only if its meta is rising.
-
-### F · HODL OR NO HODL (20.4)
-meta fit 3.4/45 · trend 8/15 · readiness 0/25 · originality 9/15
-- Launchpads & platforms holds 2% of today's runner heat ($JPAD, $UKFLMS, $XBC).
+### F · HODL OR NO HODL (28.7)
+meta fit 4.7/45 · trend 15/15 · readiness 0/25 · originality 9/15
+- Launchpads & platforms is heating up today: 3 runners, $3.0M volume ($BATONA, $DARK, $UKFLMS).
 - Built off hodlornohodl.fun: give it one feature or joke the original doesn't have before pushing it.
+- Marked abandoned: revive only if its meta is rising.
+
+### F · Solanda (27.6)
+meta fit 3.6/45 · trend 15/15 · readiness 0/25 · originality 9/15
+- Airdrops & claims is heating up today: 4 runners, $717k volume ($ARF, $DARK, $SPX).
+- Built off https://theland.dev/: give it one feature or joke the original doesn't have before pushing it.
 - Marked abandoned: revive only if its meta is rising.
 
 ### F · URA Mine (17)
 meta fit 0/45 · trend 2/15 · readiness 0/25 · originality 15/15
-- Nothing in Games, casino & gambling is running today. Hottest meta is Tokenized fund / reserve LARP (24 runners, $7.2M volume). A reskin toward it is the cheapest upgrade.
+- Nothing in Games, casino & gambling is running today. Hottest meta is Tokenized fund / reserve LARP (30 runners, $10.9M volume). A reskin toward it is the cheapest upgrade.
 - Marked abandoned: revive only if its meta is rising.
 
-### F · OVERBID (12.4)
-meta fit 1.4/45 · trend 2/15 · readiness 0/25 · originality 9/15
-- Stocks & TradFi crossover is cooling (1% of heat vs 4% 7-day average).
-- Caution: 50% of Stocks & TradFi crossover runners have market caps far above their liquidity, so treat that heat as suspect.
+### F · OVERBID (12.3)
+meta fit 1.3/45 · trend 2/15 · readiness 0/25 · originality 9/15
+- Stocks & TradFi crossover is cooling (1% of heat vs 3% 7-day average).
 - Built off Polymarket (inspiration): give it one feature or joke the original doesn't have before pushing it.
 - Marked abandoned: revive only if its meta is rising.
 
@@ -418,48 +421,48 @@ meta fit 1.4/45 · trend 2/15 · readiness 0/25 · originality 9/15
 
 | Ticker | Name | Metas | 24h vol | MC | Liquidity | 24h % | Flags |
 |---|---|---|---|---|---|---|---|
-| $DOPE | Doge Pepe | dogs, america-politics, frogs-animals | $6.2M | $961k | $110k | 2119% | — |
-| $SEAN | Sean Dynasty Prosper | unclassified | $4.1M | $2.0M | $135k | 1492% | — |
-| $DOGU | Doge Guy | dogs, america-politics | $2.3M | $706k | $79k | 1403% | — |
-| $GOMODOGE | GomoDoge | america-politics, dogs | $916k | $2k | $2k | -99% | — |
-| $DOGELON | DOGELON | dogs, america-politics | $744k | $2k | $3k | -98% | — |
-| $CAT89 | CAT89 | cats | $710k | $97k | $27k | 116% | — |
-| $FIGHT | Token Battles | unclassified | $571k | $219k | $44k | 448% | — |
-| $Musk | Musk | celebrity-culture | $351k | $6.3M | $219k | 13737% | — |
-| $IOF | Institutional Oil Fund | tokenized-fund | $323k | $18.3M | $376k | 39317% | — |
-| $GTA | GTA memes | brainrot | $320k | $15.1M | $341k | 32276% | — |
-| $HIGGS | Higgspad | ai-agents, livestream-social | $288k | $10.1M | $278k | 21534% | — |
-| $NTRNDM | notrandom | defi-payments | $271k | $155k | $38k | 122% | — |
-| $SLOPCORE | SLOPCORE ✨ | brainrot | $267k | $2.7M | $143k | 5838% | — |
-| $WEDNESDAY | Wednesday Adams | unclassified | $263k | $3k | $3k | -93% | — |
-| $ConConAI | ConConAI | ai-agents | $255k | $13.3M | $320k | 28283% | — |
-| $ConConAI | ConConAI | ai-agents | $244k | $9.8M | $274k | 20961% | — |
-| $WSOS | World Strategic Oil Supply | tokenized-fund | $233k | $4.6M | $187k | 9742% | — |
-| $USOR/SOL | USOR/SOL | tokenized-fund | $231k | $14.7M | $337k | 67% | — |
-| $BTB | BTB | unclassified | $212k | $10.4M | $283k | 33% | — |
-| $XDC NET | XDC NETWORK | tokenized-fund | $203k | $13.9M | $373k | 62% | — |
-| $USOS | United States Oil Supply | tokenized-fund, america-politics | $195k | $5.1M | $197k | 28% | — |
-| $Arrow | Arrow Finance | defi-payments | $194k | $4.3M | $181k | 23% | — |
-| $JPAD | JUP PAD | airdrop-claim, brainrot, launchpad-platform | $192k | $3.4M | $162k | 21% | — |
-| $UKFLMS | UK FINANCIAL MOONSHOT TOKEN | launchpad-platform, tokenized-fund | $187k | $16.0M | $351k | 79% | — |
-| $ROAR | Russian Oil Asset Reserve | tokenized-fund | $187k | $15.2M | $342k | 70% | — |
-| $XDC NET | XDC NETWORK | tokenized-fund | $186k | $14.9M | $339k | 69% | — |
-| $ANTH | Anthropic | ai-agents | $175k | $11.4M | $296k | 35% | — |
-| $USDF | United States Dividend Fund | tokenized-fund, america-politics | $273k | $9.3M | $268k | 19895% | copycat wave |
-| $USDF | United States Dividend Fund | tokenized-fund, america-politics | $270k | $19.7M | $390k | 42428% | copycat wave |
-| $RLUSD | Ripple USD | brand-cosplay | $164k | $4.2M | $179k | 9017% | — |
+| $CRAWLER | Crawlerpad | ai-agents | $7.0M | $24.2M | $457k | 9302% | — |
+| $HUMPH | Humphrey Reserve | tokenized-fund | $3.4M | $4.3M | $193k | 450% | — |
+| $BATONA | Baton Agency | ai-agents, brainrot, launchpad-platform | $2.5M | $4.1M | $185k | 3347% | — |
+| $HIRE | Hire Agents | ai-agents | $3.5M | $901k | $103k | 2120% | copycat wave |
+| $DEPTH | Depth | unclassified | $809k | $4k | $4k | -97% | — |
+| $Bear | The Black Bear | frogs-animals | $693k | $19k | $11k | -53% | — |
+| $DOPE | Doge Pepe | dogs, america-politics, frogs-animals | $875k | $961k | $112k | 3% | copycat wave |
+| $$HATE | HATE PEOPLE  | unclassified | $419k | $119k | $29k | 172% | — |
+| $Solamians | Solamians | unclassified | $355k | $139k | $37k | -52% | — |
+| $Bumo | Bumo-chan | unclassified | $309k | $123k | $30k | 157% | — |
+| $Musk | Musk | celebrity-culture | $299k | $6.9M | $227k | 10% | — |
+| $ARF | American Rewards Fund | airdrop-claim, america-politics, tokenized-fund | $231k | $5.4M | $200k | 12020% | — |
+| $SLOPCORE | SLOPCORE ✨ | brainrot | $224k | $3.4M | $159k | 26% | — |
+| $ANTH | Anthropic | ai-agents | $213k | $26.6M | $445k | 60164% | — |
+| $VER | VERAXUM | unclassified | $213k | $10.8M | $283k | 24917% | — |
+| $VSOF | Vanguard Strategic Oil Fund | tokenized-fund, stocks-tradfi | $207k | $5.0M | $193k | 11061% | — |
+| $YILONGMA | YiLong Ma | unclassified | $198k | $343k | $50k | 553% | — |
+| $DARK | DarkSwap | airdrop-claim, apps-utility, launchpad-platform | $195k | $1.6M | $109k | 3485% | — |
+| $DAWS | Digital American Water Supply | tokenized-fund, america-politics | $193k | $1.9M | $117k | 4084% | — |
+| $ConConAI | ConConAI | ai-agents | $178k | $14.5M | $329k | 9% | — |
+| $WALTJR | For Walter Jr | unclassified | $175k | $23k | $12k | -45% | — |
+| $WSOS | World Strategic Oil Supply | tokenized-fund | $170k | $5.9M | $209k | 28% | — |
+| $Arrow | Arrow | unclassified | $163k | $11.3M | $289k | 24933% | — |
+| $AORP | American Oil Relief Program | tokenized-fund, america-politics | $161k | $3.2M | $154k | 7228% | — |
+| $MOBY | MOBY | ai-agents | $157k | $9.3M | $263k | 21597% | — |
+| $USOS | United States Oil Supply | tokenized-fund, america-politics | $241k | $17.8M | $364k | 40255% | copycat wave |
+| $SPX | SpxNyxo | ai-agents, airdrop-claim, defi-payments | $155k | $4.0M | $172k | 9094% | — |
+| $Popo | Popo | unclassified | $145k | $11k | $8k | -74% | — |
+| $USDF | United States Dividend Fund | tokenized-fund, america-politics | $220k | $13.9M | $321k | 31014% | copycat wave |
+| $ADTF | American Dividend Trust Fund | tokenized-fund, america-politics, defi-payments | $139k | $8.3M | $247k | 18277% | — |
 
 ## Words the taxonomy does not cover yet
 
 Recurring words in runners that hit no meta. Candidates for a new meta once they persist.
 
-`sarp` (5d, $7.2M) · `jean` (5d, $5.3M) · `phil` (5d, $5.3M) · `jeanphil` (5d, $5.3M) · `usdp` (4d, $3.5M) · `vsof` (4d, $3.2M) · `ntda` (4d, $1.1M) · `usor` (4d, $835k) · `baton` (3d, $10.1M) · `gomo` (3d, $4.4M) · `app` (3d, $4.4M) · `dotf` (3d, $3.3M) · `cyberleek` (3d, $2.4M) · `atfs` (3d, $2.3M) · `udr` (3d, $1.3M)
+`sarp` (5d, $7.2M) · `jean` (5d, $5.3M) · `phil` (5d, $5.3M) · `jeanphil` (5d, $5.3M) · `usdp` (4d, $3.5M) · `cyberleek` (4d, $3.4M) · `vsof` (4d, $3.2M) · `ntda` (4d, $1.1M) · `usor` (4d, $835k) · `baton` (3d, $10.1M) · `gomo` (3d, $4.4M) · `app` (3d, $4.4M) · `dotf` (3d, $3.3M) · `atfs` (3d, $2.3M) · `udr` (3d, $1.3M)
 
 ## Sources
 
 - pumpfun: 300 coins
-- pumpfun-live: 49 new coins
+- pumpfun-live: 50 new coins
 - dexscreener/token-boosts/top/v1: ok
 - dexscreener/token-boosts/latest/v1: ok
-- dexscreener: 351 tokens enriched
-- candidatesSeen: 379
+- dexscreener: 346 tokens enriched
+- candidatesSeen: 374
