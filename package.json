@@ -15,8 +15,10 @@
     "db:push": "prisma db push",
     "db:seed": "tsx prisma/seed.ts",
     "scan": "tsx scripts/scan.ts",
+    "scan:wallet": "tsx scripts/scan-wallet.ts",
     "verify": "npm run lint && npm run typecheck && npm run test && npm run build",
-    "smoke": "node scripts/smoke.mjs"
+    "smoke": "node scripts/smoke.mjs",
+    "runners:daily": "tsx scripts/runners-daily.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.2.1",

@@ -35,6 +35,11 @@ const schema = z.object({
   PUMPFUN_API_BASE_URL: z.string().url().optional(),
   PUMPFUN_API_KEY: z.string().optional(),
 
+  /** Any Solana JSON-RPC endpoint (public mainnet, Helius, QuickNode, …). */
+  SOLANA_RPC_URL: z.string().url().optional(),
+  /** Per-scan cap on transactions the wallet scanner inspects. */
+  WALLET_SCAN_MAX_TRANSACTIONS: z.coerce.number().int().positive().default(1000),
+
   // --- Tunables ---
   HTTP_TIMEOUT_MS: z.coerce.number().int().positive().default(8000),
   CACHE_TTL_SECONDS: z.coerce.number().int().positive().default(300),
@@ -80,5 +85,6 @@ export function credentialStatus(): Record<string, boolean> {
     instagram: Boolean(env.INSTAGRAM_API_KEY && env.INSTAGRAM_API_BASE_URL),
     x: Boolean(env.X_BEARER_TOKEN && env.X_API_BASE_URL),
     pumpfun: Boolean(env.PUMPFUN_API_BASE_URL),
+    walletActivity: Boolean(env.SOLANA_RPC_URL),
   };
 }

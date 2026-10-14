@@ -1,0 +1,4761 @@
+{
+ "version": 1,
+ "days": [
+  {
+   "date": "2026-10-04",
+   "metaShare": {
+    "tokenized-fund": 0.132,
+    "stocks-tradfi": 0.017,
+    "brand-cosplay": 0.021,
+    "america-politics": 0.051,
+    "ai-agents": 0.332,
+    "dogs": 0.005,
+    "cats": 0.133,
+    "frogs-animals": 0.007,
+    "brainrot": 0.06,
+    "gambling-games": 0.018,
+    "launchpad-platform": 0.007,
+    "airdrop-claim": 0.012,
+    "prediction-markets": 0,
+    "livestream-social": 0.02,
+    "defi-payments": 0.063,
+    "seasonal": 0.03,
+    "celebrity-culture": 0.026,
+    "unclassified": 0.066
+   },
+   "runnerCount": 90
+  },
+  {
+   "date": "2026-10-05",
+   "metaShare": {
+    "tokenized-fund": 0.139,
+    "stocks-tradfi": 0.051,
+    "brand-cosplay": 0.021,
+    "america-politics": 0.033,
+    "ai-agents": 0.13,
+    "dogs": 0.031,
+    "cats": 0.077,
+    "frogs-animals": 0.007,
+    "brainrot": 0.025,
+    "gambling-games": 0,
+    "launchpad-platform": 0.041,
+    "airdrop-claim": 0,
+    "prediction-markets": 0,
+    "livestream-social": 0.039,
+    "defi-payments": 0.011,
+    "seasonal": 0,
+    "celebrity-culture": 0,
+    "unclassified": 0.395
+   },
+   "runnerCount": 105
+  },
+  {
+   "date": "2026-10-06",
+   "metaShare": {
+    "tokenized-fund": 0.165,
+    "stocks-tradfi": 0.017,
+    "brand-cosplay": 0.04,
+    "america-politics": 0.066,
+    "ai-agents": 0.129,
+    "dogs": 0.062,
+    "cats": 0.103,
+    "frogs-animals": 0,
+    "brainrot": 0.038,
+    "gambling-games": 0,
+    "launchpad-platform": 0.012,
+    "airdrop-claim": 0,
+    "prediction-markets": 0,
+    "livestream-social": 0.03,
+    "defi-payments": 0.003,
+    "seasonal": 0,
+    "celebrity-culture": 0,
+    "unclassified": 0.335
+   },
+   "runnerCount": 80
+  },
+  {
+   "date": "2026-10-07",
+   "metaShare": {
+    "tokenized-fund": 0.166,
+    "stocks-tradfi": 0.035,
+    "brand-cosplay": 0.036,
+    "america-politics": 0.067,
+    "ai-agents": 0.082,
+    "dogs": 0.081,
+    "cats": 0.111,
+    "frogs-animals": 0.007,
+    "brainrot": 0.015,
+    "gambling-games": 0.01,
+    "launchpad-platform": 0.008,
+    "airdrop-claim": 0.002,
+    "prediction-markets": 0.003,
+    "livestream-social": 0,
+    "apps-utility": 0.182,
+    "defi-payments": 0.009,
+    "seasonal": 0,
+    "celebrity-culture": 0,
+    "unclassified": 0.186
+   },
+   "runnerCount": 85
+  },
+  {
+   "date": "2026-10-08",
+   "metaShare": {
+    "tokenized-fund": 0.189,
+    "stocks-tradfi": 0.031,
+    "brand-cosplay": 0.075,
+    "america-politics": 0.099,
+    "ai-agents": 0.08,
+    "dogs": 0.028,
+    "cats": 0,
+    "frogs-animals": 0.01,
+    "brainrot": 0.022,
+    "gambling-games": 0,
+    "launchpad-platform": 0.035,
+    "airdrop-claim": 0.009,
+    "prediction-markets": 0,
+    "livestream-social": 0,
+    "apps-utility": 0.079,
+    "defi-payments": 0.01,
+    "seasonal": 0.01,
+    "celebrity-culture": 0,
+    "unclassified": 0.323
+   },
+   "runnerCount": 88
+  },
+  {
+   "date": "2026-10-09",
+   "metaShare": {
+    "tokenized-fund": 0.15,
+    "stocks-tradfi": 0.038,
+    "brand-cosplay": 0.023,
+    "america-politics": 0.069,
+    "ai-agents": 0.047,
+    "dogs": 0.057,
+    "cats": 0.096,
+    "frogs-animals": 0.019,
+    "brainrot": 0.01,
+    "gambling-games": 0,
+    "launchpad-platform": 0.018,
+    "airdrop-claim": 0.016,
+    "prediction-markets": 0,
+    "livestream-social": 0,
+    "apps-utility": 0,
+    "defi-payments": 0.022,
+    "seasonal": 0,
+    "celebrity-culture": 0.009,
+    "unclassified": 0.427
+   },
+   "runnerCount": 87
+  },
+  {
+   "date": "2026-10-10",
+   "metaShare": {
+    "tokenized-fund": 0.147,
+    "stocks-tradfi": 0.045,
+    "brand-cosplay": 0.024,
+    "america-politics": 0.085,
+    "ai-agents": 0.185,
+    "dogs": 0.108,
+    "cats": 0.019,
+    "frogs-animals": 0,
+    "brainrot": 0.022,
+    "gambling-games": 0,
+    "launchpad-platform": 0.02,
+    "airdrop-claim": 0.006,
+    "prediction-markets": 0,
+    "livestream-social": 0,
+    "apps-utility": 0.018,
+    "defi-payments": 0.036,
+    "seasonal": 0,
+    "celebrity-culture": 0,
+    "unclassified": 0.284
+   },
+   "runnerCount": 73
+  },
+  {
+   "date": "2026-10-11",
+   "metaShare": {
+    "tokenized-fund": 0.186,
+    "stocks-tradfi": 0.046,
+    "brand-cosplay": 0.025,
+    "america-politics": 0.054,
+    "ai-agents": 0.151,
+    "dogs": 0.102,
+    "cats": 0.064,
+    "frogs-animals": 0.014,
+    "brainrot": 0.07,
+    "gambling-games": 0,
+    "launchpad-platform": 0.026,
+    "airdrop-claim": 0.019,
+    "prediction-markets": 0,
+    "livestream-social": 0.006,
+    "apps-utility": 0.005,
+    "defi-payments": 0.013,
+    "seasonal": 0,
+    "celebrity-culture": 0.006,
+    "unclassified": 0.216
+   },
+   "runnerCount": 72
+  },
+  {
+   "date": "2026-10-12",
+   "metaShare": {
+    "tokenized-fund": 0.208,
+    "stocks-tradfi": 0.009,
+    "brand-cosplay": 0.039,
+    "america-politics": 0.163,
+    "ai-agents": 0.073,
+    "dogs": 0.086,
+    "cats": 0.029,
+    "frogs-animals": 0.029,
+    "brainrot": 0.059,
+    "gambling-games": 0,
+    "launchpad-platform": 0.018,
+    "airdrop-claim": 0.014,
+    "prediction-markets": 0,
+    "livestream-social": 0.016,
+    "apps-utility": 0,
+    "defi-payments": 0.033,
+    "seasonal": 0,
+    "celebrity-culture": 0.027,
+    "unclassified": 0.198
+   },
+   "runnerCount": 61
+  },
+  {
+   "date": "2026-10-13",
+   "metaShare": {
+    "tokenized-fund": 0.233,
+    "stocks-tradfi": 0.007,
+    "brand-cosplay": 0.023,
+    "america-politics": 0.098,
+    "ai-agents": 0.231,
+    "dogs": 0.021,
+    "cats": 0.017,
+    "frogs-animals": 0.042,
+    "brainrot": 0.04,
+    "gambling-games": 0,
+    "launchpad-platform": 0.025,
+    "airdrop-claim": 0.019,
+    "prediction-markets": 0,
+    "livestream-social": 0,
+    "apps-utility": 0.005,
+    "defi-payments": 0.008,
+    "seasonal": 0,
+    "celebrity-culture": 0.018,
+    "unclassified": 0.212
+   },
+   "runnerCount": 67
+  },
+  {
+   "date": "2026-10-14",
+   "metaShare": {
+    "tokenized-fund": 0.236,
+    "stocks-tradfi": 0.006,
+    "brand-cosplay": 0.02,
+    "america-politics": 0.113,
+    "ai-agents": 0.152,
+    "dogs": 0.031,
+    "cats": 0.012,
+    "frogs-animals": 0.031,
+    "brainrot": 0.004,
+    "gambling-games": 0,
+    "launchpad-platform": 0.02,
+    "airdrop-claim": 0.024,
+    "prediction-markets": 0,
+    "livestream-social": 0.005,
+    "apps-utility": 0,
+    "defi-payments": 0.104,
+    "seasonal": 0,
+    "celebrity-culture": 0,
+    "unclassified": 0.24
+   },
+   "runnerCount": 71
+  }
+ ],
+ "siteGrades": {
+  "LocalLM": [
+   {
+    "date": "2026-10-04",
+    "grade": "A",
+    "score": 85.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 41.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 39.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 31
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 32.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 26.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 63.3
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 52.6
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 30.1
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 68.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 57.6
+   }
+  ],
+  "Super Intelligence Agency": [
+   {
+    "date": "2026-10-04",
+    "grade": "A",
+    "score": 81.8
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 40.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 39
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 31
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 31.8
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 26.7
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 64
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 52.8
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 31
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 68.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 61.1
+   }
+  ],
+  "Uranium Strategy": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 71.7
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 71.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "A",
+    "score": 75.1
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "A",
+    "score": 77.1
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "A",
+    "score": 88
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 72.8
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 71.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "A",
+    "score": 77.3
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "A",
+    "score": 87.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 87.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "A",
+    "score": 88.3
+   }
+  ],
+  "CLONE": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 72.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 50.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 42.7
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 43.2
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 37.5
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 74.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 63.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 41.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 80
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 68.9
+   }
+  ],
+  "CSTR — Chip Strategy": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 72.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 50.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 43
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 43.2
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 37.5
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 74.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 63.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 41.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 80
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 68.9
+   }
+  ],
+  "Sentia": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 74.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 56.1
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 53.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 44
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 51.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 45.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 82.3
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 71.8
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 49.6
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 81.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "A",
+    "score": 76.7
+   }
+  ],
+  "SLUDGE": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 74.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 54.6
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 52.4
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 43.4
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 45
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 38.4
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 76
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 67.1
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 43.9
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 82.3
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 69.7
+   }
+  ],
+  "EPOCH NINE": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 72.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 50.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 42.7
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 43.2
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 37.5
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 74.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 63.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 41.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 80
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 68.9
+   }
+  ],
+  "CSTR Lending": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 59.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 57.6
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 61.7
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 63
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 74.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 59.4
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 57.9
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 63.3
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "A",
+    "score": 75.2
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 74.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "A",
+    "score": 78.3
+   }
+  ],
+  "Superintelligence Reactor": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 66.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 53.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 51.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 43
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 44.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 38.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 75.3
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 64.6
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 42.1
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 80.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 69.6
+   }
+  ],
+  "Diamantini": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 38.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 43.3
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 35.4
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "F",
+    "score": 24.1
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "F",
+    "score": 25.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 23.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 31.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 47.4
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 45.8
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 34.1
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 36.1
+   }
+  ],
+  "Bundle Sniffer": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 66.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 48.1
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 46.3
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 39.3
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 38.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 48.8
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 72.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 61.9
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 54.2
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 74
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 63.1
+   }
+  ],
+  "Stonk Arena": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 65.5
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 46.1
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 43.4
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 36.1
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 36.2
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 30.7
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 68.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 57.3
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 33.8
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 72.2
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 61.1
+   }
+  ],
+  "Agent Xero": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 66
+   }
+  ],
+  "MEMESCAN": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 66
+   }
+  ],
+  "Perpl MM Bot": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 66
+   }
+  ],
+  "Viral Coin Radar": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 66
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 66
+   }
+  ],
+  "Dividend Dog": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 51.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.7
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 56.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 59.3
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 68.9
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 54.5
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 54.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 60.1
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 70
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 68.2
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 69.3
+   }
+  ],
+  "THE BOARDROOM": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 61.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 43.5
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 39.8
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 32
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 33.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 27.3
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 64.7
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 54.2
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 30.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 69.1
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 57.8
+   }
+  ],
+  "Attention Markets": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 61
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 41.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 39.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 31
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 32.6
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 26.6
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 63.5
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 53.3
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 30.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 69.5
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 58.4
+   }
+  ],
+  "FSVO volume market-maker": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 60
+   }
+  ],
+  "IPO": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 71.4
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 73
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "A",
+    "score": 75.4
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "A",
+    "score": 77.1
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "A",
+    "score": 89.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 73.3
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 71.7
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "A",
+    "score": 78
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "A",
+    "score": 88
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 88.3
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "A",
+    "score": 88.9
+   }
+  ],
+  "Polybot": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 60
+   }
+  ],
+  "PumpXBT": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 60
+   }
+  ],
+  "Robin Hood V2": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 60
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 60
+   }
+  ],
+  "0DTE": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 53.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 65
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 45.7
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 55.3
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 62.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 62.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 63
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 63.5
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 51.2
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 59.3
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 52
+   }
+  ],
+  "zSOL": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 51.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 42.4
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 56.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 49.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 58.6
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 57.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 58.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 59.3
+   }
+  ],
+  "PRVC": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 50.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 62.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 44.3
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 43.5
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 61.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 51.4
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 51.8
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 59.4
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 51
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 59.1
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 51.8
+   }
+  ],
+  "memcoinz Solana skills toolkit": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 58
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 58
+   }
+  ],
+  "CAT TERMINAL": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 55
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 35.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 33.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "F",
+    "score": 25
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "F",
+    "score": 26.6
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 20.6
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 57.5
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 47.3
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 24.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "B",
+    "score": 63.5
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 52.4
+   }
+  ],
+  "SIDELINED": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 51.6
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 39.6
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 55.5
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 54.8
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "B",
+    "score": 62.5
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 39.3
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 39.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 61.5
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 58.2
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 54.7
+   }
+  ],
+  "Copycat": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 53
+   }
+  ],
+  "LONGDOG": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 50.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 54.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 61.1
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 63.9
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 41.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 59.2
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 67.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 69.8
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 66.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 47.7
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 41
+   }
+  ],
+  "Go Fund Memes": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 52.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 57.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 48.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 38.5
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 56.8
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 53.6
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 45.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 62.5
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60.8
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 59.3
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 55.7
+   }
+  ],
+  "Hood ST": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 45.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 56.9
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 38.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 48
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 47.6
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 55.6
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 55.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 56.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 54.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 56.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 54.9
+   }
+  ],
+  "TopBlast": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 44.5
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 55.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 37.3
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 36.6
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 55
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 45
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 45
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 53
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 44.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 52.7
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 53
+   }
+  ],
+  "Funding Arb Desk": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 52
+   }
+  ],
+  "HOLDCO": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 53.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 58.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 38.8
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 48.2
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 56.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 55.8
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 57.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 56.9
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 55.2
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 52.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 65.9
+   }
+  ],
+  "Zazu": [
+   {
+    "date": "2026-10-04",
+    "grade": "B",
+    "score": 68.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52.9
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 61.6
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 63.6
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 55.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 61.2
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 56.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 55.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 41.5
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 52.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 45.4
+   }
+  ],
+  "GOATSE": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 45
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 33
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 41.5
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 31.3
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 32.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 46
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 38.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 54.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 53.2
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 51.4
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 48
+   }
+  ],
+  "PitBrokers": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 39.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 32.7
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 50.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 49.6
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 50.2
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 51.1
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 38.7
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 46.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 47.2
+   }
+  ],
+  "PAPER paper-trading terminal": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 47
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 47
+   }
+  ],
+  "PUMP DAWGS": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 44.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 48.8
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 55.1
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 57.9
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 35.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 53.2
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "B",
+    "score": 61.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 63.8
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "B",
+    "score": 60.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 41.7
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 35
+   }
+  ],
+  "Rally": [
+   {
+    "date": "2026-10-04",
+    "grade": "C",
+    "score": 47.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 49.7
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 31.4
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 30.6
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 49.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 39.8
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 48.7
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 47.5
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 49.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 46.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 60.5
+   }
+  ],
+  "Sherwood Protocol": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 39.9
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 52
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 38.7
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 48
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 56.1
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "C",
+    "score": 49.6
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "C",
+    "score": 50.2
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 51.1
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 38.7
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 46.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 47.2
+   }
+  ],
+  "OUTLET": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 37.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 49.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 31.3
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 70.6
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 57
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 29
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 32.4
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 30
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 29
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 30
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "F",
+    "score": 29
+   }
+  ],
+  "Plum": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 42
+   }
+  ],
+  "Signal": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 42
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 42
+   }
+  ],
+  "Cash Cow": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 26.5
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 37.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 19.3
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 58.9
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 46.6
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 27
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "F",
+    "score": 27.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 35.2
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 26.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 34.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 35
+   }
+  ],
+  "Duel Royale": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 27.8
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 32
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 31.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 33
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "F",
+    "score": 24.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 33.6
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 32.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 33.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 34.3
+   }
+  ],
+  "Bingo.fun": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 27.8
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 32
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 31.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 33
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "F",
+    "score": 24.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 33.6
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 32.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "D",
+    "score": 33.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "D",
+    "score": 34.3
+   }
+  ],
+  "URA Mine": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 27.4
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 31.9
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "F",
+    "score": 17
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "F",
+    "score": 17
+   }
+  ],
+  "HODL OR NO HODL": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 22.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 31.4
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 13.3
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "F",
+    "score": 26.3
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 31
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 21
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "F",
+    "score": 21
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "F",
+    "score": 29
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 20.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "F",
+    "score": 28.7
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "F",
+    "score": 29
+   }
+  ],
+  "BasketLaunch": [
+   {
+    "date": "2026-10-04",
+    "grade": "D",
+    "score": 40.1
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 40.7
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "D",
+    "score": 43.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 45.2
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 57.4
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 41.8
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 39.4
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "C",
+    "score": 46.1
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 57.6
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "C",
+    "score": 58.4
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "C",
+    "score": 58.7
+   }
+  ],
+  "Solanda": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 20.3
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "F",
+    "score": 11
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 11
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "F",
+    "score": 11.4
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "F",
+    "score": 25.7
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "F",
+    "score": 27
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "F",
+    "score": 18.1
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "F",
+    "score": 27.6
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 26.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "F",
+    "score": 27.6
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "F",
+    "score": 28.3
+   }
+  ],
+  "OVERBID": [
+   {
+    "date": "2026-10-04",
+    "grade": "F",
+    "score": 21.2
+   },
+   {
+    "date": "2026-10-05",
+    "grade": "D",
+    "score": 32.7
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "F",
+    "score": 14.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "F",
+    "score": 23.8
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "F",
+    "score": 22.9
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 30.5
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "D",
+    "score": 31.4
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "D",
+    "score": 31.7
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "F",
+    "score": 12.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "F",
+    "score": 12.3
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "F",
+    "score": 12.1
+   }
+  ],
+  "CLAWSIFIED": [
+   {
+    "date": "2026-10-05",
+    "grade": "B",
+    "score": 61.3
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "B",
+    "score": 60.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "B",
+    "score": 65.3
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 49.5
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "B",
+    "score": 61.7
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 82.4
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 72.4
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 49.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 86.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "A",
+    "score": 78.7
+   }
+  ],
+  "HamGPT": [
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 58.6
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 56.9
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "C",
+    "score": 48.9
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 49.5
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 44.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 80.6
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 70.2
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "C",
+    "score": 48.4
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 87.5
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "A",
+    "score": 75.9
+   }
+  ],
+  "FOREMAN": [
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 55.5
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 51.8
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 44
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "C",
+    "score": 45.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 39.3
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 76.7
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 66.2
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 42.3
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 81.1
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 69.8
+   }
+  ],
+  "Persona": [
+   {
+    "date": "2026-10-05",
+    "grade": "C",
+    "score": 55.1
+   },
+   {
+    "date": "2026-10-06",
+    "grade": "C",
+    "score": 52.2
+   },
+   {
+    "date": "2026-10-07",
+    "grade": "D",
+    "score": 43
+   },
+   {
+    "date": "2026-10-08",
+    "grade": "D",
+    "score": 44.3
+   },
+   {
+    "date": "2026-10-09",
+    "grade": "D",
+    "score": 38.1
+   },
+   {
+    "date": "2026-10-10",
+    "grade": "A",
+    "score": 75.3
+   },
+   {
+    "date": "2026-10-11",
+    "grade": "B",
+    "score": 64.8
+   },
+   {
+    "date": "2026-10-12",
+    "grade": "D",
+    "score": 42.6
+   },
+   {
+    "date": "2026-10-13",
+    "grade": "A",
+    "score": 80.9
+   },
+   {
+    "date": "2026-10-14",
+    "grade": "B",
+    "score": 69.7
+   }
+  ]
+ },
+ "words": {
+  "sleuthy": {
+   "days": 1,
+   "lastSeen": "2026-10-04",
+   "volumeUsd": 1222153
+  },
+  "whipcat": {
+   "days": 2,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1126941
+  },
+  "usor": {
+   "days": 4,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 834619
+  },
+  "xingxing": {
+   "days": 1,
+   "lastSeen": "2026-10-04",
+   "volumeUsd": 146516
+  },
+  "keypad": {
+   "days": 1,
+   "lastSeen": "2026-10-04",
+   "volumeUsd": 113620
+  },
+  "key": {
+   "days": 1,
+   "lastSeen": "2026-10-04",
+   "volumeUsd": 113620
+  },
+  "ntda": {
+   "days": 4,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 1115437
+  },
+  "vsof": {
+   "days": 4,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 3233646
+  },
+  "iof": {
+   "days": 1,
+   "lastSeen": "2026-10-04",
+   "volumeUsd": 786872
+  },
+  "aros": {
+   "days": 3,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 995667
+  },
+  "team": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 22406499
+  },
+  "human": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 23893221
+  },
+  "super": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 6039497
+  },
+  "model": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 5542588
+  },
+  "baton": {
+   "days": 3,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 10121243
+  },
+  "rogue": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 3888178
+  },
+  "batonrogue": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 3888178
+  },
+  "jetpack": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2908321
+  },
+  "xman": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2240013
+  },
+  "gizmo": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2155103
+  },
+  "genesis": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 2073552
+  },
+  "last": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 2396777
+  },
+  "xfun": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1774080
+  },
+  "stack": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 1363823
+  },
+  "shibling": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 743950
+  },
+  "gomo": {
+   "days": 3,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 4376484
+  },
+  "app": {
+   "days": 3,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 4376484
+  },
+  "texcat": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 433318
+  },
+  "trench": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 343653
+  },
+  "hero": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 258814
+  },
+  "squirrel": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 258814
+  },
+  "hnut": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 258814
+  },
+  "seccash": {
+   "days": 2,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 619394
+  },
+  "sec": {
+   "days": 2,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 452310
+  },
+  "spx38f": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 191557
+  },
+  "spx": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 191557
+  },
+  "oura": {
+   "days": 3,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 701214
+  },
+  "usms": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 157878
+  },
+  "professor": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 151611
+  },
+  "eich": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 151611
+  },
+  "oraichain": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 149301
+  },
+  "orai": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 149301
+  },
+  "janie": {
+   "days": 1,
+   "lastSeen": "2026-10-05",
+   "volumeUsd": 106573
+  },
+  "sarp": {
+   "days": 5,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 7162949
+  },
+  "atfs": {
+   "days": 3,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 2325031
+  },
+  "jean": {
+   "days": 5,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 5303887
+  },
+  "phil": {
+   "days": 5,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 5303887
+  },
+  "jeanphil": {
+   "days": 5,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 5303887
+  },
+  "yersinia": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 6600439
+  },
+  "pestis": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 6600439
+  },
+  "plague": {
+   "days": 2,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 7039398
+  },
+  "mintro": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 6486164
+  },
+  "artifact": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 1592857
+  },
+  "council": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 1592857
+  },
+  "anisom": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 691741
+  },
+  "offmarket": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 497868
+  },
+  "off": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 497868
+  },
+  "sairium": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 409808
+  },
+  "sai": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 409808
+  },
+  "warren": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 370383
+  },
+  "buffet": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 370383
+  },
+  "tung": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 162342
+  },
+  "sahur": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 162342
+  },
+  "ttt": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 162342
+  },
+  "measles": {
+   "days": 1,
+   "lastSeen": "2026-10-06",
+   "volumeUsd": 157707
+  },
+  "dotf": {
+   "days": 3,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 3321515
+  },
+  "udr": {
+   "days": 3,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 1269549
+  },
+  "tweetcraft": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 13438956
+  },
+  "risk": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 8018173
+  },
+  "rari": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 8018173
+  },
+  "aiopad": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 4056306
+  },
+  "chonk": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 3802883
+  },
+  "darwin": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 2371907
+  },
+  "fullmargin": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 2339386
+  },
+  "irl": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 1813620
+  },
+  "money": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 1813620
+  },
+  "juice": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 1493507
+  },
+  "pools": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 1493507
+  },
+  "maya": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 600125
+  },
+  "samoyed": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 600125
+  },
+  "antivirus": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 438959
+  },
+  "ppav": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 438959
+  },
+  "holdoween": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 427537
+  },
+  "stuck": {
+   "days": 1,
+   "lastSeen": "2026-10-07",
+   "volumeUsd": 226382
+  },
+  "paid": {
+   "days": 2,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 357814
+  },
+  "frank": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 1525642
+  },
+  "ashford": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 1525642
+  },
+  "organisme": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 1138347
+  },
+  "openspawn": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 1049689
+  },
+  "spawn": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 1049689
+  },
+  "ecstasy": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 706560
+  },
+  "bloxpad": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 676739
+  },
+  "blox": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 676739
+  },
+  "bullcraft": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 593546
+  },
+  "justice": {
+   "days": 2,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 5703757
+  },
+  "gork": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 357940
+  },
+  "grk": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 357940
+  },
+  "c3po": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 331033
+  },
+  "spaxkova": {
+   "days": 3,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 504292
+  },
+  "spax": {
+   "days": 3,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 504292
+  },
+  "spx80b": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 294620
+  },
+  "shark": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 131751
+  },
+  "tank": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 131751
+  },
+  "sharktank": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 131751
+  },
+  "eswin": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 103283
+  },
+  "computing": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 103283
+  },
+  "pink": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 101150
+  },
+  "bow": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 101150
+  },
+  "pinkbow": {
+   "days": 1,
+   "lastSeen": "2026-10-08",
+   "volumeUsd": 101150
+  },
+  "cyberleek": {
+   "days": 5,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 3918287
+  },
+  "usdp": {
+   "days": 4,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 3549879
+  },
+  "pqc": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 6152820
+  },
+  "market": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 6152820
+  },
+  "owl": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 5398351
+  },
+  "nighter": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 5398351
+  },
+  "owlnight": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 5398351
+  },
+  "heehaw": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 5345817
+  },
+  "octobul": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 3712869
+  },
+  "white": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 1594949
+  },
+  "whale": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 1594949
+  },
+  "whitewhale": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 1594949
+  },
+  "slime": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 1282248
+  },
+  "intelligent": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 1779157
+  },
+  "derekmercer": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 738182
+  },
+  "drmr": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 738182
+  },
+  "subzerone": {
+   "days": 2,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 745132
+  },
+  "sub": {
+   "days": 2,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 745132
+  },
+  "abu": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 493578
+  },
+  "shalab": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 493578
+  },
+  "dochly": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 390501
+  },
+  "awzf": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 390501
+  },
+  "facebook": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 340127
+  },
+  "jetboxis": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 191592
+  },
+  "jtbx": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 191592
+  },
+  "doroni": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 344861
+  },
+  "personal": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 344861
+  },
+  "flight": {
+   "days": 2,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 344861
+  },
+  "bordrless": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 360979
+  },
+  "bordr": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 360979
+  },
+  "runepunk": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 100141
+  },
+  "legends": {
+   "days": 1,
+   "lastSeen": "2026-10-09",
+   "volumeUsd": 100141
+  },
+  "claudia": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 2704998
+  },
+  "quantum": {
+   "days": 2,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 4396655
+  },
+  "qcoin": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 1760584
+  },
+  "reels": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 827529
+  },
+  "quantcum": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 730272
+  },
+  "units": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 638865
+  },
+  "accelerationism": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 624110
+  },
+  "acc": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 624110
+  },
+  "factory": {
+   "days": 2,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 1405125
+  },
+  "bots": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 401741
+  },
+  "chava": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 332022
+  },
+  "grow": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 109291
+  },
+  "farm": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 109291
+  },
+  "seed": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 109291
+  },
+  "usdf": {
+   "days": 2,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 1242116
+  },
+  "beauty": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 496909
+  },
+  "sib": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 496909
+  },
+  "telemoney": {
+   "days": 1,
+   "lastSeen": "2026-10-10",
+   "volumeUsd": 1717314
+  },
+  "incognito69420": {
+   "days": 1,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 2911067
+  },
+  "incognito": {
+   "days": 1,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 2911067
+  },
+  "tiger": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 7647818
+  },
+  "soulja": {
+   "days": 1,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 328376
+  },
+  "boy": {
+   "days": 1,
+   "lastSeen": "2026-10-11",
+   "volumeUsd": 328376
+  },
+  "altai": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 5635857
+  },
+  "starknet": {
+   "days": 2,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 306213
+  },
+  "wolf": {
+   "days": 2,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 306213
+  },
+  "swolf": {
+   "days": 2,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 306213
+  },
+  "btb": {
+   "days": 2,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 358555
+  },
+  "sean": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 4065470
+  },
+  "dynasty": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 4065470
+  },
+  "prosper": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 4065470
+  },
+  "battles": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 570381
+  },
+  "fight": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 570381
+  },
+  "wednesday": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 263015
+  },
+  "adams": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 263015
+  },
+  "rosed": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 166103
+  },
+  "inmu": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 138149
+  },
+  "king": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 138149
+  },
+  "inmuking": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 138149
+  },
+  "playground": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 111413
+  },
+  "pad": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 111413
+  },
+  "soltoshidice": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 102429
+  },
+  "sdice": {
+   "days": 1,
+   "lastSeen": "2026-10-12",
+   "volumeUsd": 102429
+  },
+  "depth": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 808544
+  },
+  "hate": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 419141
+  },
+  "people": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 419141
+  },
+  "solamians": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 354795
+  },
+  "bumo": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 478543
+  },
+  "chan": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 478543
+  },
+  "veraxum": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 400921
+  },
+  "ver": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 400921
+  },
+  "yilong": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 197893
+  },
+  "yilongma": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 197893
+  },
+  "walter": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 174684
+  },
+  "waltjr": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 174684
+  },
+  "arrow": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 264249
+  },
+  "popo": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 144882
+  },
+  "pumpcrowd": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 242324
+  },
+  "crowd": {
+   "days": 2,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 242324
+  },
+  "exfil": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 118987
+  },
+  "lion": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 108592
+  },
+  "hire": {
+   "days": 1,
+   "lastSeen": "2026-10-13",
+   "volumeUsd": 157743
+  },
+  "hydra": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 1535095
+  },
+  "xto": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 1175815
+  },
+  "hellhound": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 274619
+  },
+  "hell": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 274619
+  },
+  "duttin": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 196626
+  },
+  "rancho": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 196626
+  },
+  "edr": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 196626
+  },
+  "reverse": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 175188
+  },
+  "engineer": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 175188
+  },
+  "anything": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 175188
+  },
+  "rea": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 175188
+  },
+  "winter": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 138368
+  },
+  "arc": {
+   "days": 1,
+   "lastSeen": "2026-10-14",
+   "volumeUsd": 138368
+  }
+ }
+}

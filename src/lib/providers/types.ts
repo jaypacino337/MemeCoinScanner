@@ -5,6 +5,7 @@ import type {
   TokenIndexQuery,
   TokenIndexResponse,
 } from '@/lib/domain/types';
+import type { WalletSwapBatch } from '@/lib/domain/wallet';
 
 /**
  * Provider contracts.
@@ -46,6 +47,20 @@ export interface TokenIndexProvider {
   readonly requiresCredential: string | null;
 
   search(query: TokenIndexQuery): Promise<TokenIndexResponse>;
+  health(): Promise<ProviderHealth>;
+}
+
+export interface WalletActivityProvider {
+  readonly name: string;
+  readonly mode: ProviderMode;
+  readonly requiresCredential: string | null;
+
+  /**
+   * Returns the wallet's observed token swaps inside [windowStart, windowEnd].
+   * Must set `complete: false` rather than silently truncating history.
+   */
+  fetchSwaps(address: string, windowStart: Date, windowEnd: Date): Promise<WalletSwapBatch>;
+
   health(): Promise<ProviderHealth>;
 }
 

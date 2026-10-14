@@ -10,6 +10,8 @@ const LINKS: Array<{ href: string; label: string; accent?: string }> = [
   { href: '/instagram', label: 'Instagram', accent: 'text-instagram' },
   { href: '/x', label: 'X', accent: 'text-x' },
   { href: '/duplicate-checker', label: 'Duplicate Checker' },
+  { href: '/runners', label: 'Runners' },
+  { href: '/wallets', label: 'Wallets' },
   { href: '/saved', label: 'Saved' },
   { href: '/rejected', label: 'Rejected' },
   { href: '/settings', label: 'Settings' },

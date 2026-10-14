@@ -191,7 +191,7 @@ export async function getHealthSnapshot(): Promise<
   }>
 > {
   const registry = getRegistry();
-  const providers = [...registry.platforms.values(), registry.tokenIndex];
+  const providers = [...registry.platforms.values(), registry.tokenIndex, registry.walletActivity];
   const live = await Promise.all(providers.map((p) => p.health()));
   const stored = await prisma.dataSourceHealth.findMany();
   const storedByKey = new Map(stored.map((s) => [s.sourceKey, s]));

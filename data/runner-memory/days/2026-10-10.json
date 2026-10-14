@@ -1,0 +1,3302 @@
+{
+ "date": "2026-10-10",
+ "generatedAt": "2026-10-10T12:58:42.578Z",
+ "runnerCount": 73,
+ "totalVolumeUsd": 52232942,
+ "inflatedRunnerCount": 24,
+ "metaBoard": [
+  {
+   "metaId": "unclassified",
+   "label": "Unclassified",
+   "blurb": "Runners whose name and description hit no meta keyword.",
+   "share": 0.284,
+   "runnerCount": 17,
+   "volumeUsd": 10956254,
+   "inflatedShare": 0.18,
+   "avgShare7d": 0.289,
+   "trend": "steady",
+   "coolingStreak": 1,
+   "examples": [
+    {
+     "symbol": "QCOIN",
+     "name": "Quantum Coin",
+     "volume24hUsd": 1760584.09
+    },
+    {
+     "symbol": "TM",
+     "name": "TeleMoney",
+     "volume24hUsd": 1717313.52
+    },
+    {
+     "symbol": "REELS",
+     "name": "Reels",
+     "volume24hUsd": 827824.22
+    },
+    {
+     "symbol": "Quantcum",
+     "name": "Quantcum",
+     "volume24hUsd": 730321.65
+    }
+   ]
+  },
+  {
+   "metaId": "ai-agents",
+   "label": "AI agents & AI culture",
+   "blurb": "AI agents, AI influencers, models, bots and machine-intelligence jokes.",
+   "share": 0.185,
+   "runnerCount": 11,
+   "volumeUsd": 14017603,
+   "inflatedShare": 0.18,
+   "avgShare7d": 0.133,
+   "trend": "rising",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "qOMPUTE",
+     "name": "qOMPUTE",
+     "volume24hUsd": 5116948.24
+    },
+    {
+     "symbol": "CLAUDIA",
+     "name": "Claudia",
+     "volume24hUsd": 2703245.6
+    },
+    {
+     "symbol": "HOTBOT",
+     "name": "Hot Bot",
+     "volume24hUsd": 2636919.14
+    },
+    {
+     "symbol": "Samur•ai",
+     "name": "Samur•ai",
+     "volume24hUsd": 1365232.92
+    }
+   ]
+  },
+  {
+   "metaId": "tokenized-fund",
+   "label": "Tokenized fund / reserve LARP",
+   "blurb": "Coins cosplaying as funds, reserves, dividends or national assets.",
+   "share": 0.147,
+   "runnerCount": 28,
+   "volumeUsd": 13014623,
+   "inflatedShare": 0.54,
+   "avgShare7d": 0.157,
+   "trend": "steady",
+   "coolingStreak": 2,
+   "examples": [
+    {
+     "symbol": "AODF",
+     "name": "American Oil Dividend Fund",
+     "volume24hUsd": 978492.15
+    },
+    {
+     "symbol": "TDF",
+     "name": "Trump Dividends Fund",
+     "volume24hUsd": 228007.8
+    },
+    {
+     "symbol": "D O T ",
+     "name": "DOTF",
+     "volume24hUsd": 217798.91
+    },
+    {
+     "symbol": "ADTF",
+     "name": "American Dividend Trust Fund",
+     "volume24hUsd": 216150.56
+    }
+   ]
+  },
+  {
+   "metaId": "dogs",
+   "label": "Dogs",
+   "blurb": "Dog mascots — the oldest meta on the chain.",
+   "share": 0.108,
+   "runnerCount": 5,
+   "volumeUsd": 8802663,
+   "inflatedShare": 0.2,
+   "avgShare7d": 0.044,
+   "trend": "rising",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "QI",
+     "name": "Quantum Inu",
+     "volume24hUsd": 6557427.8
+    },
+    {
+     "symbol": "HI",
+     "name": "Holy Inu",
+     "volume24hUsd": 648313.63
+    },
+    {
+     "symbol": "SQI",
+     "name": "Super Quantum Inu",
+     "volume24hUsd": 525321.68
+    },
+    {
+     "symbol": "QI",
+     "name": "Quantum Inu",
+     "volume24hUsd": 195236.97
+    }
+   ]
+  },
+  {
+   "metaId": "america-politics",
+   "label": "America / politics",
+   "blurb": "Patriotic, government, election and policy narratives.",
+   "share": 0.085,
+   "runnerCount": 22,
+   "volumeUsd": 10294973,
+   "inflatedShare": 0.55,
+   "avgShare7d": 0.064,
+   "trend": "rising",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "AODF",
+     "name": "American Oil Dividend Fund",
+     "volume24hUsd": 978492.15
+    },
+    {
+     "symbol": "TDF",
+     "name": "Trump Dividends Fund",
+     "volume24hUsd": 228007.8
+    },
+    {
+     "symbol": "ADTF",
+     "name": "American Dividend Trust Fund",
+     "volume24hUsd": 216150.56
+    },
+    {
+     "symbol": "USOR",
+     "name": "U.S Oil",
+     "volume24hUsd": 202892.75
+    }
+   ]
+  },
+  {
+   "metaId": "stocks-tradfi",
+   "label": "Stocks & TradFi crossover",
+   "blurb": "Tokenized equities, Robinhood, Wall Street, brokers and bank jokes.",
+   "share": 0.045,
+   "runnerCount": 6,
+   "volumeUsd": 4216049,
+   "inflatedShare": 0.33,
+   "avgShare7d": 0.032,
+   "trend": "rising",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "HOTBOT",
+     "name": "Hot Bot",
+     "volume24hUsd": 2636919.14
+    },
+    {
+     "symbol": "ECHO",
+     "name": "ECHO",
+     "volume24hUsd": 144945.73
+    },
+    {
+     "symbol": "HOTBOT",
+     "name": "Hot Bot",
+     "volume24hUsd": 136158.01
+    },
+    {
+     "symbol": "FPES",
+     "name": "Federal Private Equity System",
+     "volume24hUsd": 153571.58
+    }
+   ]
+  },
+  {
+   "metaId": "defi-payments",
+   "label": "DeFi & payments",
+   "blurb": "Finance-app narratives: pay, vaults, dark pools, yield.",
+   "share": 0.036,
+   "runnerCount": 3,
+   "volumeUsd": 1729660,
+   "inflatedShare": 0.33,
+   "avgShare7d": 0.02,
+   "trend": "rising",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "NTRNDM",
+     "name": "notrandom",
+     "volume24hUsd": 811179.59
+    },
+    {
+     "symbol": "Arrow",
+     "name": "Arrow Finance",
+     "volume24hUsd": 189485.58
+    },
+    {
+     "symbol": "UDR",
+     "name": "UDR",
+     "volume24hUsd": 728994.73
+    }
+   ]
+  },
+  {
+   "metaId": "brand-cosplay",
+   "label": "Big-brand / big-coin cosplay",
+   "blurb": "Names borrowed from large companies or large coins (XRP, Google, SpaceX).",
+   "share": 0.024,
+   "runnerCount": 3,
+   "volumeUsd": 638090,
+   "inflatedShare": 0.33,
+   "avgShare7d": 0.036,
+   "trend": "cooling",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "SpaceXSI",
+     "name": "SpaceXSI",
+     "volume24hUsd": 189149.96
+    },
+    {
+     "symbol": "XRPN",
+     "name": "EVERNORTHXRP🔥",
+     "volume24hUsd": 206916.84
+    },
+    {
+     "symbol": "XRPN",
+     "name": "EVERNORTHXRP",
+     "volume24hUsd": 242023.32
+    }
+   ]
+  },
+  {
+   "metaId": "brainrot",
+   "label": "Brainrot & slang",
+   "blurb": "Internet slang, catchphrases and pure nonsense tickers.",
+   "share": 0.022,
+   "runnerCount": 3,
+   "volumeUsd": 2172582,
+   "inflatedShare": 0.67,
+   "avgShare7d": 0.028,
+   "trend": "steady",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "GOIF",
+     "name": "GOIF",
+     "volume24hUsd": 308453.03
+    },
+    {
+     "symbol": "GOIF",
+     "name": "GOIF",
+     "volume24hUsd": 1426282.59
+    },
+    {
+     "symbol": "GOIF",
+     "name": "Global Oil Institution Fund",
+     "volume24hUsd": 437846.54
+    }
+   ]
+  },
+  {
+   "metaId": "launchpad-platform",
+   "label": "Launchpads & platforms",
+   "blurb": "Products that launch, list or fund other coins.",
+   "share": 0.02,
+   "runnerCount": 2,
+   "volumeUsd": 480341,
+   "inflatedShare": 0,
+   "avgShare7d": 0.02,
+   "trend": "steady",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "XBC",
+     "name": "Xpress Bridge Currency",
+     "volume24hUsd": 295610.03
+    },
+    {
+     "symbol": "XBC",
+     "name": "Xpress Bridge Currency",
+     "volume24hUsd": 184730.99
+    }
+   ]
+  },
+  {
+   "metaId": "cats",
+   "label": "Cats",
+   "blurb": "Cat mascots and kitten characters.",
+   "share": 0.019,
+   "runnerCount": 1,
+   "volumeUsd": 561227,
+   "inflatedShare": 0,
+   "avgShare7d": 0.087,
+   "trend": "cooling",
+   "coolingStreak": 1,
+   "examples": [
+    {
+     "symbol": "MogCat",
+     "name": "MogCat",
+     "volume24hUsd": 561227.41
+    }
+   ]
+  },
+  {
+   "metaId": "apps-utility",
+   "label": "Apps & utility",
+   "blurb": "Coins pitched as a real app or tool: social apps, money apps, pools, margin.",
+   "share": 0.018,
+   "runnerCount": 1,
+   "volumeUsd": 504590,
+   "inflatedShare": 0,
+   "avgShare7d": 0.044,
+   "trend": "cooling",
+   "coolingStreak": 0,
+   "examples": [
+    {
+     "symbol": "GOMO",
+     "name": "Gomo App",
+     "volume24hUsd": 504589.58
+    }
+   ]
+  },
+  {
+   "metaId": "airdrop-claim",
+   "label": "Airdrops & claims",
+   "blurb": "Claim pages, airdrops, rewards and holder payouts.",
+   "share": 0.006,
+   "runnerCount": 1,
+   "volumeUsd": 188853,
+   "inflatedShare": 0,
+   "avgShare7d": 0.007,
+   "trend": "steady",
+   "coolingStreak": 1,
+   "examples": [
+    {
+     "symbol": "SI276",
+     "name": "Super Intelligence SI276",
+     "volume24hUsd": 188852.73
+    }
+   ]
+  },
+  {
+   "metaId": "frogs-animals",
+   "label": "Frogs & other animals",
+   "blurb": "Pepe, frogs, fish and every other animal mascot.",
+   "share": 0,
+   "runnerCount": 0,
+   "volumeUsd": 0,
+   "inflatedShare": 0,
+   "avgShare7d": 0.008,
+   "trend": "cooling",
+   "coolingStreak": 1,
+   "examples": []
+  },
+  {
+   "metaId": "gambling-games",
+   "label": "Games, casino & gambling",
+   "blurb": "On-chain games, dice, bingo, lotteries and degen mechanics.",
+   "share": 0,
+   "runnerCount": 0,
+   "volumeUsd": 0,
+   "inflatedShare": 0,
+   "avgShare7d": 0.005,
+   "trend": "cooling",
+   "coolingStreak": 0,
+   "examples": []
+  },
+  {
+   "metaId": "prediction-markets",
+   "label": "Prediction markets",
+   "blurb": "Betting on real-world outcomes: Polymarket-style products.",
+   "share": 0,
+   "runnerCount": 0,
+   "volumeUsd": 0,
+   "inflatedShare": 0,
+   "avgShare7d": 0.001,
+   "trend": "cooling",
+   "coolingStreak": 0,
+   "examples": []
+  },
+  {
+   "metaId": "livestream-social",
+   "label": "Livestream & social stunts",
+   "blurb": "Coins driven by a streamer, a live stunt, or a social-media moment.",
+   "share": 0,
+   "runnerCount": 0,
+   "volumeUsd": 0,
+   "inflatedShare": 0,
+   "avgShare7d": 0.015,
+   "trend": "cooling",
+   "coolingStreak": 0,
+   "examples": []
+  },
+  {
+   "metaId": "seasonal",
+   "label": "Seasonal & calendar",
+   "blurb": "Uptober, Halloween, Christmas and other dated moments.",
+   "share": 0,
+   "runnerCount": 0,
+   "volumeUsd": 0,
+   "inflatedShare": 0,
+   "avgShare7d": 0.007,
+   "trend": "cooling",
+   "coolingStreak": 0,
+   "examples": []
+  },
+  {
+   "metaId": "celebrity-culture",
+   "label": "Celebrity & pop culture",
+   "blurb": "Named people, films, music and sports moments.",
+   "share": 0,
+   "runnerCount": 0,
+   "volumeUsd": 0,
+   "inflatedShare": 0,
+   "avgShare7d": 0.006,
+   "trend": "cooling",
+   "coolingStreak": 1,
+   "examples": []
+  }
+ ],
+ "runners": [
+  {
+   "symbol": "qOMPUTE",
+   "name": "qOMPUTE",
+   "mint": "BQAeeSowpwEx8Km8GcporcbuLKq4a7EQceH3F2qZpump",
+   "metaIds": [
+    "ai-agents"
+   ],
+   "volume24hUsd": 5116948.24,
+   "marketCapUsd": 2342816,
+   "liquidityUsd": 143747.69,
+   "priceChange24hPct": 869,
+   "heat": 22.62,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/7f7q1oktpuyg7oyyhxzauszcnmkhri18bxbvx7dhazpb"
+  },
+  {
+   "symbol": "QI",
+   "name": "Quantum Inu",
+   "mint": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
+   "metaIds": [
+    "dogs"
+   ],
+   "volume24hUsd": 6557427.8,
+   "marketCapUsd": 3035911,
+   "liquidityUsd": 191309.19,
+   "priceChange24hPct": 246,
+   "heat": 20.49,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/cb4gfrgeitfu5qtxfrmiqzsavpwgbd3heor4cs2jfpn"
+  },
+  {
+   "symbol": "CLAUDIA",
+   "name": "Claudia",
+   "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+   "metaIds": [
+    "ai-agents"
+   ],
+   "volume24hUsd": 2703245.6,
+   "marketCapUsd": 4278112,
+   "liquidityUsd": 250451.34,
+   "priceChange24hPct": 380,
+   "heat": 16.44,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/fe7bpdycs74gqicuf14hwgumtopkv1d9mdyvx5btohfr"
+  },
+  {
+   "symbol": "HOTBOT",
+   "name": "Hot Bot",
+   "mint": "8nnaeWCw8mUypcGAgbmSuzAT85uWx4UN12adDrMhXrGF",
+   "metaIds": [
+    "ai-agents",
+    "stocks-tradfi"
+   ],
+   "volume24hUsd": 2636919.14,
+   "marketCapUsd": 6852951,
+   "liquidityUsd": 312949.54,
+   "priceChange24hPct": 379,
+   "heat": 16.24,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/gll3czybpsclzdoacf8qum5yrkvwya65kq2rctsjxxzv"
+  },
+  {
+   "symbol": "QCOIN",
+   "name": "Quantum Coin",
+   "mint": "7SsZWPvLHpMizSGD8RByEbjUA8VatHWAts4UpjB4pump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 1760584.09,
+   "marketCapUsd": 2497,
+   "liquidityUsd": 2765.63,
+   "priceChange24hPct": -99.04,
+   "heat": 13.27,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/6nnqpx13zkshe66rrc4pnhkxpciem4pkraej5my88uam"
+  },
+  {
+   "symbol": "TM",
+   "name": "TeleMoney",
+   "mint": "6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 1717313.52,
+   "marketCapUsd": 914477,
+   "liquidityUsd": 92035.51,
+   "priceChange24hPct": 2098,
+   "heat": 13.1,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/arcvd2givsmz7or2ozpe3kzvbadsvreav5ddnvj8sjhk"
+  },
+  {
+   "symbol": "Samur•ai",
+   "name": "Samur•ai",
+   "mint": "CB4f3tTUckrtSJxfyCvsURLYhedkdkKPCm1mewbVpump",
+   "metaIds": [
+    "ai-agents"
+   ],
+   "volume24hUsd": 1365232.92,
+   "marketCapUsd": 2478,
+   "liquidityUsd": 2891.24,
+   "priceChange24hPct": -94.31,
+   "heat": 11.68,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/gpbdlueebwql7eyqpu8vvauzwf4thfpjayma3vptjvz9"
+  },
+  {
+   "symbol": "REELS",
+   "name": "Reels",
+   "mint": "mGzw6zwvig3GitrCM6sGJXdRWeWz81X2vyzVH3Upump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 827824.22,
+   "marketCapUsd": 288775,
+   "liquidityUsd": 48675.37,
+   "priceChange24hPct": 552,
+   "heat": 9.1,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/591v7k7b9p4o6e4vil3ygzmzywogpbe3andvvvji983z"
+  },
+  {
+   "symbol": "NTRNDM",
+   "name": "notrandom",
+   "mint": "NTRNDMqQSiwEC2jJs3wJiZS6bpGYQJtMNQJgiX3WyV6",
+   "metaIds": [
+    "defi-payments"
+   ],
+   "volume24hUsd": 811179.59,
+   "marketCapUsd": 40981,
+   "liquidityUsd": 17364.52,
+   "priceChange24hPct": -82.82,
+   "heat": 9.01,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/7r3zpwvd966dzfz5xifeqyafme7xsta5bbmztctqhdg3"
+  },
+  {
+   "symbol": "Quantcum",
+   "name": "Quantcum",
+   "mint": "3QS7ujjZbsGo9gi5YjZG2UFUML6xwEfujiSMsuus5xn8",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 730321.65,
+   "marketCapUsd": 23233,
+   "liquidityUsd": 12491.74,
+   "priceChange24hPct": -48.72,
+   "heat": 8.55,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/lotz6obsnhkjdx9dxahtxjxkmffjqrg9fdqkyz2ftth"
+  },
+  {
+   "symbol": "HI",
+   "name": "Holy Inu",
+   "mint": "48HimqX34gdcKQeMJdqgW4etPyDo3xCcdHNXMDnCpump",
+   "metaIds": [
+    "dogs"
+   ],
+   "volume24hUsd": 648313.63,
+   "marketCapUsd": 13561,
+   "liquidityUsd": 8907.66,
+   "priceChange24hPct": -82.24,
+   "heat": 8.05,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/dsfgm497pwzuvqrtlrzztrpw8dss78ajcxouv7ct9ach"
+  },
+  {
+   "symbol": "UNITS",
+   "name": "Units",
+   "mint": "4riDXZW79vkk4ftXoSS3K72dpF4x1RK32ycji2mFpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 638864.54,
+   "marketCapUsd": 9386,
+   "liquidityUsd": 7631.66,
+   "priceChange24hPct": -83.87,
+   "heat": 7.99,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/6x8nizo68exxcn19x3meqeyc3mkzid87vd2rjkhn43sw"
+  },
+  {
+   "symbol": "AODF",
+   "name": "American Oil Dividend Fund",
+   "mint": "2KbRLsBVEXdF3YJm35yjvCHr8gC5o1wzRzQpbDhjpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 978492.15,
+   "marketCapUsd": 25376921,
+   "liquidityUsd": 441859.26,
+   "priceChange24hPct": 55824,
+   "heat": 7.91,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/gn6fdn3pcxpd3ccznq37edhiftxzgzxybatqasyk6yf1"
+  },
+  {
+   "symbol": "Q/ACC",
+   "name": "Quantum Accelerationism",
+   "mint": "7mS3UP5vh4GD5jA3XjCZyT2KVwBhLNanjRn17Wfpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 624110.12,
+   "marketCapUsd": 11466,
+   "liquidityUsd": 8179.04,
+   "priceChange24hPct": -73.05,
+   "heat": 7.9,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/qt7hgbwov9vpcbemtkalqkcufv7jjla2zxmxruhzczn"
+  },
+  {
+   "symbol": "FACTORY",
+   "name": "Baton Factory",
+   "mint": "7536qC4LEs3W2GtSKbhVGNJSiRfuXJhKVthxsgfkpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 616926.88,
+   "marketCapUsd": 387623,
+   "liquidityUsd": 56886.03,
+   "priceChange24hPct": 789,
+   "heat": 7.85,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/gbzrldk9fqzffrdrv9fy1eypfosqbnvz639gcdz4tlcx"
+  },
+  {
+   "symbol": "MogCat",
+   "name": "MogCat",
+   "mint": "DdcLYo8T6gniuLjYPsAHqASC1ViTaMyPwKEVWFqYpump",
+   "metaIds": [
+    "cats"
+   ],
+   "volume24hUsd": 561227.41,
+   "marketCapUsd": 2714,
+   "liquidityUsd": 2930.74,
+   "priceChange24hPct": -94.13,
+   "heat": 7.49,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/yxtu1goobqdhtbf96hgonyfajfj6xkiafcg6jug6y58"
+  },
+  {
+   "symbol": "SQI",
+   "name": "Super Quantum Inu",
+   "mint": "5hz8ATWNFTSpmS61U3iy4jvVHx7puooTPCtsztdKpump",
+   "metaIds": [
+    "dogs"
+   ],
+   "volume24hUsd": 525321.68,
+   "marketCapUsd": 2610,
+   "liquidityUsd": 2708.74,
+   "priceChange24hPct": -98.34,
+   "heat": 7.25,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/2azchmbktiz6ug9dyczrz79hok3m3hwy3qayzyd3cxk9"
+  },
+  {
+   "symbol": "GOMO",
+   "name": "Gomo App",
+   "mint": "9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump",
+   "metaIds": [
+    "apps-utility"
+   ],
+   "volume24hUsd": 504589.58,
+   "marketCapUsd": 1095548,
+   "liquidityUsd": 113415.37,
+   "priceChange24hPct": 115,
+   "heat": 7.1,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/5a7qurjlart146jajjype5nh6vlyfpn2qrhuslqbsczy"
+  },
+  {
+   "symbol": "BOTS",
+   "name": "Bots",
+   "mint": "8A9Eh2jcu84igP9H8g448FxMuKd8JF5iVmrP7ARVpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 401841.54,
+   "marketCapUsd": 36723,
+   "liquidityUsd": 15838.75,
+   "priceChange24hPct": -11.6,
+   "heat": 6.34,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/4cmpcbkdfzjolxkq6czfrb6ws5ennb5hn3tukegnvdab"
+  },
+  {
+   "symbol": "JEANPHIL",
+   "name": "Jean Phil",
+   "mint": "6zfAZzucw3zFbURgw9rvUb7mzEWNxyF2nCQSBPDipump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 378224.27,
+   "marketCapUsd": 3914509,
+   "liquidityUsd": 173342.47,
+   "priceChange24hPct": 3.98,
+   "heat": 6.15,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/6191uhkn2gcm8ilcmhbtknvtjyybwr9avah6u9cmpqye"
+  },
+  {
+   "symbol": "CHAVA",
+   "name": "CHAVA",
+   "mint": "BqDXLs6YSikUJ9t3WKtNUNismTVgTjNJVBpdgXuspump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 332022.11,
+   "marketCapUsd": 48644,
+   "liquidityUsd": 22409.26,
+   "priceChange24hPct": 60.94,
+   "heat": 5.76,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/cmw6srxlvwrzta1mrs1yim4vhxypmlsqvnc8pzy7nrup"
+  },
+  {
+   "symbol": "TDF",
+   "name": "Trump Dividends Fund",
+   "mint": "dQKeBzLmXUZWYm9dqwCZf6gZsVwvMvwpTLd4Xx6pump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 228007.8,
+   "marketCapUsd": 3763090,
+   "liquidityUsd": 169161.34,
+   "priceChange24hPct": 23.98,
+   "heat": 4.78,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/rbo3frjyzpnlenhnzypalkuvv6313xgstdhskfuzhnm"
+  },
+  {
+   "symbol": "DARWIN",
+   "name": "darwin",
+   "mint": "A5bcb3maCiXhA3acMcVhPqfffA6sHsxmeyCvwAgpump",
+   "metaIds": [
+    "ai-agents"
+   ],
+   "volume24hUsd": 220430.37,
+   "marketCapUsd": 1623216,
+   "liquidityUsd": 110498.06,
+   "priceChange24hPct": 3471,
+   "heat": 4.7,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/jc4ao2jlnlkrhh82kftvpjnjmkpveygw6mddavqnngeg"
+  },
+  {
+   "symbol": "D O T ",
+   "name": "DOTF",
+   "mint": "ieAUwrxo9XYLb76Dtgk4rhMeZ5DLtUXXNewwui9pump",
+   "metaIds": [
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 217798.91,
+   "marketCapUsd": 15512121,
+   "liquidityUsd": 344444.53,
+   "priceChange24hPct": 33876,
+   "heat": 4.67,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/oxqjsxwbmcwqsjrwf4e4fspfxpyht6a778zfsmdyoaq"
+  },
+  {
+   "symbol": "ADTF",
+   "name": "American Dividend Trust Fund",
+   "mint": "phYFavgRxvQFrqRFTk1b8BuTtdXStauz6jTWC8Gpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 216150.56,
+   "marketCapUsd": 3394901,
+   "liquidityUsd": 160444.09,
+   "priceChange24hPct": 7377,
+   "heat": 4.65,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/fksqhbmvfqtjv4w9meq3zykdgqrec7fuwyprzhcmt2is"
+  },
+  {
+   "symbol": "USOR",
+   "name": "U.S Oil",
+   "mint": "tHUqAHRmfHVzuMLYm2qSW4stqoV3QRyX9tzzUknpump",
+   "metaIds": [
+    "america-politics",
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 202892.75,
+   "marketCapUsd": 10936064,
+   "liquidityUsd": 289021.8,
+   "priceChange24hPct": 23990,
+   "heat": 4.5,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/7nxp6x5exrinctc6cuccmhy6vrdclajdijsp1tcbyztu"
+  },
+  {
+   "symbol": "SAI",
+   "name": "Sairium",
+   "mint": "HzMRecrjtroTDkFAPNjmruyhf3TtEkZuTVPm1bMpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 199598.86,
+   "marketCapUsd": 1642627,
+   "liquidityUsd": 111149.59,
+   "priceChange24hPct": 3515,
+   "heat": 4.47,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/a3yxf9knm8rxdymhs7qdfhtfqibsehbq2p7wxopxbz95"
+  },
+  {
+   "symbol": "GOIF",
+   "name": "GOIF",
+   "mint": "HznbtSteB1Gy1Qnyu2BHpCmyUZrgumTHTdb2H3opump",
+   "metaIds": [
+    "brainrot"
+   ],
+   "volume24hUsd": 308453.03,
+   "marketCapUsd": 14617939,
+   "liquidityUsd": 334530.46,
+   "priceChange24hPct": 32032,
+   "heat": 4.44,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/6wehy3vf4ekd7fhmmyz9cpzoqimnzjkkwklw8ykrofjj"
+  },
+  {
+   "symbol": "SPAX",
+   "name": "SpaxKova🔥",
+   "mint": "147x7nhbFo5uwYBp8KpQJn5e9gY3Y4Z2vzDCEpupump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 191544.4,
+   "marketCapUsd": 9489856,
+   "liquidityUsd": 269075.35,
+   "priceChange24hPct": 20906,
+   "heat": 4.38,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/7r9rclh3dwcnp2cqtzafpruc1bb6betdltolvsafklxp"
+  },
+  {
+   "symbol": "DAWS",
+   "name": "Digital American Water Supply",
+   "mint": "y6V3cWmJ1j1BBz4tCS7XVKrhSba6eeCHr2gTpHKpump",
+   "metaIds": [
+    "tokenized-fund",
+    "ai-agents",
+    "america-politics"
+   ],
+   "volume24hUsd": 190728.68,
+   "marketCapUsd": 11779985,
+   "liquidityUsd": 300579.92,
+   "priceChange24hPct": 16.45,
+   "heat": 4.37,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/b7y3nka8tuau1ormnjxket4mdnwranhcqxrobbby2dft"
+  },
+  {
+   "symbol": "XBC",
+   "name": "Xpress Bridge Currency",
+   "mint": "GUtyuc7LZQjSbb5xB7dQ7QhdaGhto5SFygKZ2x5fpump",
+   "metaIds": [
+    "launchpad-platform"
+   ],
+   "volume24hUsd": 295610.03,
+   "marketCapUsd": 14980774,
+   "liquidityUsd": 338675.75,
+   "priceChange24hPct": 33015,
+   "heat": 4.35,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/31gp4j1azv7uxd9fhieqreykczgjv7e5g2snqwawhrc1"
+  },
+  {
+   "symbol": "Arrow",
+   "name": "Arrow Finance",
+   "mint": "s2My8zo8csnN1uo3gyEQmjA3oUkfQRNaC51w9Sjpump",
+   "metaIds": [
+    "defi-payments"
+   ],
+   "volume24hUsd": 189485.58,
+   "marketCapUsd": 3815364,
+   "liquidityUsd": 170404.76,
+   "priceChange24hPct": 21.14,
+   "heat": 4.35,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/8jygfw9kh4su4qsoknbfyy2qfsqnf6xb6d4xpmx7nrg4"
+  },
+  {
+   "symbol": "SpaceXSI",
+   "name": "SpaceXSI",
+   "mint": "RnGpoy56w6LAxPTAT6Fs6sqfvDvguJFZubpPivxpump",
+   "metaIds": [
+    "brand-cosplay"
+   ],
+   "volume24hUsd": 189149.96,
+   "marketCapUsd": 2805183,
+   "liquidityUsd": 145801.01,
+   "priceChange24hPct": 23.3,
+   "heat": 4.35,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/gvk8fhlm1kuwjwuggkg4k9hfhirgnxjgu1ltdqcjm1ie"
+  },
+  {
+   "symbol": "SI276",
+   "name": "Super Intelligence SI276",
+   "mint": "gDDDBxGqfBCYzx4dUZRN63g42uXPGpBvdGaKh9cpump",
+   "metaIds": [
+    "ai-agents",
+    "airdrop-claim"
+   ],
+   "volume24hUsd": 188852.73,
+   "marketCapUsd": 7159079,
+   "liquidityUsd": 234054.42,
+   "priceChange24hPct": 14.17,
+   "heat": 4.35,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/9qobxc34lxnfkqv7xefezy8a9rrxgdbupct9nyzv5fdx"
+  },
+  {
+   "symbol": "DORONI",
+   "name": "Doroni Personal Flight",
+   "mint": "QCmDSnbthZHngCJMQcwAARVWkUGuWMtSdCow1MDpump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 186253.34,
+   "marketCapUsd": 3647444,
+   "liquidityUsd": 166633.98,
+   "priceChange24hPct": 23.97,
+   "heat": 4.32,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/7tcnelm1q2vnd93hlxvbbe9wvglvjheggb9sftenazqx"
+  },
+  {
+   "symbol": "XDC NET",
+   "name": "XDC NETWORK",
+   "mint": "Vb3KBFsvX2TMXJvrv53RdTt9CBhHE2fRXvynYNZpump",
+   "metaIds": [
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 169569.35,
+   "marketCapUsd": 4556994,
+   "liquidityUsd": 212089.61,
+   "priceChange24hPct": 7625,
+   "heat": 4.12,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/fwdvakmribr4bqha1j54wkkmecpjxnzm4gn9ye2xnbn6"
+  },
+  {
+   "symbol": "USDF",
+   "name": "United States Dividend Fund",
+   "mint": "NnjgRoYrF4eg4qYQBXRLonvwpYUitoSqwA8UgUZpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 238043.06,
+   "marketCapUsd": 10836899,
+   "liquidityUsd": 287777.27,
+   "priceChange24hPct": 23783,
+   "heat": 3.9,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/fcx9upm32dxwfbqhrpz5fgcax2guz2xoylksjnciwmr9"
+  },
+  {
+   "symbol": "IOF",
+   "name": "Institutional Oil Fund",
+   "mint": "Jdvj5qEt9GdB2jEoaP212sy4PkV4v4CByenfGVBpump",
+   "metaIds": [
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 231653.82,
+   "marketCapUsd": 24797463,
+   "liquidityUsd": 435901.61,
+   "priceChange24hPct": 54167,
+   "heat": 3.85,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/4xc4cwmwxvfg4zzqtedghkvjvbq8wxpvratz8xpynayq"
+  },
+  {
+   "symbol": "ECHO",
+   "name": "ECHO",
+   "mint": "KzEcXjJJxRHZv2uJbWhcWxPZJqF9nW132ED4E4Wpump",
+   "metaIds": [
+    "stocks-tradfi"
+   ],
+   "volume24hUsd": 144945.73,
+   "marketCapUsd": 3416876,
+   "liquidityUsd": 160761.35,
+   "priceChange24hPct": 7401,
+   "heat": 3.81,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/g1zzeie8dnphcftocfweopfji3uzsbarpxssptfnuxna"
+  },
+  {
+   "symbol": "USWR",
+   "name": "United States Water Reserve",
+   "mint": "wGa8qyJcGnMSWAaHM3mNwVVTfX3FszgWDsPfyWPpump",
+   "metaIds": [
+    "tokenized-fund",
+    "ai-agents",
+    "america-politics"
+   ],
+   "volume24hUsd": 143247.64,
+   "marketCapUsd": 7705830,
+   "liquidityUsd": 242194.87,
+   "priceChange24hPct": 16759,
+   "heat": 3.78,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/c8x3fpifhtfpqtccvnkmwzf7y6mrmscuartqckaf6upq"
+  },
+  {
+   "symbol": "AODF",
+   "name": "American Oil Dividend Fund",
+   "mint": "pu6qzmaFh5C9E5WrLffMH4eABk5jPFchsXfRdhBpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 215819.56,
+   "marketCapUsd": 2989654,
+   "liquidityUsd": 150446.12,
+   "priceChange24hPct": 6476,
+   "heat": 3.72,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/eq4fwc2j5rdcgjlkn9vvlbi5ggmah5dte7udxbdkluqb"
+  },
+  {
+   "symbol": "HOTBOT",
+   "name": "Hot Bot",
+   "mint": "14VujzBsX1PgwcodDy3FLk29FDU7YjwTZLbxicxFpump",
+   "metaIds": [
+    "ai-agents",
+    "stocks-tradfi"
+   ],
+   "volume24hUsd": 136158.01,
+   "marketCapUsd": 1590303,
+   "liquidityUsd": 109181.96,
+   "priceChange24hPct": 3407,
+   "heat": 3.69,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/hcba1nk7k8o1t7gowetennsqg7ui5dw7sskjg8emrpoe"
+  },
+  {
+   "symbol": "XRPN",
+   "name": "EVERNORTHXRP🔥",
+   "mint": "J3v52Dzg7eNR9M5SiW9TZVjfNcpAmczjrPTQ96gpump",
+   "metaIds": [
+    "brand-cosplay"
+   ],
+   "volume24hUsd": 206916.84,
+   "marketCapUsd": 10517720,
+   "liquidityUsd": 283414.26,
+   "priceChange24hPct": 23031,
+   "heat": 3.64,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/8xxzdpni5qsue2fnznpcukustn1jjip9yvsbpnuvmulb"
+  },
+  {
+   "symbol": "SARP",
+   "name": "Strategic American Protocol",
+   "mint": "5bcCQKPJVwfK5UWiDE2MJKgDVwsLq5vRC1mHkcQpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 204188.88,
+   "marketCapUsd": 11119271,
+   "liquidityUsd": 291451.48,
+   "priceChange24hPct": 24425,
+   "heat": 3.61,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/3dkrn4jvd9sxewwvvhsqch1iy9rvucmkn3wwcjwkptbs"
+  },
+  {
+   "symbol": "USDF",
+   "name": "United States Dividend Fund",
+   "mint": "jmPbUtnPpKUWgDDicW14WxvW5vvbw5sdrNknHULpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 1623355.54,
+   "marketCapUsd": 676803625,
+   "liquidityUsd": 2287290.67,
+   "priceChange24hPct": 1484009,
+   "heat": 3.57,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/bjfxsqftjj2h2ef5ljibphqh47jhply54y1qumngswz"
+  },
+  {
+   "symbol": "UDR",
+   "name": "UNITED DIVIDEND RESERVE",
+   "mint": "j1rtNArLnQHfwSF5dZhRaWBsJVYtyXyD33BcJE3pump",
+   "metaIds": [
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 197854.95,
+   "marketCapUsd": 6959640,
+   "liquidityUsd": 230880.39,
+   "priceChange24hPct": 37.66,
+   "heat": 3.56,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/wmkda4gsnjdgcwfokclmlqh3atuy7rcgxvnfn3rvf97"
+  },
+  {
+   "symbol": "QI",
+   "name": "Quantum Inu",
+   "mint": "4RjY5ATXY2UYWf4eqxJcGP2gQYKb5K2HAmd2NvLFpump",
+   "metaIds": [
+    "dogs"
+   ],
+   "volume24hUsd": 195236.97,
+   "marketCapUsd": 12521522,
+   "liquidityUsd": 309324.18,
+   "priceChange24hPct": 27669,
+   "heat": 3.53,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/bwu3mhohp6m2txofkvmb6mszttemwblm1vssvrzhundj"
+  },
+  {
+   "symbol": "XBC",
+   "name": "Xpress Bridge Currency",
+   "mint": "785WQBP3bcf5NeTSCiSNXLAFh53XrpkPG2VWiJ2pump",
+   "metaIds": [
+    "launchpad-platform"
+   ],
+   "volume24hUsd": 184730.99,
+   "marketCapUsd": 11030447,
+   "liquidityUsd": 290614.79,
+   "priceChange24hPct": 14.99,
+   "heat": 3.44,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/fzebhqmz6ursvxfeupnfoxwcsup6ct89wujhgsfkpvjn"
+  },
+  {
+   "symbol": "GOIF",
+   "name": "GOIF",
+   "mint": "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump",
+   "metaIds": [
+    "brainrot"
+   ],
+   "volume24hUsd": 1426282.59,
+   "marketCapUsd": 328810125,
+   "liquidityUsd": 1593927.17,
+   "priceChange24hPct": 722306,
+   "heat": 3.34,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/3of2ebbd7wewjuea5dujyk7p7n3cna4c9ameu28vkkdx"
+  },
+  {
+   "symbol": "SEED",
+   "name": "Grow a Farm",
+   "mint": "CvxQvqNQVRqq96oeoRnf6H64Memd8Weas9gte2xupump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 109292.37,
+   "marketCapUsd": 278926,
+   "liquidityUsd": 45175.25,
+   "priceChange24hPct": 520,
+   "heat": 3.31,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/gma1qtoljhrozhod4bjw5ee9joejq7zjstadmvfsibve"
+  },
+  {
+   "symbol": "DOTF",
+   "name": "Digital Oil Trust Fund🔥",
+   "mint": "aQ2y8TWM9eeBWSksobbhQdAWFKiLHjDef2KUUJGpump",
+   "metaIds": [
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 1344408.69,
+   "marketCapUsd": 117602458,
+   "liquidityUsd": 953986,
+   "priceChange24hPct": 258948,
+   "heat": 3.25,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/c2bw9dvjeywm9zac2ycfq6kfx8xghjttfzobsdd4tyxz"
+  },
+  {
+   "symbol": "FPES",
+   "name": "Federal Private Equity System",
+   "mint": "iDkB4Qurr1UhrGHLLMj7coGPBuy2VuZsBz6GgPLpump",
+   "metaIds": [
+    "america-politics",
+    "stocks-tradfi"
+   ],
+   "volume24hUsd": 153571.58,
+   "marketCapUsd": 8928854,
+   "liquidityUsd": 260874.78,
+   "priceChange24hPct": 19467,
+   "heat": 3.14,
+   "flags": {
+    "inflatedMcap": false,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/frnvj41jnqvufmgw2h3kwazznbvcxj2nsxpenx172gdj"
+  },
+  {
+   "symbol": "USDF",
+   "name": "USDF",
+   "mint": "u7XNK4pbxXgWzBwqidDV2TtsXwLqqxtjmGfw1H8pump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 1011026.24,
+   "marketCapUsd": 307845455,
+   "liquidityUsd": 1541646.23,
+   "priceChange24hPct": 676434,
+   "heat": 2.82,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/6fbnzzrtdmrjxepdlk4ugp9xm2hsywly3xp6ewb1e2md"
+  },
+  {
+   "symbol": "QI",
+   "name": "Quantum Inu",
+   "mint": "HTZsuhpkwZTz7DfnEruymJAEiEhzhrvjDGCeVVppump",
+   "metaIds": [
+    "dogs"
+   ],
+   "volume24hUsd": 876362.76,
+   "marketCapUsd": 188933357,
+   "liquidityUsd": 1207922.89,
+   "priceChange24hPct": 415230,
+   "heat": 2.62,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/awq1ktmdyqmcacvfdn28umgshe55yh3majjlgkget5r"
+  },
+  {
+   "symbol": "FPES",
+   "name": "Federal Private Equity System",
+   "mint": "AMnU8vAQvDkayAcyutBL8eyxCoSHUV4CcHUQwuePpump",
+   "metaIds": [
+    "america-politics",
+    "stocks-tradfi"
+   ],
+   "volume24hUsd": 789016.88,
+   "marketCapUsd": 218296158,
+   "liquidityUsd": 1297501.37,
+   "priceChange24hPct": 480955,
+   "heat": 2.49,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/6zwxxub42szs8o3jnoxgvssqiaecbj3ghpv5crj4mnrk"
+  },
+  {
+   "symbol": "SIB",
+   "name": "Super Intelligent Beauty",
+   "mint": "9MFtt6uJFV9MgUxxQowAkg6My5qTUzaF14mYyu11pump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 497230.45,
+   "marketCapUsd": 126161419,
+   "liquidityUsd": 985581.02,
+   "priceChange24hPct": 277083,
+   "heat": 2.47,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": false
+   },
+   "dexUrl": "https://dexscreener.com/solana/fu62nyxdvwyhwpxvbvzlggqjqlevrrznfanf23ydzegx"
+  },
+  {
+   "symbol": "USDP",
+   "name": "USDP",
+   "mint": "kSpfjaBRhNJUmbL2SbwT19wfJesD3niQMNEWLzopump",
+   "metaIds": [
+    "unclassified"
+   ],
+   "volume24hUsd": 733275.59,
+   "marketCapUsd": 437786288,
+   "liquidityUsd": 1839497.64,
+   "priceChange24hPct": 152,
+   "heat": 2.4,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/7dbu9nft3bjkbdhpvka44rteq9syrcf48mec7xawwnvj"
+  },
+  {
+   "symbol": "SARP",
+   "name": "SARP",
+   "mint": "papn53aPx3GuP6KZvGWnJkcgbv6bqD57GCf5Nsapump",
+   "metaIds": [
+    "tokenized-fund"
+   ],
+   "volume24hUsd": 732704.45,
+   "marketCapUsd": 433855169,
+   "liquidityUsd": 1831213.6,
+   "priceChange24hPct": 148,
+   "heat": 2.4,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/9pybwapzefaq4r1fyqgbkkelqvmkrhu1r5qp9cxbfbrn"
+  },
+  {
+   "symbol": "USDF",
+   "name": "USDF",
+   "mint": "FVX7TS82GoJaK7iVcWuqNhr6vb4vRB6oTBfRAazEpump",
+   "metaIds": [
+    "tokenized-fund",
+    "america-politics"
+   ],
+   "volume24hUsd": 730537.59,
+   "marketCapUsd": 82499287,
+   "liquidityUsd": 797456.8,
+   "priceChange24hPct": 181856,
+   "heat": 2.39,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/95nhd1cfvbgjfzhhiuvlb7vqcthqt54zbeqyjudkaypj"
+  },
+  {
+   "symbol": "UDR",
+   "name": "UDR",
+   "mint": "wjEYRUp7SowPSp3eEGozus9kmCBbzTMVpzd5NdQpump",
+   "metaIds": [
+    "america-politics",
+    "ai-agents",
+    "defi-payments"
+   ],
+   "volume24hUsd": 728994.73,
+   "marketCapUsd": 830178544,
+   "liquidityUsd": 2533563.3,
+   "priceChange24hPct": 84.35,
+   "heat": 2.39,
+   "flags": {
+    "inflatedMcap": true,
+    "copycatWave": true
+   },
+   "dexUrl": "https://dexscreener.com/solana/fsq9u8tkgxde7e2hjsd9wjna5ve12gl3vehnjchjj3bf"
+  }
+ ],
+ "sites": [
+  {
+   "name": "CLAWSIFIED",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "cats",
+    "defi-payments"
+   ],
+   "metaIndependent": false,
+   "score": 82.4,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 34.4,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built but not live. First blocker: Needs Vercel project (root dir clawsified), domain, and pump.fun launch"
+   ]
+  },
+  {
+   "name": "Sentia",
+   "kind": "launchpad",
+   "readiness": "live",
+   "liveUrl": "https://agencypad.fun",
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform",
+    "livestream-social"
+   ],
+   "metaIndependent": false,
+   "score": 82.3,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 33.3,
+    "trend": 15,
+    "readiness": 25,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off Higgspad: give it one feature or joke the original doesn't have before pushing it."
+   ]
+  },
+  {
+   "name": "HamGPT",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "frogs-animals"
+   ],
+   "metaIndependent": false,
+   "score": 80.6,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 32.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built but not live. First blocker: Needs Vercel project (root dir hamgpt), domain, and pump.fun launch"
+   ]
+  },
+  {
+   "name": "FOREMAN",
+   "kind": "launchpad",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 76.7,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 34.7,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off buildagent.fun (user's own site): give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Needs its own repo + Vercel import + Upstash Redis; live trading not wired"
+   ]
+  },
+  {
+   "name": "SLUDGE",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "brainrot",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 76,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 34,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off https://buttbrain.app: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Ready to deploy: lC@claude/longdog-site-design-kguow6 — needs Vercel import + absolute og:image"
+   ]
+  },
+  {
+   "name": "Persona",
+   "kind": "launchpad",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "livestream-social",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 75.3,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 33.3,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off egopad.fun: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Needs Vercel import of CLONE, DATABASE_URL, AI keys, buyback + content treasury addresses, X/TikTok/Meta app approvals; $PERSONA token not launched"
+   ]
+  },
+  {
+   "name": "Superintelligence Reactor",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 75.3,
+   "grade": "A",
+   "breakdown": {
+    "metaFit": 33.3,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Push now",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off https://sigf.ai: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: CA and X link placeholders (Buy button 'soon')"
+   ]
+  },
+  {
+   "name": "CLONE",
+   "kind": "clone/redesign",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents"
+   ],
+   "metaIndependent": false,
+   "score": 74.6,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 32.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off https://usewebsite.fun/: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Pushed to the deploy branch (Vercel rebuild from c0aa9d8); live URL not stated"
+   ]
+  },
+  {
+   "name": "CSTR — Chip Strategy",
+   "kind": "game",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "gambling-games",
+    "ai-agents"
+   ],
+   "metaIndependent": false,
+   "score": 74.6,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 32.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off unknown (t.co/d47GIZbNrn link, unresolved): give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Ready to deploy: GPU@claude/gpu-game-clone-d3g2bf — static Vercel deploy, leaderboard Docker-only"
+   ]
+  },
+  {
+   "name": "EPOCH NINE",
+   "kind": "clone/redesign",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents"
+   ],
+   "metaIndependent": false,
+   "score": 74.6,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 32.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off https://yearofthesingularity.com: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Lives at epoch-nine/ rather than root; user had not decided placement"
+   ]
+  },
+  {
+   "name": "Bundle Sniffer",
+   "kind": "memecoin-site",
+   "readiness": "idea-only",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "dogs",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 72.6,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 37.6,
+    "trend": 15,
+    "readiness": 5,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT)."
+   ]
+  },
+  {
+   "name": "IPO",
+   "kind": "launchpad",
+   "readiness": "live",
+   "liveUrl": "https://www.iposolana.xyz",
+   "metaIds": [
+    "stocks-tradfi",
+    "launchpad-platform",
+    "tokenized-fund"
+   ],
+   "metaIndependent": false,
+   "score": 71.7,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 23.7,
+    "trend": 8,
+    "readiness": 25,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tokenized fund / reserve LARP holds 15% of today's runner heat ($AODF, $TDF, $D O T ).",
+    "Caution: 54% of Tokenized fund / reserve LARP runners have market caps far above their liquidity, so treat that heat as suspect."
+   ]
+  },
+  {
+   "name": "Uranium Strategy",
+   "kind": "airdrop/claim",
+   "readiness": "live",
+   "liveUrl": "https://usrsol.fun",
+   "metaIds": [
+    "stocks-tradfi",
+    "tokenized-fund",
+    "gambling-games"
+   ],
+   "metaIndependent": false,
+   "score": 71.1,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 23.1,
+    "trend": 8,
+    "readiness": 25,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tokenized fund / reserve LARP holds 15% of today's runner heat ($AODF, $TDF, $D O T ).",
+    "Caution: 54% of Tokenized fund / reserve LARP runners have market caps far above their liquidity, so treat that heat as suspect."
+   ]
+  },
+  {
+   "name": "Stonk Arena",
+   "kind": "game",
+   "readiness": "in-progress",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "stocks-tradfi",
+    "gambling-games"
+   ],
+   "metaIndependent": false,
+   "score": 68.1,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 34.1,
+    "trend": 15,
+    "readiness": 10,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off agentarena (Vercel app clone): give it one feature or joke the original doesn't have before pushing it.",
+    "Next step: Mechanic and live status unclear from transcript"
+   ]
+  },
+  {
+   "name": "LONGDOG",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "dogs",
+    "brainrot"
+   ],
+   "metaIndependent": false,
+   "score": 67.6,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 19.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Dogs is heating up today: 5 runners, $8.8M volume ($QI, $HI, $SQI).",
+    "Built but not live. First blocker: GitHub Pages / Vercel deploy never succeeded (Pages workflow failed; user never flipped the hosting setting)"
+   ]
+  },
+  {
+   "name": "Agent Xero",
+   "kind": "bot",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform",
+    "airdrop-claim"
+   ],
+   "metaIndependent": true,
+   "score": 66,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built but not live. First blocker: Railway deploy never completed (Vercel can't host it); waiting on user's Railway token"
+   ]
+  },
+  {
+   "name": "MEMESCAN",
+   "kind": "scanner/analytics",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "frogs-animals",
+    "brainrot",
+    "livestream-social"
+   ],
+   "metaIndependent": true,
+   "score": 66,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built but not live. First blocker: Live DexScreener calls were blocked in the sandbox, so it was only tested on demo data"
+   ]
+  },
+  {
+   "name": "Perpl MM Bot",
+   "kind": "bot",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": true,
+   "score": 66,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built but not live. First blocker: User must add API keys and run dry-run then --live"
+   ]
+  },
+  {
+   "name": "Viral Coin Radar",
+   "kind": "scanner/analytics",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "livestream-social",
+    "stocks-tradfi",
+    "brainrot"
+   ],
+   "metaIndependent": true,
+   "score": 66,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built but not live. First blocker: Runs in fixture mode without live data credentials; sandbox could not reach Solana RPC"
+   ]
+  },
+  {
+   "name": "THE BOARDROOM",
+   "kind": "other",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 64.7,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 34.7,
+    "trend": 15,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Super Intelligence Agency",
+   "kind": "memecoin-site",
+   "readiness": "abandoned",
+   "liveUrl": "https://superintelligenceagency.fun",
+   "metaIds": [
+    "ai-agents",
+    "airdrop-claim",
+    "defi-payments"
+   ],
+   "metaIndependent": false,
+   "score": 64,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 34,
+    "trend": 15,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Attention Markets",
+   "kind": "memecoin-site",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "airdrop-claim",
+    "launchpad-platform",
+    "ai-agents"
+   ],
+   "metaIndependent": false,
+   "score": 63.5,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 33.5,
+    "trend": 15,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "LocalLM",
+   "kind": "memecoin-site",
+   "readiness": "abandoned",
+   "liveUrl": "https://locallm.fun",
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 63.3,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 33.3,
+    "trend": 15,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "0DTE",
+   "kind": "prediction-market",
+   "readiness": "live",
+   "liveUrl": "https://0dte.site",
+   "metaIds": [
+    "stocks-tradfi",
+    "gambling-games",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 63,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 8,
+    "trend": 15,
+    "readiness": 25,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT)."
+   ]
+  },
+  {
+   "name": "PUMP DAWGS",
+   "kind": "nft",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "brainrot",
+    "dogs"
+   ],
+   "metaIndependent": false,
+   "score": 61.6,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 19.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Dogs is heating up today: 5 runners, $8.8M volume ($QI, $HI, $SQI).",
+    "Built off https://magiceden.io/marketplace/the_bullpen: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: User says the art quality falls short of top Magic Eden projects; procedural art may need a real illustrator"
+   ]
+  },
+  {
+   "name": "FSVO volume market-maker",
+   "kind": "bot",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "airdrop-claim",
+    "launchpad-platform"
+   ],
+   "metaIndependent": true,
+   "score": 60,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off Insilico Terminal FSVZO indicator: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Needs an always-on VPS, venue list, API keys and dust-size capital"
+   ]
+  },
+  {
+   "name": "Polybot",
+   "kind": "bot",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "prediction-markets",
+    "ai-agents",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": true,
+   "score": 60,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off Polymarket: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: No main branch, so no PR can be opened (user to choose A/B)"
+   ]
+  },
+  {
+   "name": "PumpXBT",
+   "kind": "bot",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "launchpad-platform",
+    "apps-utility"
+   ],
+   "metaIndependent": true,
+   "score": 60,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off AIXBT (agent concept): give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Site never deployed (Vercel/Pages issues)"
+   ]
+  },
+  {
+   "name": "Robin Hood V2",
+   "kind": "bot",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "prediction-markets",
+    "ai-agents",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": true,
+   "score": 60,
+   "grade": "B",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Strong: finish & ship",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off perk.money: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: PR #1 still open/unmerged; default branch lacks site"
+   ]
+  },
+  {
+   "name": "memcoinz Solana skills toolkit",
+   "kind": "tooling",
+   "readiness": "in-progress",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "airdrop-claim",
+    "apps-utility"
+   ],
+   "metaIndependent": true,
+   "score": 58,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 10,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Next step: Branch not merged to main (PR being opened)"
+   ]
+  },
+  {
+   "name": "CSTR Lending",
+   "kind": "clone/redesign",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "defi-payments",
+    "tokenized-fund"
+   ],
+   "metaIndependent": false,
+   "score": 57.9,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 22.9,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Tokenized fund / reserve LARP holds 15% of today's runner heat ($AODF, $TDF, $D O T ).",
+    "Caution: 54% of Tokenized fund / reserve LARP runners have market caps far above their liquidity, so treat that heat as suspect.",
+    "Built off https://quillcompany.loan: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Not actually matched to the reference (needs screenshot/text)"
+   ]
+  },
+  {
+   "name": "CAT TERMINAL",
+   "kind": "airdrop/claim",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "ai-agents",
+    "airdrop-claim"
+   ],
+   "metaIndependent": false,
+   "score": 57.5,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 33.5,
+    "trend": 15,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "AI agents & AI culture is heating up today: 11 runners, $14.0M volume ($qOMPUTE, $CLAUDIA, $HOTBOT).",
+    "Built off https://catstrategy.work: give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "HOLDCO",
+   "kind": "other",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "defi-payments",
+    "launchpad-platform",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 57.1,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 9.1,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT).",
+    "Built but not live. First blocker: Never hosted: GitHub Pages source or Vercel import still needs the user's click"
+   ]
+  },
+  {
+   "name": "Zazu",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "cats",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 56.6,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 8.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "B",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT).",
+    "Built but not live. First blocker: fees.js ships in demo mode; needs RPC and contract addresses to go on-chain"
+   ]
+  },
+  {
+   "name": "Hood ST",
+   "kind": "game",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "stocks-tradfi",
+    "airdrop-claim",
+    "frogs-animals"
+   ],
+   "metaIndependent": false,
+   "score": 55.6,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 7.6,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT).",
+    "Built but not live. First blocker: Vercel deploy via push to default branch, URL never confirmed"
+   ]
+  },
+  {
+   "name": "Dividend Dog",
+   "kind": "memecoin-site",
+   "readiness": "idea-only",
+   "liveUrl": null,
+   "metaIds": [
+    "tokenized-fund",
+    "dogs",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 54.1,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 26.1,
+    "trend": 8,
+    "readiness": 5,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Tokenized fund / reserve LARP holds 15% of today's runner heat ($AODF, $TDF, $D O T ).",
+    "Caution: 54% of Tokenized fund / reserve LARP runners have market caps far above their liquidity, so treat that heat as suspect."
+   ]
+  },
+  {
+   "name": "Copycat",
+   "kind": "trading-tool",
+   "readiness": "idea-only",
+   "liveUrl": null,
+   "metaIds": [
+    "airdrop-claim",
+    "cats",
+    "defi-payments"
+   ],
+   "metaIndependent": true,
+   "score": 53,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 5,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only."
+   ]
+  },
+  {
+   "name": "Funding Arb Desk",
+   "kind": "trading-tool",
+   "readiness": "in-progress",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "tokenized-fund",
+    "airdrop-claim"
+   ],
+   "metaIndependent": true,
+   "score": 52,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 10,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off https://loris.tools: give it one feature or joke the original doesn't have before pushing it.",
+    "Next step: 0 of 6 adapters return live data (2 untested against live endpoints, 4 stubs); need to run 'npm run collect' from an unblocked machine"
+   ]
+  },
+  {
+   "name": "PRVC",
+   "kind": "memecoin-site",
+   "readiness": "live",
+   "liveUrl": "https://attnmarkets.fun",
+   "metaIds": [
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 51.8,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 3.8,
+    "trend": 8,
+    "readiness": 25,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Launchpads & platforms holds 2% of today's runner heat ($XBC, $XBC)."
+   ]
+  },
+  {
+   "name": "PitBrokers",
+   "kind": "nft",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "stocks-tradfi",
+    "airdrop-claim",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 50.2,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 8.2,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT).",
+    "Built off https://pumpbrokers.fun / pumpbroker.fun (888 pixel brokers, each with its own wallet): give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: anchor build/test have never run (no Solana toolchain in container); programs only compile-checked"
+   ]
+  },
+  {
+   "name": "Sherwood Protocol",
+   "kind": "airdrop/claim",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "airdrop-claim",
+    "launchpad-platform",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 50.2,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 8.2,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [
+    {
+     "symbol": "Arrow",
+     "name": "Arrow Finance",
+     "volume24hUsd": 189485.58,
+     "why": "same ticker $Arrow"
+    }
+   ],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT).",
+    "$Arrow (Arrow Finance) is running today (same ticker $Arrow, $189k vol). Either ride it as a companion/utility site or rename before launch.",
+    "Built but not live. First blocker: Origin session not confirmed"
+   ]
+  },
+  {
+   "name": "zSOL",
+   "kind": "other",
+   "readiness": "live",
+   "liveUrl": "https://www.zsolana.fun",
+   "metaIds": [
+    "airdrop-claim"
+   ],
+   "metaIndependent": false,
+   "score": 49.1,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 1.1,
+    "trend": 8,
+    "readiness": 25,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Airdrops & claims holds 1% of today's runner heat ($SI276)."
+   ]
+  },
+  {
+   "name": "Rally",
+   "kind": "launchpad",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "airdrop-claim",
+    "defi-payments"
+   ],
+   "metaIndependent": false,
+   "score": 48.7,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 6.7,
+    "trend": 15,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "DeFi & payments is heating up today: 3 runners, $1.7M volume ($NTRNDM, $Arrow, $UDR).",
+    "Built off https://fundmeme.site/: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: No live site: needs its own repo (e.g. 'rally') or a second Vercel project pointed at the branch"
+   ]
+  },
+  {
+   "name": "PAPER paper-trading terminal",
+   "kind": "trading-tool",
+   "readiness": "idea-only",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": true,
+   "score": 47,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 5,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off papertrade.xyz / axiom.trade: give it one feature or joke the original doesn't have before pushing it."
+   ]
+  },
+  {
+   "name": "Go Fund Memes",
+   "kind": "launchpad",
+   "readiness": "live",
+   "liveUrl": "https://gofundmemes.fun",
+   "metaIds": [
+    "launchpad-platform",
+    "brainrot",
+    "frogs-animals"
+   ],
+   "metaIndependent": false,
+   "score": 45.6,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 3.6,
+    "trend": 8,
+    "readiness": 25,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Brainrot & slang holds 2% of today's runner heat ($GOIF, $GOIF, $GOIF).",
+    "Caution: 67% of Brainrot & slang runners have market caps far above their liquidity, so treat that heat as suspect.",
+    "Built off GoFundMe: give it one feature or joke the original doesn't have before pushing it."
+   ]
+  },
+  {
+   "name": "TopBlast",
+   "kind": "launchpad",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "airdrop-claim"
+   ],
+   "metaIndependent": false,
+   "score": 45,
+   "grade": "C",
+   "breakdown": {
+    "metaFit": 4,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Hold: needs a sharper hook or a deploy",
+   "advice": [
+    "Launchpads & platforms holds 2% of today's runner heat ($XBC, $XBC).",
+    "Built but not live. First blocker: Tokenomics ('100% of protocol revenue buys back + burns') needed confirmation"
+   ]
+  },
+  {
+   "name": "Plum",
+   "kind": "trading-tool",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "defi-payments"
+   ],
+   "metaIndependent": true,
+   "score": 42,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off https://strawberrybrowser.com: give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Signal",
+   "kind": "scanner/analytics",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "ai-agents",
+    "brainrot"
+   ],
+   "metaIndependent": true,
+   "score": 42,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 25,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Tooling, not a coin narrative: graded on readiness and originality only.",
+    "Built off https://inculture.fun/: give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "SIDELINED",
+   "kind": "memecoin-site",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "brainrot",
+    "brand-cosplay",
+    "frogs-animals"
+   ],
+   "metaIndependent": false,
+   "score": 39.6,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 4.6,
+    "trend": 2,
+    "readiness": 18,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Big-brand / big-coin cosplay is cooling (2% of heat vs 4% 7-day average).",
+    "Built but not live. First blocker: User to import to Vercel and buy a domain (instructions given); deploy URL not confirmed"
+   ]
+  },
+  {
+   "name": "BasketLaunch",
+   "kind": "launchpad",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "launchpad-platform",
+    "frogs-animals",
+    "tokenized-fund"
+   ],
+   "metaIndependent": false,
+   "score": 39.4,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 22.4,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Tokenized fund / reserve LARP holds 15% of today's runner heat ($AODF, $TDF, $D O T ).",
+    "Caution: 54% of Tokenized fund / reserve LARP runners have market caps far above their liquidity, so treat that heat as suspect.",
+    "Built off basketlaunch.fun (also feesh.wtf, dripswap.tech): give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "GOATSE",
+   "kind": "nft",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "brainrot",
+    "frogs-animals"
+   ],
+   "metaIndependent": false,
+   "score": 38.1,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 3.1,
+    "trend": 8,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "C",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Brainrot & slang holds 2% of today's runner heat ($GOIF, $GOIF, $GOIF).",
+    "Caution: 67% of Brainrot & slang runners have market caps far above their liquidity, so treat that heat as suspect.",
+    "Built off https://www.honsecoin.wtf (quality bar only; it was blocked, so nothing was copied): give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Creator wallet is still REPLACE_WITH_YOUR_SOLANA_WALLET"
+   ]
+  },
+  {
+   "name": "OUTLET",
+   "kind": "clone/redesign",
+   "readiness": "built-not-deployed",
+   "liveUrl": null,
+   "metaIds": [
+    "apps-utility"
+   ],
+   "metaIndependent": false,
+   "score": 32.4,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 3.4,
+    "trend": 2,
+    "readiness": 18,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Apps & utility is cooling (2% of heat vs 4% 7-day average).",
+    "Built off thesocket.app: give it one feature or joke the original doesn't have before pushing it.",
+    "Built but not live. First blocker: Fresh repo could not be created (GitHub refused); sits on the 'outlet' branch"
+   ]
+  },
+  {
+   "name": "OVERBID",
+   "kind": "prediction-market",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "prediction-markets",
+    "stocks-tradfi"
+   ],
+   "metaIndependent": false,
+   "score": 31.4,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 7.4,
+    "trend": 15,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Stocks & TradFi crossover is heating up today: 6 runners, $4.2M volume ($HOTBOT, $ECHO, $HOTBOT).",
+    "Built off Polymarket (inspiration): give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Diamantini",
+   "kind": "memecoin-site",
+   "readiness": "idea-only",
+   "liveUrl": null,
+   "metaIds": [
+    "brainrot",
+    "livestream-social"
+   ],
+   "metaIndependent": false,
+   "score": 31.1,
+   "grade": "D",
+   "breakdown": {
+    "metaFit": 3.1,
+    "trend": 8,
+    "readiness": 5,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Weak: rework toward a hot meta",
+   "advice": [
+    "Brainrot & slang holds 2% of today's runner heat ($GOIF, $GOIF, $GOIF).",
+    "Caution: 67% of Brainrot & slang runners have market caps far above their liquidity, so treat that heat as suspect."
+   ]
+  },
+  {
+   "name": "Cash Cow",
+   "kind": "airdrop/claim",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "airdrop-claim",
+    "apps-utility",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 27.6,
+   "grade": "F",
+   "breakdown": {
+    "metaFit": 4.6,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Park it",
+   "advice": [
+    "Launchpads & platforms holds 2% of today's runner heat ($XBC, $XBC).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Bingo.fun",
+   "kind": "game",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "gambling-games",
+    "airdrop-claim"
+   ],
+   "metaIndependent": false,
+   "score": 24.1,
+   "grade": "F",
+   "breakdown": {
+    "metaFit": 1.1,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Park it",
+   "advice": [
+    "Airdrops & claims holds 1% of today's runner heat ($SI276).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Duel Royale",
+   "kind": "game",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "gambling-games",
+    "airdrop-claim"
+   ],
+   "metaIndependent": false,
+   "score": 24.1,
+   "grade": "F",
+   "breakdown": {
+    "metaFit": 1.1,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "D",
+   "verdict": "Park it",
+   "advice": [
+    "Airdrops & claims holds 1% of today's runner heat ($SI276).",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "HODL OR NO HODL",
+   "kind": "game",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "gambling-games",
+    "airdrop-claim",
+    "launchpad-platform"
+   ],
+   "metaIndependent": false,
+   "score": 21,
+   "grade": "F",
+   "breakdown": {
+    "metaFit": 4,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Park it",
+   "advice": [
+    "Launchpads & platforms holds 2% of today's runner heat ($XBC, $XBC).",
+    "Built off hodlornohodl.fun: give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "Solanda",
+   "kind": "clone/redesign",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "airdrop-claim"
+   ],
+   "metaIndependent": false,
+   "score": 18.1,
+   "grade": "F",
+   "breakdown": {
+    "metaFit": 1.1,
+    "trend": 8,
+    "readiness": 0,
+    "originality": 9
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Park it",
+   "advice": [
+    "Airdrops & claims holds 1% of today's runner heat ($SI276).",
+    "Built off https://theland.dev/: give it one feature or joke the original doesn't have before pushing it.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  },
+  {
+   "name": "URA Mine",
+   "kind": "game",
+   "readiness": "abandoned",
+   "liveUrl": null,
+   "metaIds": [
+    "gambling-games"
+   ],
+   "metaIndependent": false,
+   "score": 17,
+   "grade": "F",
+   "breakdown": {
+    "metaFit": 0,
+    "trend": 2,
+    "readiness": 0,
+    "originality": 15
+   },
+   "collisions": [],
+   "previousGrade": "F",
+   "verdict": "Park it",
+   "advice": [
+    "Nothing in Games, casino & gambling is running today. Hottest meta is AI agents & AI culture (11 runners, $14.0M volume). A reskin toward it is the cheapest upgrade.",
+    "Marked abandoned: revive only if its meta is rising."
+   ]
+  }
+ ],
+ "top": [
+  "CLAWSIFIED",
+  "Sentia",
+  "HamGPT",
+  "FOREMAN",
+  "SLUDGE"
+ ],
+ "bottom": [
+  "Diamantini",
+  "OUTLET",
+  "GOATSE",
+  "SIDELINED",
+  "TopBlast"
+ ],
+ "abandoned": [
+  "THE BOARDROOM",
+  "Super Intelligence Agency",
+  "Attention Markets",
+  "LocalLM",
+  "CAT TERMINAL",
+  "Plum",
+  "Signal",
+  "BasketLaunch",
+  "OVERBID",
+  "Cash Cow",
+  "Bingo.fun",
+  "Duel Royale",
+  "HODL OR NO HODL",
+  "Solanda",
+  "URA Mine"
+ ],
+ "unclassifiedWords": [
+  {
+   "word": "sarp",
+   "days": 5,
+   "volumeUsd": 7162949
+  },
+  {
+   "word": "vsof",
+   "days": 4,
+   "volumeUsd": 3233646
+  },
+  {
+   "word": "ntda",
+   "days": 4,
+   "volumeUsd": 1115437
+  },
+  {
+   "word": "jean",
+   "days": 3,
+   "volumeUsd": 5013707
+  },
+  {
+   "word": "phil",
+   "days": 3,
+   "volumeUsd": 5013707
+  },
+  {
+   "word": "jeanphil",
+   "days": 3,
+   "volumeUsd": 5013707
+  },
+  {
+   "word": "gomo",
+   "days": 3,
+   "volumeUsd": 4376484
+  },
+  {
+   "word": "app",
+   "days": 3,
+   "volumeUsd": 4376484
+  },
+  {
+   "word": "dotf",
+   "days": 3,
+   "volumeUsd": 3321515
+  },
+  {
+   "word": "usdp",
+   "days": 3,
+   "volumeUsd": 2905552
+  },
+  {
+   "word": "atfs",
+   "days": 3,
+   "volumeUsd": 2325031
+  },
+  {
+   "word": "aros",
+   "days": 3,
+   "volumeUsd": 995667
+  },
+  {
+   "word": "oura",
+   "days": 3,
+   "volumeUsd": 701214
+  },
+  {
+   "word": "human",
+   "days": 2,
+   "volumeUsd": 23893221
+  },
+  {
+   "word": "baton",
+   "days": 2,
+   "volumeUsd": 9324790
+  }
+ ],
+ "sourceStatus": {
+  "pumpfun": "300 coins",
+  "pumpfun-live": "49 new coins",
+  "dexscreener/token-boosts/top/v1": "ok",
+  "dexscreener/token-boosts/latest/v1": "ok",
+  "dexscreener": "363 tokens enriched",
+  "candidatesSeen": "381"
+ },
+ "memoryDays": 7
+}

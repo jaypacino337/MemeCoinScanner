@@ -4,7 +4,9 @@ import { Cache } from '@/lib/infra/cache';
 import { FixturePlatformProvider } from './fixture-platform';
 import { HttpPlatformProvider } from './http-platform';
 import { FixtureTokenIndexProvider, HttpTokenIndexProvider } from './pumpfun';
-import type { PlatformProvider, TokenIndexProvider } from './types';
+import { FixtureWalletActivityProvider } from './wallet-fixture';
+import { SolanaRpcWalletProvider } from './wallet-rpc';
+import type { PlatformProvider, TokenIndexProvider, WalletActivityProvider } from './types';
 
 /**
  * Provider registry.
@@ -18,6 +20,7 @@ import type { PlatformProvider, TokenIndexProvider } from './types';
 export interface Registry {
   platforms: Map<Platform, PlatformProvider>;
   tokenIndex: TokenIndexProvider;
+  walletActivity: WalletActivityProvider;
 }
 
 const CREDENTIAL_BY_PLATFORM: Record<Platform, string> = {
@@ -78,13 +81,24 @@ export function buildRegistry(options: { cache?: Cache; now?: () => Date } = {})
         })
       : new FixtureTokenIndexProvider(now);
 
-  return { platforms, tokenIndex };
+  const walletActivity: WalletActivityProvider =
+    live && env.SOLANA_RPC_URL
+      ? new SolanaRpcWalletProvider({
+          rpcUrl: env.SOLANA_RPC_URL,
+          timeoutMs: env.HTTP_TIMEOUT_MS,
+          maxTransactions: env.WALLET_SCAN_MAX_TRANSACTIONS,
+          now,
+        })
+      : new FixtureWalletActivityProvider(now);
+
+  return { platforms, tokenIndex, walletActivity };
 }
 
 /** True when every configured provider is serving fixtures. */
 export function isFullyFixtureMode(registry: Registry): boolean {
   return (
     [...registry.platforms.values()].every((p) => p.mode === 'fixture') &&
-    registry.tokenIndex.mode === 'fixture'
+    registry.tokenIndex.mode === 'fixture' &&
+    registry.walletActivity.mode === 'fixture'
   );
 }
