@@ -134,7 +134,7 @@ export const METAS: MetaDef[] = [
     id: 'livestream-social',
     label: 'Livestream & social stunts',
     blurb: 'Coins driven by a streamer, a live stunt, or a social-media moment.',
-    terms: ['livestream', 'stream', 'tiktok', 'twitter', 'influencer', 'streamer', 'viral', 'clip'],
+    terms: ['livestream', 'stream', 'tiktok', 'twitter', 'influencer', 'streamer', 'viral', 'clip', 'justice for'],
   },
   {
     id: 'apps-utility',
@@ -194,7 +194,7 @@ const WHOLE_WORD = new Set([
  * Mascot nouns that tickers glue onto the end of another word ("WHIPCAT",
  * "TEXCAT", "SHIBDOG"): these also match as a word suffix.
  */
-const SUFFIX_OK = new Set(['cat', 'dog', 'frog', 'pepe', 'inu', 'doge', 'kitty', 'monkey', 'ape']);
+const SUFFIX_OK = new Set(['cat', 'dog', 'frog', 'pepe', 'inu', 'doge', 'kitty', 'monkey', 'ape', 'trump']);
 
 const TERM_PATTERNS: Array<{ metaId: string; term: string; re: RegExp }> = METAS.flatMap((meta) =>
   meta.terms.map((term) => ({

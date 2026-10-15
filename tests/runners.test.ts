@@ -67,6 +67,14 @@ describe('classifyText', () => {
     for (const t of ['USOR/SOL', 'U.S Oil', 'USDP']) expect(classifyText(t).map((m) => m.metaId)).toContain('tokenized-fund');
   });
 
+  it('counts "Justice for X" campaigns as social stunts', () => {
+    for (const t of ['Justice for Coco', 'Justice for gork']) expect(classifyText(t).map((m) => m.metaId)).toContain('livestream-social');
+  });
+
+  it('matches trump glued onto another word', () => {
+    expect(classifyText('VEILTRUMP').map((m) => m.metaId)).toContain('america-politics');
+  });
+
   it('counts the Claudia AI runner as AI agents', () => {
     expect(classifyText('Claudia').map((m) => m.metaId)).toContain('ai-agents');
   });
